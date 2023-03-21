@@ -1,0 +1,38 @@
+\documentclass[UTF8]{ctexbook}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{bm}
+
+\usepackage{graphicx}
+
+% 每章单独引用
+\usepackage[sectionbib, numbers]{natbib}
+\usepackage{chapterbib}
+%% Uncomment if you change the bibliography heading/title
+\renewcommand{\bibname}{参考文献}
+
+%% Uncomment if you want to include the bibliographies at the end of each chapter in the table of contents.  
+\usepackage[nottoc]{tocbibind}
+
+\title{联邦学习}
+\author{Heiko Ludwig, Nathalie Baracaldo}
+
+\begin{document}
+\maketitle
+
+\include{chapter/preface}
+
+\tableofcontents
+
+\include{chapter/chap01}
+
+\part{联邦学习视为一个机器学习问题}
+\include{chapter/chap02}
+
+\include{chapter/chap06}
+
+\include{chapter/chap19}
+
+\include{chapter/chap22}
+\end{document}
