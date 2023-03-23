@@ -11,9 +11,10 @@
 \usepackage{chapterbib}
 %% Uncomment if you change the bibliography heading/title
 \renewcommand{\bibname}{参考文献}
-
 %% Uncomment if you want to include the bibliographies at the end of each chapter in the table of contents.  
 \usepackage[nottoc]{tocbibind}
+
+\setcounter{secnumdepth}{3}
 
 \title{联邦学习}
 \author{Heiko Ludwig, Nathalie Baracaldo}
@@ -21,18 +22,19 @@
 \begin{document}
 \maketitle
 
-\include{chapter/preface}
+\include{chapter01/preface}
 
 \tableofcontents
 
-\include{chapter/chap01}
+\mainmatter
+\include{chapter01/chap01}
 
 \part{联邦学习视为一个机器学习问题}
-\include{chapter/chap02}
+\include{chapter01/chap02}
 
-\include{chapter/chap06}
+\include{chapter06/chap06}
 
-\include{chapter/chap19}
+\include{chapter01/chap19}
 
-\include{chapter/chap22}
+\include{chapter01/chap22}
 \end{document}
