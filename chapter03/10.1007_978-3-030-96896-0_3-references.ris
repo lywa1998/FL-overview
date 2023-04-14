@@ -1,0 +1,148 @@
+TY  - STD
+TI  - Devlin J, Chang M, Lee K, Toutanova K (2018) BERT: pre-training of deep bidirectional transformers for language understanding. CoRR abs/1810.04805, http://arxiv.org/abs/1810.04805,1810.04805
+UR  - http://arxiv.org/abs/1810.04805,1810.04805
+ID  - ref1
+ER  - 
+TY  - STD
+TI  - Frome A, Corrado GS, Shlens J, Bengio S, Dean J, Ranzato M, Mikolov T (2013) Devise: a deep visual-semantic embedding model. In: Advances in neural information processing systems, pp 2121–2129
+ID  - ref2
+ER  - 
+TY  - CHAP
+AU  - Grover, A.
+AU  - Leskovec, J.
+PY  - 2016
+DA  - 2016//
+TI  - Node2vec: scalable feature learning for networks
+BT  - Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining, KDD’16
+PB  - Association for Computing Machinery
+CY  - New York
+UR  - https://doi.org/10.1145/2939672.2939754
+DO  - 10.1145/2939672.2939754
+ID  - Grover2016
+ER  - 
+TY  - JOUR
+AU  - Hu, Y. C.
+AU  - Patel, M.
+AU  - Sabella, D.
+AU  - Sprecher, N.
+AU  - Young, V.
+PY  - 2015
+DA  - 2015//
+TI  - Mobile edge computing—a key technology towards 5G
+JO  - ETSI White Pap
+VL  - 11
+ID  - Hu2015
+ER  - 
+TY  - STD
+TI  - Kanerva P, Kristofersson J, Holst A (2000) Random indexing of text samples for latent semantic analysis. In: Proceedings of the 22nd annual conference of the cognitive science society, vol 1036. Erlbaum, New Jersey
+ID  - ref5
+ER  - 
+TY  - STD
+TI  - Uesaka Y, Kanerva P, Asoh H, Karlgren J, Sahlgren M (2001) From words to understanding. In: Foundations of real-world intelligence. CSLI Publications, p 294). chapter 26
+ID  - ref6
+ER  - 
+TY  - STD
+TI  - Le Q, Mikolov T (2014) Distributed representations of sentences and documents. In: International conference on machine learning, pp 1188–1196
+ID  - ref7
+ER  - 
+TY  - STD
+TI  - McMahan HB, Moore E, Ramage D, y Arcas BA (2016) Federated learning of deep networks using model averaging. CoRR abs/1602.05629. http://arxiv.org/abs/1602.05629,1602.05629
+UR  - http://arxiv.org/abs/1602.05629,1602.05629
+ID  - ref8
+ER  - 
+TY  - STD
+TI  - Mikolov T, Chen K, Corrado G, Dean J (2013) Efficient estimation of word representations in vector space. 1301.3781
+ID  - ref9
+ER  - 
+TY  - STD
+TI  - Norouzi M, Mikolov T, Bengio S, Singer Y, Shlens J, Frome A, Corrado G, Dean J (2014) Zero-shot learning by convex combination of semantic embeddings. In: Proceedings of 2nd international conference on learning representations
+ID  - ref10
+ER  - 
+TY  - STD
+TI  - Pennington J, Socher R, Manning CD (2014) GloVe: global vectors for word representation. In: Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP), pp 1532–1543
+ID  - ref11
+ER  - 
+TY  - STD
+TI  - Sahlgren M, Kanerva P (2008) Permutations as a means to encode order in word space. In: Cognitive science—COGSCI
+ID  - ref12
+ER  - 
+TY  - CHAP
+AU  - Salton, G.
+PY  - 1962
+DA  - 1962//
+TI  - Some experiments in the generation of word and document associations
+BT  - Proceedings of the fall joint computer conference, AFIPS’62 (Fall), 4–6 Dec 1962
+PB  - Association for Computing Machinery
+CY  - New York
+UR  - https://doi.org/10.1145/1461518.1461544
+DO  - 10.1145/1461518.1461544
+ID  - Salton1962
+ER  - 
+TY  - JOUR
+AU  - Salton, G.
+AU  - Wong, A.
+AU  - Yang, C. S.
+PY  - 1975
+DA  - 1975//
+TI  - A vector space model for automatic indexing
+JO  - Commun ACM
+VL  - 18
+UR  - https://doi.org/10.1145/361219.361220
+DO  - 10.1145/361219.361220
+ID  - Salton1975
+ER  - 
+TY  - JOUR
+AU  - Satyanarayanan, M.
+PY  - 2017
+DA  - 2017//
+TI  - The emergence of edge computing
+JO  - Computer
+VL  - 50
+UR  - https://doi.org/10.1109/MC.2017.9
+DO  - 10.1109/MC.2017.9
+ID  - Satyanarayanan2017
+ER  - 
+TY  - JOUR
+AU  - Wang, Q.
+AU  - Mao, Z.
+AU  - Wang, B.
+AU  - Guo, L.
+PY  - 2017
+DA  - 2017//
+TI  - Knowledge graph embedding: a survey of approaches and applications
+JO  - IEEE Trans Knowl Data Eng
+VL  - 29
+UR  - https://doi.org/10.1109/TKDE.2017.2754499
+DO  - 10.1109/TKDE.2017.2754499
+ID  - Wang2017
+ER  - 
+TY  - JOUR
+AU  - Yang, Q.
+AU  - Liu, Y.
+AU  - Chen, T.
+AU  - Tong, Y.
+PY  - 2019
+DA  - 2019//
+TI  - Federated machine learning: concept and applications
+JO  - ACM Trans Intell Syst Technol (TIST)
+VL  - 10
+UR  - https://doi.org/10.1145/3298981
+DO  - 10.1145/3298981
+ID  - Yang2019
+ER  - 
+TY  - JOUR
+AU  - Zhou, Z.
+AU  - Chen, X.
+AU  - Li, E.
+AU  - Zeng, L.
+AU  - Luo, K.
+AU  - Zhang, J.
+PY  - 2019
+DA  - 2019//
+TI  - Edge intelligence: paving the last mile of artificial intelligence with edge computing
+JO  - Proc IEEE
+VL  - 107
+UR  - https://doi.org/10.1109/JPROC.2019.2918951
+DO  - 10.1109/JPROC.2019.2918951
+ID  - Zhou2019
+ER  - 

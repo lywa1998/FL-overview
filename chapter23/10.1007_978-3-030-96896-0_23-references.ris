@@ -1,0 +1,111 @@
+TY  - STD
+TI  - Sheller MJ, Reina GA, Edwards B, Martin J, Bakas S (2018) Multi-institutional deep learning modeling without sharing patient data: a feasibility study on brain tumor segmentation. In: International MICCAI brain lesion workshop. Springer, pp 92–104
+ID  - ref1
+ER  - 
+TY  - STD
+TI  - Li W et al (2019) Privacy-preserving federated brain tumor segmentation. In: International workshop on machine learning in medical imaging. Springer, pp 133–141
+ID  - ref2
+ER  - 
+TY  - STD
+TI  - Medical Institutions Collaborate to Improve Mammogram Assessment AI (2020). https://blogs.nvidia.com/blog/2020/04/15/federated-learning-mammogram-assessment
+UR  - https://blogs.nvidia.com/blog/2020/04/15/federated-learning-mammogram-assessment
+ID  - ref3
+ER  - 
+TY  - STD
+TI  - HealthChain consortium (2020). https://www.substra.ai/en/healthchain-project
+UR  - https://www.substra.ai/en/healthchain-project
+ID  - ref4
+ER  - 
+TY  - STD
+TI  - Trustworthy federated data analytics (TFDA) (2020). https://tfda.hmsp.center/
+UR  - https://tfda.hmsp.center/
+ID  - ref5
+ER  - 
+TY  - STD
+TI  - The federated tumor segmentation (FETS) initiative (2020). https://www.fets.ai
+UR  - https://www.fets.ai
+ID  - ref6
+ER  - 
+TY  - STD
+TI  - Joint Imaging Platform (JIP) (2020). https://jip.dktk.dkfz.de/jiphomepage/
+UR  - https://jip.dktk.dkfz.de/jiphomepage/
+ID  - ref7
+ER  - 
+TY  - STD
+TI  - Liu D, Dligach D, Miller T (2019) Two-stage federated phenotyping and patient representation learning. In: Proceedings of the 18th BioNLP workshop and shared task. Association for Computational Linguistics, Florence, pp 283–291
+ID  - ref8
+ER  - 
+TY  - JOUR
+AU  - Lee, J.
+AU  - Sun, J.
+AU  - Wang, F.
+AU  - Wang, S.
+AU  - Jun, C. H.
+AU  - Jiang, X.
+PY  - 2018
+DA  - 2018//
+TI  - Privacy-preserving patient similarity learning in a federated environment: development and analysis
+JO  - JMIR Med Inform
+VL  - 6
+UR  - https://doi.org/10.2196/medinform.7744
+DO  - 10.2196/medinform.7744
+ID  - Lee2018
+ER  - 
+TY  - STD
+TI  - Machine learning ledger orchestration for drug discovery (2022). https://www.melloddy.eu
+UR  - https://www.melloddy.eu
+ID  - ref10
+ER  - 
+TY  - JOUR
+AU  - Chen, S.
+PY  - 2020
+DA  - 2020//
+TI  - FL-QSAR: a Federated Learning-based QSAR prototype for collaborative drug discovery
+JO  - Bioinformatics
+VL  - 36
+UR  - https://doi.org/10.1093/bioinformatics/btaa1006
+DO  - 10.1093/bioinformatics/btaa1006
+ID  - Chen2020
+ER  - 
+TY  - STD
+TI  - FHIR—Fast Healthcare Interoperability Resources (2022). https://www.hl7.org/fhir
+UR  - https://www.hl7.org/fhir
+ID  - ref12
+ER  - 
+TY  - STD
+TI  - Yu et al (2020) Fed+: a family of fusion algorithms for federated learning
+ID  - ref13
+ER  - 
+TY  - STD
+TI  - Andreux M et al (2020) Siloed federated learning for multi-centric histopathology datasets. In: MICCAI 2020 DCL workshop
+ID  - ref14
+ER  - 
+TY  - JOUR
+AU  - Drungilas, V.
+PY  - 2021
+DA  - 2021//
+TI  - Towards blockchain-based federated machine learning: smart contract for model inference
+JO  - Appl Sci
+VL  - 11
+UR  - https://doi.org/10.3390/app11031010
+DO  - 10.3390/app11031010
+ID  - Drungilas2021
+ER  - 
+TY  - STD
+TI  - Ma C et al (2020) When federated learning meets blockchain: a new distributed learning paradigm
+ID  - ref16
+ER  - 
+TY  - STD
+TI  - Trustless federated learning (2020). https://www.scaleoutsystems.com/ai-blockchain
+UR  - https://www.scaleoutsystems.com/ai-blockchain
+ID  - ref17
+ER  - 
+TY  - STD
+TI  - Baracaldo N et al (2019) A hybrid approach to privacy-preserving federated learning. In: AISec’19: proceedings of the 12th ACM workshop on artificial intelligence and security, pp 1–11
+ID  - ref18
+ER  - 
+TY  - STD
+TI  - Ping An: Security Technology Reduces Data Silos (2020). https://www.intel.in/content/www/in/en/customer-spotlight/stories/ping-an-sgx-customer-story.html
+UR  - https://www.intel.in/content/www/in/en/customer-spotlight/stories/ping-an-sgx-customer-story.html
+ID  - ref19
+ER  - 

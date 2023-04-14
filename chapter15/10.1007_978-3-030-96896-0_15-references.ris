@@ -1,0 +1,196 @@
+TY  - STD
+TI  - Beguier C, Tramel EW (2020) SAFER: Sparse secure aggregation for federated learning. arXiv, eprint:200714861
+ID  - ref1
+ER  - 
+TY  - STD
+TI  - Chen T, Jin X, Sun Y, Yin W (2020) VAFL: a method of vertical asynchronous federated learning. In: International workshop on federated learning for user privacy and data confidentiality in conjunction with ICML
+ID  - ref2
+ER  - 
+TY  - STD
+TI  - Cheng K, Fan T, Jin Y, Liu Y, Chen T, Yang Q (2019) Secureboost: A lossless federated learning framework. arXiv, eprint:190108755
+ID  - ref3
+ER  - 
+TY  - STD
+TI  - Dwork C, Smith A, Steinke T, Ullman J, Vadhan S (2015) Robust traceability from trace amounts. In: 2015 IEEE 56th annual symposium on foundations of computer science, USA, pp 650–669
+ID  - ref4
+ER  - 
+TY  - STD
+TI  - Fan L, Ng K, Ju C, Zhang T, Liu C, Chan CS, Yang Q (2020) Rethinking privacy preserving deep learning: How to evaluate and thwart privacy attacks. arXiv, eprint:200611601
+ID  - ref5
+ER  - 
+TY  - STD
+TI  - Fredrikson M, Jha S, Ristenpart T (2015) Model inversion attacks that exploit confidence information and basic countermeasures. In: Proceedings of the 22nd ACM SIGSAC conference on computer and communications security. Association for Computing Machinery, New York, NY, pp 1322–1333
+ID  - ref6
+ER  - 
+TY  - JOUR
+AU  - Geiping, J.
+AU  - Bauermeister, H.
+AU  - Dröge, H.
+AU  - Moeller, M.
+PY  - 2020
+DA  - 2020//
+TI  - Inverting gradients - how easy is it to break privacy in federated learning?
+JO  - Advances in neural information processing systems, vol
+VL  - 33
+ID  - Geiping2020
+ER  - 
+TY  - BOOK
+AU  - Gonzalez, R. C.
+AU  - Woods, R. E.
+PY  - 1992
+DA  - 1992//
+TI  - Digital image processing
+PB  - Addison-Wesley
+CY  - New York
+ID  - Gonzalez1992
+ER  - 
+TY  - STD
+TI  - Guerraoui R, Gupta N, Pinot R, Rouault S, Stephan J (2021) Differential privacy and byzantine resilience in SGD: Do they add up? arXiv, eprint:210208166
+ID  - ref9
+ER  - 
+TY  - STD
+TI  - Guo S, Zhang T, Xiang T, Liu Y (2020) Differentially private decentralized learning. arXiv, eprint:200607817
+ID  - ref10
+ER  - 
+TY  - STD
+TI  - Hitaj B, Ateniese G, Pérez-Cruz F (2017) Deep models under the GAN: information leakage from collaborative deep learning. arXiv, eprint:170207464
+ID  - ref11
+ER  - 
+TY  - STD
+TI  - Huang Y, Song Z, Chen D, Li K, Arora S (2020) TextHide: Tackling data privacy in language understanding tasks. In: The conference on empirical methods in natural language processing
+ID  - ref12
+ER  - 
+TY  - STD
+TI  - Huang Y, Su Y, Ravi S, Song Z, Arora S, Li K (2020) Privacy-preserving learning via deep net pruning. arXiv, eprint:200301876
+ID  - ref13
+ER  - 
+TY  - CHAP
+AU  - Li, Z.
+AU  - Huang, Z.
+AU  - Chen, C.
+AU  - Hong, C.
+PY  - 2019
+DA  - 2019//
+TI  - Quantification of the leakage in federated learning
+BT  - International workshop on federated learning for user privacy and data confidentiality. West
+PB  - Vancouver Convention Center
+CY  - Vancouver
+ID  - Li2019
+ER  - 
+TY  - STD
+TI  - Li O, Sun J, Yang X, Gao W, Zhang H, Xie J, Smith V, Wang C (2021) Label leakage and protection in two-party split learning. arXiv, eprint:210208504
+ID  - ref15
+ER  - 
+TY  - CHAP
+AU  - Liang, G.
+AU  - Chawathe, S. S.
+PY  - 2004
+DA  - 2004//
+TI  - Privacy-preserving inter-database operations
+BT  - 2nd Symposium on intelligence and security informatics (ISI 2004)
+PB  - Heidelberg
+CY  - Berlin
+UR  - https://doi.org/10.1007/978-3-540-25952-7_6
+DO  - 10.1007/978-3-540-25952-7_6
+ID  - Liang2004
+ER  - 
+TY  - STD
+TI  - Liu R, Cao Y, Yoshikawa M, Chen H (2020) FedSel: Federated SGD under local differential privacy with top-k dimension selection. arXiv, eprint:200310637
+ID  - ref17
+ER  - 
+TY  - STD
+TI  - Liu Y, Kang Y, Zhang X, Li L, Cheng Y, Chen T, Hong M, Yang Q (2020) A communication efficient vertical federated learning framework. arXiv, eprint:191211187
+ID  - ref18
+ER  - 
+TY  - STD
+TI  - Long Y, Bindschaedler V, Wang L, Bu D, Wang X, Tang H, Gunter CA, Chen K (2018) Understanding membership inferences on well-generalized learning models. arXiv, eprint:180204889
+ID  - ref19
+ER  - 
+TY  - STD
+TI  - Lyu L, Yu H, Ma X, Sun L, Zhao J, Yang Q, Yu PS (2020) Privacy and robustness in federated learning: Attacks and defenses. arXiv, eprint:201206337
+ID  - ref20
+ER  - 
+TY  - STD
+TI  - McMahan HB, Moore E, Ramage D, y Arcas BA (2016) Federated learning of deep networks using model averaging. arXiv, eprint:160205629
+ID  - ref21
+ER  - 
+TY  - STD
+TI  - Melis L, Song C, Cristofaro ED, Shmatikov V (2018) Inference attacks against collaborative learning. In: Proceedings of the 35th annual computer security applications conference. Association for Computing Machinery, New York, NY, pp 148–162
+ID  - ref22
+ER  - 
+TY  - STD
+TI  - Niu C, Wu F, Tang S, Hua L, Jia R, Lv C, Wu Z, Chen G (2019) Secure federated submodel learning. arXiv, eprint:191102254
+ID  - ref23
+ER  - 
+TY  - STD
+TI  - Pan X, Zhang M, Yan Y, Zhu J, Yang M (2020) Theory-oriented deep leakage from gradients via linear equation solver. arXiv, eprint:201013356
+ID  - ref24
+ER  - 
+TY  - STD
+TI  - Qian J, Nassar H, Hansen LK (2021) On the limits to learning input data from gradients. arXiv, eprint:201015718
+ID  - ref25
+ER  - 
+TY  - STD
+TI  - Scannapieco M, Figotin I, Bertino E, Elmagarmid A (2007) Privacy preserving schema and data matching. In: Proceedings of the ACM SIGMOD international conference on management of data, Beijing, pp 653–664
+ID  - ref26
+ER  - 
+TY  - STD
+TI  - Shokri R, Shmatikov V (2015) Privacy-preserving deep learning. In: Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications Security, Association for Computing Machinery, New York, NY, CCS ’15, pp 1310–1321
+ID  - ref27
+ER  - 
+TY  - STD
+TI  - Shokri R, Stronati M, Song C, Shmatikov V (2017) Membership inference attacks against machine learning models. In: 2017 IEEE symposium on security and privacy (SP), pp 3–18
+ID  - ref28
+ER  - 
+TY  - STD
+TI  - So J, Guler B, Avestimehr AS (2021) Byzantine-resilient secure federated learning. arXiv, eprint:200711115
+ID  - ref29
+ER  - 
+TY  - STD
+TI  - So J, Guler B, Avestimehr AS (2021) Turbo-aggregate: Breaking the quadratic aggregation barrier in secure federated learning. arXiv, eprint:200204156
+ID  - ref30
+ER  - 
+TY  - STD
+TI  - Sun L, Lyu L (2020) Federated model distillation with noise-free differential privacy. arXiv, eprint:200905537
+ID  - ref31
+ER  - 
+TY  - STD
+TI  - Sun J, Li A, Wang B, Yang H, Li H, Chen Y (2020) Provable defense against privacy leakage in federated learning from representation perspective. arXiv, eprint:201206043
+ID  - ref32
+ER  - 
+TY  - BOOK
+AU  - Trefethen, L. N.
+AU  - Bau, D.
+PY  - 1997
+DA  - 1997//
+TI  - Numerical linear algebra
+PB  - SIAM
+CY  - Philadelphia
+UR  - https://doi.org/10.1137/1.9780898719574
+DO  - 10.1137/1.9780898719574
+ID  - Trefethen1997
+ER  - 
+TY  - STD
+TI  - Wei W, Liu L, Loper M, Chow KH, Gursoy ME, Truex S, Wu Y (2020) A framework for evaluating gradient leakage attacks in federated learning. arXiv, eprint:200410397
+ID  - ref34
+ER  - 
+TY  - STD
+TI  - Wei K, Li J, Ding M, Ma C, Su H, Zhang B, Poor HV (2021) User-level privacy-preserving federated learning: Analysis and performance optimization. arXiv, eprint:200300229
+ID  - ref35
+ER  - 
+TY  - STD
+TI  - Yang Q, Liu Y, Chen T, Tong Y (2019) Federated machine learning: Concept and applications, vol 10. Association for Computing Machinery, New York, NY
+ID  - ref36
+ER  - 
+TY  - STD
+TI  - Zhao B, Mopuri KR, Bilen H (2020) iDLG: Improved deep leakage from gradients. arXiv, eprint:200102610
+ID  - ref37
+ER  - 
+TY  - STD
+TI  - Zhu J, Blaschko MB (2021) R-GAP: Recursive gradient attack on privacy. In: International conference on learning representations
+ID  - ref38
+ER  - 
+TY  - STD
+TI  - Zhu L, Liu Z, Han S (2019) Deep leakage from gradients. In: Advances in neural information processing systems, Vancouver, pp 14774–14784
+ID  - ref39
+ER  - 

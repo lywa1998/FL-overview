@@ -1,0 +1,344 @@
+TY  - STD
+TI  - Abadi M, Chu A, Goodfellow I, McMahan HB, Mironov I, Talwar K, Zhang L (2016) Deep learning with differential privacy. In: Proceedings of the 2016 ACM SIGSAC conference on computer and communications security, association for computing machinery, New York, NY, CCS ’16, pp 308–318
+ID  - ref1
+ER  - 
+TY  - STD
+TI  - Agarwal N, Suresh AT, Yu FXX, Kumar S, McMahan B (2018) cpSGD: Communication-efficient and differentially-private distributed SGD. In: NeurIPS 2018
+ID  - ref2
+ER  - 
+TY  - STD
+TI  - Aono Y, Hayashi T, Trieu Phong L, Wang L (2016) Scalable and secure logistic regression via homomorphic encryption. In: Proceedings of the Sixth ACM conference on data and application security and privacy. Association for Computing Machinery, New York, NY, CODASPY ’16, pp 142–144
+ID  - ref3
+ER  - 
+TY  - STD
+TI  - Bonawitz K, Eichner H, Grieskamp W, Huba D, Ingerman A, Ivanov V, Kiddon C, Konečnỳ J, Mazzocchi S, McMahan HB et al (2019) Towards federated learning at scale: System design. Preprint. arXiv:190201046
+ID  - ref4
+ER  - 
+TY  - BOOK
+AU  - Bottou, L.
+PY  - 1998
+DA  - 1998//
+TI  - On-line learning and stochastic approximations
+PB  - On-line learning in neural networks. Cambridge University Press, New York
+CY  - In
+ID  - Bottou1998
+ER  - 
+TY  - JOUR
+AU  - Chen, Y.
+AU  - Luo, F.
+AU  - Li, T.
+AU  - Xiang, T.
+AU  - Liu, Z.
+AU  - Li, J.
+PY  - 2020
+DA  - 2020//
+TI  - A training-integrity privacy-preserving federated learning scheme with trusted execution environment
+JO  - Inf Sci
+VL  - 522
+UR  - https://doi.org/10.1016/j.ins.2020.02.037
+DO  - 10.1016/j.ins.2020.02.037
+ID  - Chen2020
+ER  - 
+TY  - STD
+TI  - Cheng P, Eykholt K, Gu Z, Jamjoom H, Jayaram KR, Valdez E, Verma A (2021) Separation of powers in federated learning. CoRR abs/2105.09400. https://arxiv.org/abs/2105.09400, http://2105.09400
+UR  - https://arxiv.org/abs/2105.09400
+ID  - ref7
+ER  - 
+TY  - BOOK
+AU  - Cramer, R.
+AU  - Damgrd, I. B.
+AU  - Nielsen, J. B.
+PY  - 2015
+DA  - 2015//
+TI  - Secure multiparty computation and secret sharing
+PB  - Cambridge University Press
+CY  - Cambridge
+UR  - https://doi.org/10.1017/CBO9781107337756
+DO  - 10.1017/CBO9781107337756
+ID  - Cramer2015
+ER  - 
+TY  - STD
+TI  - Dai W, Sunar B (2016) cuHE: A homomorphic encryption accelerator library. In: Cryptography and information security in the Balkans. Springer International Publishing
+ID  - ref9
+ER  - 
+TY  - CHAP
+AU  - Damgård, I.
+AU  - Pastro, V.
+AU  - Smart, N.
+AU  - Zakarias, S.
+PY  - 2012
+DA  - 2012//
+TI  - Multiparty computation from somewhat homomorphic encryption
+BT  - Proceedings of the 32nd annual cryptology conference on advances in cryptology — CRYPTO 2012 - Volume 7417
+PB  - Springer-Verlag
+CY  - Berlin, Heidelberg
+ID  - Damgård2012
+ER  - 
+TY  - STD
+TI  - Data61 C (2020) Multi-Protocol SPDZ. https://github.com/data61/MP-SPDZ
+UR  - https://github.com/data61/MP-SPDZ
+ID  - ref11
+ER  - 
+TY  - JOUR
+AU  - Dwork, C.
+AU  - Roth, A.
+PY  - 2014
+DA  - 2014//
+TI  - The algorithmic foundations of differential privacy
+JO  - Found Trends Theor Comput Sci
+VL  - 9
+ID  - Dwork2014
+ER  - 
+TY  - JOUR
+AU  - Evans, D.
+AU  - Kolesnikov, V.
+AU  - Rosulek, M.
+PY  - 2018
+DA  - 2018//
+TI  - A pragmatic introduction to secure multi-party computation
+JO  - Found Trends Privacy Secur
+VL  - 2
+UR  - https://doi.org/10.1561/3300000019
+DO  - 10.1561/3300000019
+ID  - Evans2018
+ER  - 
+TY  - STD
+TI  - Fredrikson M, Lantz E, Jha S, Lin S, Page D, Ristenpart T (2014) Privacy in pharmacogenetics: An end-to-end case study of personalized warfarin dosing. In: 23rd USENIX security symposium (USENIX Security 14). USENIX Association, San Diego, CA, pp 17–32. https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/fredrikson_matthew
+UR  - https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/fredrikson_matthew
+ID  - ref14
+ER  - 
+TY  - STD
+TI  - Fredrikson M, Jha S, Ristenpart T (2015) Model inversion attacks that exploit confidence information and basic countermeasures. In: Proceedings of the 22nd ACM SIGSAC conference on computer and communications security. Association for Computing Machinery, New York, NY, CCS ’15, pp 1322–1333
+ID  - ref15
+ER  - 
+TY  - CHAP
+AU  - Garg, S.
+AU  - Sahai, A.
+ED  - Safavi-Naini, R.
+ED  - Canetti, R.
+PY  - 2012
+DA  - 2012//
+TI  - Adaptively secure multi-party computation with dishonest majority
+BT  - Advances in Cryptology – CRYPTO 2012
+PB  - Springer
+CY  - Berlin Heidelberg, Berlin, Heidelberg
+UR  - https://doi.org/10.1007/978-3-642-32009-5_8
+DO  - 10.1007/978-3-642-32009-5_8
+ID  - Garg2012
+ER  - 
+TY  - STD
+TI  - Geiping J, Bauermeister H, Dröge H, Moeller M (2020) Inverting gradients–how easy is it to break privacy in federated learning? Preprint. arXiv:200314053
+ID  - ref17
+ER  - 
+TY  - JOUR
+AU  - Gentry, C.
+PY  - 2010
+DA  - 2010//
+TI  - Computing arbitrary functions of encrypted data
+JO  - Commun ACM
+VL  - 53
+UR  - https://doi.org/10.1145/1666420.1666444
+DO  - 10.1145/1666420.1666444
+ID  - Gentry2010
+ER  - 
+TY  - STD
+TI  - He K, Zhang X, Ren S, Sun J (2016) Deep residual learning for image recognition. In: 2016 IEEE conference on computer vision and pattern recognition (CVPR), pp 770–778
+ID  - ref19
+ER  - 
+TY  - STD
+TI  - Jayaram KR, Verma A, Verma A, Thomas G, Sutcher-Shepard C (2020) Mystiko: Cloud-mediated, private, federated gradient descent. In: 2020 IEEE 13th international conference on cloud computing (CLOUD). IEEE Computer Society, Los Alamitos, CA, pp 201–210
+ID  - ref20
+ER  - 
+TY  - STD
+TI  - Jayaraman B, Evans D (2019) Evaluating differentially private machine learning in practice. In: 28th USENIX Security Symposium (USENIX Security 19), USENIX Association, Santa Clara, CA, pp 1895–1912. https://www.usenix.org/conference/usenixsecurity19/presentation/jayaraman
+UR  - https://www.usenix.org/conference/usenixsecurity19/presentation/jayaraman
+ID  - ref21
+ER  - 
+TY  - STD
+TI  - Jost C, Lam H, Maximov A, Smeets BJM (2015) Encryption performance improvements of the paillier cryptosystem. IACR Cryptology ePrint Archive. https://eprint.iacr.org/2015/864
+UR  - https://eprint.iacr.org/2015/864
+ID  - ref22
+ER  - 
+TY  - STD
+TI  - Kairouz P, McMahan HB, Avent B, Bellet A, Bennis M, Bhagoji AN, Bonawitz K, Charles Z, Cormode G, Cummings R et al (2019) Advances and open problems in federated learning. Preprint. arXiv:191204977
+ID  - ref23
+ER  - 
+TY  - STD
+TI  - Karger D, Lehman E, Leighton T, Panigrahy R, Levine M, Lewin D (1997) Consistent hashing and random trees: Distributed caching protocols for relieving hot spots on the world wide web. In: Proceedings of the twenty-ninth annual ACM symposium on theory of computing. Association for Computing Machinery, New York, NY, STOC ’97, pp 654–663
+ID  - ref24
+ER  - 
+TY  - STD
+TI  - Keller M, Yanai A (2018) Efficient maliciously secure multiparty computation for ram. In: EUROCRYPT (3). Springer, pp 91–124. https://doi.org/10.1007/978-3-319-78372-7_4
+UR  - https://doi.org/10.1007/978-3-319-78372-7_4
+ID  - ref25
+ER  - 
+TY  - CHAP
+AU  - Keller, M.
+AU  - Pastro, V.
+AU  - Rotaru, D.
+ED  - Nielsen, J. B.
+ED  - Rijmen, V.
+PY  - 2018
+DA  - 2018//
+TI  - Overdrive: Making SPDZ great again
+BT  - Advances in cryptology – EUROCRYPT 2018
+PB  - Springer International Publishing
+CY  - Cham
+UR  - https://doi.org/10.1007/978-3-319-78372-7_6
+DO  - 10.1007/978-3-319-78372-7_6
+ID  - Keller2018
+ER  - 
+TY  - STD
+TI  - Krizhevsky A (2009) Learning multiple layers of features from tiny images. https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf, https://www.cs.toronto.edu/~kriz/cifar.html
+UR  - https://www.cs.toronto.edu/%7Ekriz/cifar.html
+ID  - ref27
+ER  - 
+TY  - BOOK
+AU  - Kumar, V.
+AU  - Grama, A.
+AU  - Gupta, A.
+AU  - Karypis, G.
+PY  - 1994
+DA  - 1994//
+TI  - Introduction to parallel computing: design and analysis of algorithms
+PB  - Benjamin-Cummings Publishing
+CY  - California
+ID  - Kumar1994
+ER  - 
+TY  - JOUR
+AU  - Lecun, Y.
+AU  - Bengio, Y.
+AU  - Hinton, G.
+PY  - 2015
+DA  - 2015//
+TI  - Deep learning
+JO  - Nat Cell Biol
+VL  - 521
+ID  - Lecun2015
+ER  - 
+TY  - CHAP
+AU  - Lee, J.
+AU  - Clifton, C.
+ED  - Lai, X.
+ED  - Zhou, J.
+ED  - Li, H.
+PY  - 2011
+DA  - 2011//
+TI  - How much is enough? choosing 𝜖 for differential privacy
+BT  - Information security
+PB  - Springer
+CY  - Berlin Heidelberg, Berlin, Heidelberg
+UR  - https://doi.org/10.1007/978-3-642-24861-0_22
+DO  - 10.1007/978-3-642-24861-0_22
+ID  - Lee2011
+ER  - 
+TY  - STD
+TI  - Marr B (2018) 27 Incredible examples of AI and machine learning in practice. Forbes Magazine
+ID  - ref31
+ER  - 
+TY  - STD
+TI  - McMahan HB, Andrew G (2018) A general approach to adding differential privacy to iterative training procedures. CoRR abs/1812.06210. http://arxiv.org/abs/1812.06210
+UR  - http://arxiv.org/abs/1812.06210
+ID  - ref32
+ER  - 
+TY  - STD
+TI  - Melis L, Song C, De Cristofaro E, Shmatikov V (2019) Exploiting unintended feature leakage in collaborative learning. In: 2019 IEEE symposium on security and privacy. IEEE, pp 691–706
+ID  - ref33
+ER  - 
+TY  - BOOK
+AU  - Millard, C.
+PY  - 2013
+DA  - 2013//
+TI  - Cloud computing law
+PB  - Oxford University Press
+CY  - Oxford University Press
+UR  - https://doi.org/10.1093/acprof:oso/9780199671670.001.0001
+DO  - 10.1093/acprof:oso/9780199671670.001.0001
+ID  - Millard2013
+ER  - 
+TY  - STD
+TI  - Mironov I (2017) Rényi differential privacy. In: 2017 IEEE 30th computer security foundations symposium (CSF), pp 263–275
+ID  - ref35
+ER  - 
+TY  - STD
+TI  - Mo F, Haddadi H, Katevas K, Marin E, Perino D, Kourtellis N (2021) PPFL: Privacy-preserving federated learning with trusted execution environments. In: Proceedings of the 19th annual international conference on mobile systems, applications, and services. Association for Computing Machinery, New York, NY, MobiSys ’21, pp 94–108
+ID  - ref36
+ER  - 
+TY  - STD
+TI  - Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andrew Y. Ng Reading digits in natural images with unsupervised feature learning NIPS workshop on deep learning and unsupervised feature learning 2011
+ID  - ref37
+ER  - 
+TY  - JOUR
+AU  - Phong, L. T.
+AU  - Aono, Y.
+AU  - Hayashi, T.
+AU  - Wang, L.
+AU  - Moriai, S.
+PY  - 2018
+DA  - 2018//
+TI  - Privacy-preserving deep learning via additively homomorphic encryption
+JO  - Trans Inf Forens Secur
+VL  - 13
+UR  - https://doi.org/10.1109/TIFS.2017.2787987
+DO  - 10.1109/TIFS.2017.2787987
+ID  - Phong2018
+ER  - 
+TY  - STD
+TI  - Rescorla E (2018) The transport layer security (TLS) protocol version 1.3. RFC 8446
+ID  - ref39
+ER  - 
+TY  - STD
+TI  - Sabt M, Achemlal M, Bouabdallah A (2015) Trusted execution environment: What it is, and what it is not. In: 2015 IEEE Trustcom/BigDataSE/ISPA, vol 1, pp 57–64. https://doi.org/10.1109/Trustcom.2015.357
+ID  - ref40
+ER  - 
+TY  - STD
+TI  - Shokri R, Shmatikov V (2015) Privacy-preserving deep learning. In: ACM CCS ’15
+ID  - ref41
+ER  - 
+TY  - STD
+TI  - Shokri R, Stronati M, Song C, Shmatikov V (2017) Membership inference attacks against machine learning models. In: 2017 IEEE symposium on security and privacy (SP), pp 3–18
+ID  - ref42
+ER  - 
+TY  - STD
+TI  - Song S, Chaudhuri K, Sarwate A (2013) Stochastic gradient descent with differentially private updates. In: 2013 IEEE global conference on signal and information processing, GlobalSIP 2013 - Proceedings, 2013 IEEE global conference on signal and information processing, GlobalSIP 2013 - Proceedings, pp 245–248
+ID  - ref43
+ER  - 
+TY  - BOOK
+AU  - Stallings, W.
+PY  - 2013
+DA  - 2013//
+TI  - Cryptography and network security: principles and practice
+PB  - Prentice Hall Press
+CY  - Upper Saddle River
+ID  - Stallings2013
+ER  - 
+TY  - STD
+TI  - Truex S, Baracaldo N, Anwar A, Steinke T, Ludwig H, Zhang R, Zhou Y (2019) A hybrid approach to privacy-preserving federated learning. In: Proceedings of the 12th ACM workshop on artificial intelligence and security. Association for Computing Machinery, New York, NY, AISec’19, pp 1–11
+ID  - ref45
+ER  - 
+TY  - STD
+TI  - Volos S, Vaswani K, Bruno R (2018) Graviton: Trusted execution environments on GPUs. In: 13th USENIX symposium on operating systems design and implementation (OSDI 18). USENIX Association, Carlsbad, CA, pp 681–696. https://www.usenix.org/conference/osdi18/presentation/volos
+UR  - https://www.usenix.org/conference/osdi18/presentation/volos
+ID  - ref46
+ER  - 
+TY  - STD
+TI  - Xu R, Baracaldo N, Zhou Y, Anwar A, Ludwig H (2019) Hybridalpha: An efficient approach for privacy-preserving federated learning. In: Proceedings of the 12th ACM workshop on artificial intelligence and security. Association for Computing Machinery, New York, NY, AISec’19, pp 13–23. https://doi.org/10.1145/3338501.3357371
+UR  - https://doi.org/10.1145/3338501.3357371
+ID  - ref47
+ER  - 
+TY  - STD
+TI  - Yin H, Mallya A, Vahdat A, Alvarez JM, Kautz J, Molchanov P (2021) See through gradients: Image batch recovery via GradInversion. Preprint. arXiv:210407586
+ID  - ref48
+ER  - 
+TY  - STD
+TI  - Zhang X, Li F, Zhang Z, Li Q, Wang C, Wu J (2020) Enabling execution assurance of federated learning at untrusted participants. In: IEEE INFOCOM 2020 - IEEE conference on computer communications, pp 1877–1886
+ID  - ref49
+ER  - 
+TY  - STD
+TI  - Zhao B, Mopuri KR, Bilen H (2020) iDLG: Improved deep leakage from gradients. Preprint. arXiv:200102610
+ID  - ref50
+ER  - 
+TY  - STD
+TI  - Zhu L, Liu Z, Han S (2019) Deep leakage from gradients. In: Advances in neural information processing systems, pp 14774–14784
+ID  - ref51
+ER  - 

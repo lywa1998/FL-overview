@@ -1,0 +1,162 @@
+TY  - JOUR
+AU  - Almahdi, S.
+AU  - Yang, S. Y.
+PY  - 2017
+DA  - 2017//
+TI  - An adaptive portfolio trading system: a risk-return portfolio optimization using recurrent reinforcement learning with expected maximum drawdown
+JO  - Expert Syst Appl
+VL  - 87
+UR  - https://doi.org/10.1016/j.eswa.2017.06.023
+DO  - 10.1016/j.eswa.2017.06.023
+ID  - Almahdi2017
+ER  - 
+TY  - JOUR
+AU  - Begleiter, R.
+AU  - El-Yaniv, R.
+AU  - Yona, G.
+PY  - 2004
+DA  - 2004//
+TI  - On prediction using variable order Markov models
+JO  - J Artif Intell Res
+VL  - 22
+UR  - https://doi.org/10.1613/jair.1491
+DO  - 10.1613/jair.1491
+ID  - Begleiter2004
+ER  - 
+TY  - JOUR
+AU  - Berndt, D. J.
+AU  - Clifford, J.
+PY  - 1994
+DA  - 1994//
+TI  - Using dynamic time warping to find patterns in time series
+JO  - KDD workshop, Seattle, vol
+VL  - 10
+ID  - Berndt1994
+ER  - 
+TY  - JOUR
+AU  - Black, F.
+AU  - Scholes, M.
+PY  - 1973
+DA  - 1973//
+TI  - The pricing of options and corporate liabilities
+JO  - J Polit Econ
+VL  - 81
+UR  - https://doi.org/10.1086/260062
+DO  - 10.1086/260062
+ID  - Black1973
+ER  - 
+TY  - JOUR
+AU  - Buehler, H.
+AU  - Gonon, L.
+AU  - Teichmann, J.
+AU  - Wood, B.
+PY  - 2019
+DA  - 2019//
+TI  - Deep hedging
+JO  - Quant Financ
+VL  - 19
+UR  - https://doi.org/10.1080/14697688.2019.1571683
+DO  - 10.1080/14697688.2019.1571683
+ID  - Buehler2019
+ER  - 
+TY  - STD
+TI  - Goodfellow I, Pouget-Abadie J, Mirza M, Xu B, Warde-Farley D, Ozair S, Courville A, Bengio Y (2014) Generative adversarial nets. In: Advances in neural information processing systems, pp 2672–2680
+ID  - ref6
+ER  - 
+TY  - STD
+TI  - Haugen RA, Haugen RA (2001) Modern investment theory, vol 5. Prentice Hall, Upper Saddle River
+ID  - ref7
+ER  - 
+TY  - STD
+TI  - Jiang Z, Xu D, Liang J (2017) A deep reinforcement learning framework for the financial portfolio management problem. arXiv preprint arXiv:170610059
+ID  - ref8
+ER  - 
+TY  - CHAP
+AU  - Kariya, T.
+AU  - Liu, R. Y.
+PY  - 2003
+DA  - 2003//
+TI  - Options, futures and other derivatives
+BT  - Asset pricing
+PB  - Springer
+CY  - Boston, MA
+UR  - https://doi.org/10.1007/978-1-4419-9230-7_2
+DO  - 10.1007/978-1-4419-9230-7_2
+ID  - Kariya2003
+ER  - 
+TY  - STD
+TI  - Krizhevsky A, Sutskever I, Hinton GE (2012) Imagenet classification with deep convolutional neural networks. In: Advances in neural information processing systems, pp 1097–1105
+ID  - ref10
+ER  - 
+TY  - JOUR
+AU  - Li, T.
+AU  - Sahu, A. K.
+AU  - Zaheer, M.
+AU  - Sanjabi, M.
+AU  - Talwalkar, A.
+AU  - Smith, V.
+PY  - 2020
+DA  - 2020//
+TI  - Federated optimization in heterogeneous networks
+JO  - Proc Mach Learn Syst
+VL  - 2
+ID  - Li2020
+ER  - 
+TY  - BOOK
+AU  - Markowitz, H.
+PY  - 1959
+DA  - 1959//
+TI  - Portfolio selection: efficient diversification of investments
+PB  - Wiley
+CY  - New York
+ID  - Markowitz1959
+ER  - 
+TY  - STD
+TI  - McMahan B, Moore E, Ramage D, Hampson S, y Arcas BA (2017) Communication-efficient learning of deep networks from decentralized data. In: Artificial intelligence and statistics. PMLR, pp 1273–1282
+ID  - ref13
+ER  - 
+TY  - STD
+TI  - Pillutla K, Kakade SM, Harchaoui Z (2019) Robust aggregation for federated learning. arXiv preprint arXiv:191213445
+ID  - ref14
+ER  - 
+TY  - JOUR
+AU  - Sharpe, W. F.
+PY  - 1966
+DA  - 1966//
+TI  - Mutual fund performance
+JO  - J Bus
+VL  - 39
+UR  - https://doi.org/10.1086/294846
+DO  - 10.1086/294846
+ID  - Sharpe1966
+ER  - 
+TY  - STD
+TI  - Silver D, Lever G, Heess N, Degris T, Wierstra D, Riedmiller M (2014) Deterministic policy gradient algorithms. In: Proceedings of the 31st international conference on international conference on machine learning – JMLR.org, ICML’14, vol 32, pp I–387–I–395
+ID  - ref16
+ER  - 
+TY  - STD
+TI  - Sutton RS, McAllester DA, Singh SP, Mansour Y (2000) Policy gradient methods for reinforcement learning with function approximation. In: Advances in neural information processing systems, pp 1057–1063
+ID  - ref17
+ER  - 
+TY  - JOUR
+AU  - Ye, Y.
+AU  - Pei, H.
+AU  - Wang, B.
+AU  - Chen, P. Y.
+AU  - Zhu, Y.
+AU  - Xiao, J.
+AU  - Li, B.
+PY  - 2020
+DA  - 2020//
+TI  - Reinforcement-learning based portfolio management with augmented asset movement prediction states
+JO  - Proceedings of the AAAI conference on artificial intelligence, vol
+VL  - 34
+UR  - https://doi.org/10.1609/aaai.v34i01.5462
+DO  - 10.1609/aaai.v34i01.5462
+ID  - Ye2020
+ER  - 
+TY  - STD
+TI  - Yin D, Chen Y, Kannan R, Bartlett P (2018) Byzantine-robust distributed learning: towards optimal statistical rates. PMLR, Stockholmsmässan, Stockholm, vol 80. Proceedings of Machine Learning Research, pp 5650–5659. http://proceedings.mlr.press/v80/yin18a.html
+UR  - http://proceedings.mlr.press/v80/yin18a.html
+ID  - ref19
+ER  - 

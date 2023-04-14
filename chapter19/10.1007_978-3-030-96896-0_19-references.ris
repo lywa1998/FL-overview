@@ -1,0 +1,116 @@
+TY  - STD
+TI  - Konečnỳ J, McMahan HB, Yu FX, Richtárik P, Suresh AT, Bacon D (2016) Federated learning: Strategies for improving communication efficiency. Preprint. arXiv:1610.05492
+ID  - ref1
+ER  - 
+TY  - JOUR
+AU  - Gupta, O.
+AU  - Raskar, R.
+PY  - 2018
+DA  - 2018//
+TI  - Distributed learning of deep neural network over multiple agents
+JO  - J Netw Comput Appl
+VL  - 116
+UR  - https://doi.org/10.1016/j.jnca.2018.05.003
+DO  - 10.1016/j.jnca.2018.05.003
+ID  - Gupta2018
+ER  - 
+TY  - STD
+TI  - Vepakomma P, Gupta O, Swedish T, Raskar R (2018) Split learning for health: Distributed deep learning without sharing raw patient data. Preprint. arXiv:1812.00564
+ID  - ref3
+ER  - 
+TY  - STD
+TI  - Chen J, Pan X, Monga R, Bengio S, Jozefowicz R (2016) Revisiting distributed synchronous SGD. Preprint. arXiv:1604.00981
+ID  - ref4
+ER  - 
+TY  - STD
+TI  - Lin Y, Han S, Mao H, Wang Y, Dally WJ (2017) Deep gradient compression: Reducing the communication bandwidth for distributed training. Preprint. arXiv:1712.01887
+ID  - ref5
+ER  - 
+TY  - STD
+TI  - Han S, Mao H, Dally WJ (2015) Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding. Preprint. arXiv:1510.00149
+ID  - ref6
+ER  - 
+TY  - STD
+TI  - Louizos C, Ullrich K, Welling M (2017) Bayesian compression for deep learning. Preprint. arXiv:1705.08665
+ID  - ref7
+ER  - 
+TY  - STD
+TI  - Laskin M, Metz L, Nabarro S, Saroufim M, Noune B, Luschi C, Sohl-Dickstein J, Abbeel P (2020) Parallel training of deep networks with local updates. Preprint. arXiv:2012.03837
+ID  - ref8
+ER  - 
+TY  - STD
+TI  - Huo Z, Gu B, Huang H (2018) Training neural networks using features replay. Preprint. arXiv:1807.04511
+ID  - ref9
+ER  - 
+TY  - STD
+TI  - Elthakeb AT, Pilligundla P, Mireshghallah F, Cloninger A, Esmaeilzadeh H (2020) Divide and conquer: Leveraging intermediate feature representations for quantized training of neural networks. In: International conference on machine learning. PMLR, pp 2880–2891
+ID  - ref10
+ER  - 
+TY  - STD
+TI  - Gharib G, Vepakomma P (2021) Blind learning: An efficient privacy-preserving approach for distributed learning. In: Workshop on split learning for distributed machine learning (SLDML’21)
+ID  - ref11
+ER  - 
+TY  - STD
+TI  - Thapa C, Chamikara MAP, Camtepe S (2020) Splitfed: When federated learning meets split learning. Preprint. arXiv:2004.12088
+ID  - ref12
+ER  - 
+TY  - STD
+TI  - Madaan H, Gawali M, Kulkarni V, Pant A (2021) Vulnerability due to training order in split learning. Preprint. arXiv:2103.14291
+ID  - ref13
+ER  - 
+TY  - STD
+TI  - Han DJ, Bhatti HI, Lee J, Moon J (2021) Han DJ, Bhatti HI, Lee J, Moon J (2021) Accelerating federated learning with split learning on locally generated losses. In: ICML 2021 workshop on federated learning for user privacy and data confidentiality. ICML Board
+ID  - ref14
+ER  - 
+TY  - STD
+TI  - Singh A, Vepakomma P, Gupta O, Raskar R (2019) Detailed comparison of communication efficiency of split learning and federated learning. Preprint. arXiv:1909.09145
+ID  - ref15
+ER  - 
+TY  - STD
+TI  - Poirot MG, Vepakomma P, Chang K, Kalpathy-Cramer J, Gupta R, Raskar R (2019) Split learning for collaborative deep learning in healthcare. Preprint. arXiv:1912.12115
+ID  - ref16
+ER  - 
+TY  - STD
+TI  - Ceballos I, Sharma V, Mugica E, Singh A, Roman A, Vepakomma P, Raskar R (2020) SplitNN-driven vertical partitioning. Preprint. arXiv:2008.04137
+ID  - ref17
+ER  - 
+TY  - STD
+TI  - Dingledine R, Mathewson N, Syverson P (2004) Tor: The second-generation onion router. Technical report, Naval Research Lab Washington DC
+ID  - ref18
+ER  - 
+TY  - STD
+TI  - Sharma V, Vepakomma P, Swedish T, Chang K, Kalpathy-Cramer J, Raskar R (2019) Expertmatcher: Automating ML model selection for clients using hidden representations. Preprint. arXiv:1910.03731
+ID  - ref19
+ER  - 
+TY  - STD
+TI  - Singh A, Chopra A, Garza E, Zhang E, Vepakomma P, Sharma V, Raskar R (2020) Disco: Dynamic and invariant sensitive channel obfuscation for deep neural networks. Preprint. arXiv:2012.11025
+ID  - ref20
+ER  - 
+TY  - JOUR
+AU  - Arachchige, P. C. M.
+AU  - Bertok, P.
+AU  - Khalil, I.
+AU  - Liu, D.
+AU  - Camtepe, S.
+AU  - Atiquzzaman, M.
+PY  - 2019
+DA  - 2019//
+TI  - Local differential privacy for deep learning
+JO  - IEEE Internet Things J
+VL  - 7
+UR  - https://doi.org/10.1109/JIOT.2019.2952146
+DO  - 10.1109/JIOT.2019.2952146
+ID  - Arachchige2019
+ER  - 
+TY  - STD
+TI  - Vepakomma P, Balla J, Raskar R (2021) Differentially private supervised manifold learning with applications like private image retrieval. Preprint. arXiv:2102.10802
+ID  - ref22
+ER  - 
+TY  - STD
+TI  - Li O, Sun J, Yang X, Gao W, Zhang H, Xie J, Smith V, Wang C Label leakage and protection in two-party split learning. Preprint. arXiv:2102.08504
+ID  - ref23
+ER  - 
+TY  - STD
+TI  - Abadi M, Chu A, Goodfellow I, McMahan HB, Mironov I, Talwar K, Zhang L (2016) Deep learning with differential privacy. In: Proceedings of the 2016 ACM SIGSAC conference on computer and communications security, pp 308–318
+ID  - ref24
+ER  - 

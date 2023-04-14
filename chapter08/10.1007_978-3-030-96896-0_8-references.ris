@@ -1,0 +1,148 @@
+TY  - STD
+TI  - Abay A, Chuba E, Zhou Y, Baracaldo N, Ludwig H (2021) Addressing unique fairness obstacles within federated learning. AAAI RDAI-2021
+ID  - ref1
+ER  - 
+TY  - STD
+TI  - Abay A, Zhou Y, Baracaldo N, Rajamoni S, Chuba E, Ludwig H (2020) Mitigating bias in federated learning. arXiv preprint arXiv:2012.02447
+ID  - ref2
+ER  - 
+TY  - STD
+TI  - Amodei DEA (2012) Deep speech 2 end to end speech recognition in English and Mandarin. In: International conference on machine learning
+ID  - ref3
+ER  - 
+TY  - STD
+TI  - Angwin J, Larson J, Mattu S, Mirchner L. There’s software used across the country to predict future criminals. And its biased against blacks. https://github.com/propublica/compas-analysis. Accessed: 20219-10-08
+UR  - https://github.com/propublica/compas-analysis
+ID  - ref4
+ER  - 
+TY  - STD
+TI  - Bellamy RK, Dey K, Hind M, Hoffman SC, Houde S, Kannan K, Lohia P, Martino J, Mehta S, Mojsilovic A et al (2018) AI fairness 360: an extensible toolkit for detecting, understanding, and mitigating unwanted algorithmic bias. arXiv preprint arXiv:1810.01943
+ID  - ref5
+ER  - 
+TY  - STD
+TI  - Bellamy RK, Dey K, Hind M, Hoffman SC, Houde S, Kannan K, Lohia P, Martino J, Mehta S, Mojsilovic A et al (2018) AI fairness 360: an extensible toolkit for detecting, understanding, and mitigating unwanted algorithmic bias. arXiv preprint arXiv:1810.01943
+ID  - ref6
+ER  - 
+TY  - STD
+TI  - Blanchard P, Guerraoui R, Stainer J et al (2017) Machine learning with adversaries: byzantine tolerant gradient descent. In: Advances in neural information processing systems, pp 119–129
+ID  - ref7
+ER  - 
+TY  - JOUR
+AU  - Calders, T.
+AU  - Verwer, S.
+PY  - 2010
+DA  - 2010//
+TI  - Three Naive Bayes approaches for discrimination-free classification
+JO  - Data Mining Knowl Disc
+VL  - 21
+UR  - https://doi.org/10.1007/s10618-010-0190-x
+DO  - 10.1007/s10618-010-0190-x
+ID  - Calders2010
+ER  - 
+TY  - STD
+TI  - Dwork C, Hardt M, Pitassi T, Reingold O, Zemel R (2012) Fairness through awareness. In: Proceedings of the 3rd innovations in theoretical computer science conference, pp 214–226
+ID  - ref9
+ER  - 
+TY  - STD
+TI  - Feldman M, Friedler SA, Moeller J, Scheidegger C, Venkatasubramanian S (2015) Certifying and removing disparate impact. In: Proceedings of the 21th ACM SIGKDD international conference on knowledge discovery and data mining, pp 259–268
+ID  - ref10
+ER  - 
+TY  - STD
+TI  - Ghoneim S (2019) 5 types of bias & how to eliminate them in your machine learning project. Towards Data Science
+ID  - ref11
+ER  - 
+TY  - STD
+TI  - Goh G, Cotter A, Gupta M, Friedlander MP (2016) Satisfying real-world goals with dataset constraints. In: Advances in neural information processing systems, pp 2415–2423
+ID  - ref12
+ER  - 
+TY  - STD
+TI  - Hardt M, Price E, Srebro N (2016) Equality of opportunity in supervised learning. In: Advances in neural information processing systems, pp 3315–3323
+ID  - ref13
+ER  - 
+TY  - STD
+TI  - Hashimoto T, Srivastava M, Namkoong H, Liang P (2018) Fairness without demographics in repeated loss minimization. In: International conference on machine learning
+ID  - ref14
+ER  - 
+TY  - STD
+TI  - Hebert-Johnson U, Kim MP, Reingold O, Rothblum GN (2018) Multicalibration: calibration for the (computationally-identifiable) masses. In: International conference on machine learning
+ID  - ref15
+ER  - 
+TY  - STD
+TI  - Kairouz P, McMahan HB, Avent B, Bellet A, Bennis M, Bhagoji AN, Bonawitz K, Charles Z, Cormode G, Cummings R et al (2019) Advances and open problems in federated learning. arXiv preprint arXiv:1912.04977
+ID  - ref16
+ER  - 
+TY  - JOUR
+AU  - Kamiran, F.
+AU  - Calders, T.
+PY  - 2011
+DA  - 2011//
+TI  - Data preprocessing techniques for classification without discrimination
+JO  - Knowl Inf Syst
+VL  - 33
+UR  - https://doi.org/10.1007/s10115-011-0463-8
+DO  - 10.1007/s10115-011-0463-8
+ID  - Kamiran2011
+ER  - 
+TY  - STD
+TI  - Kamiran F, Karim A, Zhang X (2012) Decision theory for discrimination-aware classification. In: 2012 IEEE 12th international conference on data mining. IEEE, pp 924–929
+ID  - ref18
+ER  - 
+TY  - STD
+TI  - Kamiran F, Karim A, Zhang X (2012) Decision theory for discrimination-aware classification. In: IEEE international conference of data mining
+ID  - ref19
+ER  - 
+TY  - STD
+TI  - Kamishima T, Akaho S, Asoh H, Sakuma J (2012) Fairness-aware classifier with prejudice remover regularizer. In: Proceedings of the European conference on machine learning and principles and practice of knowledge discovery in databases
+ID  - ref20
+ER  - 
+TY  - STD
+TI  - Kamishima T, Akaho S, Asoh H, Sakuma J (2012) Fairness-aware classifier with prejudice remover regularizer. In: Proceedings of the European conference on machine learning and principles and practice of knowledge discovery in databases
+ID  - ref21
+ER  - 
+TY  - STD
+TI  - Kohavi R. Scaling up the accuracy of naive-bayes classifiers: a decision-tree hybrid. http://archive.ics.uci.edu/ml/datasets/Adult. Accessed: 30 Sept 2019
+UR  - http://archive.ics.uci.edu/ml/datasets/Adult
+ID  - ref22
+ER  - 
+TY  - STD
+TI  - McMahan HB, Moore E, Ramage D, Hampson S et al (2016) Communication-efficient learning of deep networks from decentralized data. arXiv preprint arXiv:1602.05629
+ID  - ref23
+ER  - 
+TY  - STD
+TI  - Merriam-Webster (2021) Fairness. https://www.merriam-webster.com/dictionary/fairness. Accessed: 10 Mar 2021
+UR  - https://www.merriam-webster.com/dictionary/fairness
+ID  - ref24
+ER  - 
+TY  - STD
+TI  - Pedreschi D, Ruggieri S, Turini F (2008) Discrimination-aware data mining. In: 14th international conference on knowledge discovery and data mining
+ID  - ref25
+ER  - 
+TY  - STD
+TI  - Pleiss G, Raghavan M, Wu F, Kleinberg J, Weinberger KQ (2017) On fairness and calibration. In: Advances in neural information processing systems, pp 5680–5689
+ID  - ref26
+ER  - 
+TY  - STD
+TI  - Sheth S, Gal S, Hoff M, Ward M (2021) 7 charts that show the glaring gap between men’s and women’s salaries in the US. Business Insider
+ID  - ref27
+ER  - 
+TY  - STD
+TI  - Starr SB (2012) Estimating gender disparities in federal criminal cases. The social science research network electronic paper collection
+ID  - ref28
+ER  - 
+TY  - STD
+TI  - LeCun Y, Cortes C, Burges CJ (2021) The MNIST database of handwritten digits. http://yann.lecun.com/exdb/mnist/. Accessed: 24 Feb 2021
+UR  - http://yann.lecun.com/exdb/mnist/
+ID  - ref29
+ER  - 
+TY  - STD
+TI  - Yin D, Chen Y, Ramchandran K, Bartlett P (2018) Byzantine-robust distributed learning: towards optimal statistical rates. arXiv preprint arXiv:1803.01498
+ID  - ref30
+ER  - 
+TY  - STD
+TI  - Zafar MB, Valera I, Rodriguez MG, Gummadi KP (2015) Fairness constraints: mechanisms for fair classification. arXiv preprint arXiv:1507.05259
+ID  - ref31
+ER  - 
+TY  - STD
+TI  - Zemel R, Wu Y, Swersky K, Pitassi T, Dwork C (2013) Learning fair representations. In: International conference on machine learning, pp 325–333
+ID  - ref32
+ER  - 

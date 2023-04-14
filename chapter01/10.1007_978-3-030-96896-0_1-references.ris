@@ -1,0 +1,381 @@
+TY  - STD
+TI  - Abay A, Zhou Y, Baracaldo N, Rajamoni S, Chuba E, Ludwig H (2020) Mitigating bias in federated learning. arXiv preprint arXiv:201202447
+ID  - ref1
+ER  - 
+TY  - STD
+TI  - Bagdasaryan E, Veit A, Hua Y, Estrin D, Shmatikov V (2020) How to backdoor federated learning. In: International conference on artificial intelligence and statistics. PMLR, pp 2938–2948
+ID  - ref2
+ER  - 
+TY  - STD
+TI  - Balta D, Sellami M, Kuhn P, Schöpp U, Buchinger M, Baracaldo N, Anwar A, Sinn M, Purcell M, Altakrouri B (2021) Accountable federated machine learning in government: engineering and management insights
+ID  - ref3
+ER  - 
+TY  - STD
+TI  - Baruch M, Baruch G, Goldberg Y (2019) A little is enough: circumventing defenses for distributed learning. arXiv preprint arXiv:190206156
+ID  - ref4
+ER  - 
+TY  - STD
+TI  - Blanchard P, Mhamdi EME, Guerraoui R, Stainer J (2017) Byzantine-tolerant machine learning. 1703.02757
+ID  - ref5
+ER  - 
+TY  - STD
+TI  - Bonawitz KA, Ivanov V, Kreuter B, Marcedone A, McMahan HB, Patel S, Ramage D, Segal A, Seth K (2016) Practical secure aggregation for federated learning on user-held data. In: NIPS workshop on private multi-party machine learning. https://arxiv.org/abs/1611.04482
+UR  - https://arxiv.org/abs/1611.04482
+ID  - ref6
+ER  - 
+TY  - BOOK
+AU  - Boyd, S.
+AU  - Parikh, N.
+AU  - Chu, E.
+PY  - 2011
+DA  - 2011//
+TI  - Distributed optimization and statistical learning via the alternating direction method of multipliers
+PB  - Now Publishers Inc.
+CY  - Hanover
+ID  - Boyd2011
+ER  - 
+TY  - JOUR
+AU  - Breiman, L.
+PY  - 2001
+DA  - 2001//
+TI  - Random forests
+JO  - Mach Learn
+VL  - 45
+UR  - https://doi.org/10.1023/A:1010933404324
+DO  - 10.1023/A:1010933404324
+ID  - Breiman2001
+ER  - 
+TY  - STD
+TI  - Business Insider (2018) Macy’s is warning customers that their information might have been stolen in a data breach. https://www.businessinsider.com/macys-bloomingdales-hack-disclosed-2018-7
+UR  - https://www.businessinsider.com/macys-bloomingdales-hack-disclosed-2018-7
+ID  - ref9
+ER  - 
+TY  - STD
+TI  - Chai Z, Ali A, Zawad S, Truex S, Anwar A, Baracaldo N, Zhou Y, Ludwig H, Yan F, Cheng Y (2020) TIFL: a tier-based federated learning system. In: Proceedings of the 29th international symposium on high-performance parallel and distributed computing, pp 125–136
+ID  - ref10
+ER  - 
+TY  - STD
+TI  - Chamani JG, Papadopoulos D (2020) Mitigating leakage in federated learning with trusted hardware. arXiv preprint arXiv:201104948
+ID  - ref11
+ER  - 
+TY  - STD
+TI  - Charikar M, Steinhardt J, Valiant G (2016) Learning from untrusted data. 1611.02315
+ID  - ref12
+ER  - 
+TY  - JOUR
+AU  - Chen, T.
+AU  - He, T.
+AU  - Benesty, M.
+AU  - Khotilovich, V.
+AU  - Tang, Y.
+AU  - Cho, H.
+PY  - 2015
+DA  - 2015//
+TI  - XGBoost: extreme gradient boosting
+JO  - R package version
+VL  - 04–2
+ID  - Chen2015
+ER  - 
+TY  - STD
+TI  - Cheng K, Fan T, Jin Y, Liu Y, Chen T, Yang Q (2019) SecureBoost: a lossless federated learning framework. arXiv preprint arXiv:190108755
+ID  - ref14
+ER  - 
+TY  - STD
+TI  - Dean J, Corrado GS, Monga R, Chen K, Devin M, Le QV, Mao MZ, Ranzato M, Senior A, Tucker P, Yang K, Ng AY (2012) Large scale distributed deep networks. In: NIPS
+ID  - ref15
+ER  - 
+TY  - STD
+TI  - Dwork C (2008) Differential privacy: a survey of results. In: International conference on theory and applications of models of computation. Springer, pp 1–19
+ID  - ref16
+ER  - 
+TY  - STD
+TI  - Elgabli A, Park J, Ahmed S, Bennis M (2020) L-FGADMM: layer-wise federated group ADMM for communication efficient decentralized deep learning. In: 2020 IEEE wireless communications and networking conference (WCNC). IEEE, pp 1–6
+ID  - ref17
+ER  - 
+TY  - JOUR
+AU  - Elgabli, A.
+AU  - Park, J.
+AU  - Bedi, A. S.
+AU  - Bennis, M.
+AU  - Aggarwal, V.
+PY  - 2020
+DA  - 2020//
+TI  - GADMM: fast and communication efficient framework for distributed machine learning
+JO  - J Mach Learn Res
+VL  - 21
+ID  - Elgabli2020
+ER  - 
+TY  - STD
+TI  - Fang M, Cao X, Jia J, Gong N (2020) Local model poisoning attacks to byzantine-robust federated learning. In: 29th {USENIX} security symposium ({USENIX} security 20), pp 1605–1622
+ID  - ref19
+ER  - 
+TY  - STD
+TI  - Ge N, Li G, Zhang L, Liu YLY (2021) Failure prediction in production line based on federated learning: an empirical study. arXiv preprint arXiv:210111715
+ID  - ref20
+ER  - 
+TY  - STD
+TI  - Geiping J, Bauermeister H, Dröge H, Moeller M (2020) Inverting gradients—how easy is it to break privacy in federated learning? In: Part of advances in neural information processing systems (NeurIPS 2020), vol 33
+ID  - ref21
+ER  - 
+TY  - STD
+TI  - Grimberg F, Hartley MA, Karimireddy SP, Jaggi M (2021) Optimal model averaging: towards personalized collaborative learning. In: Proceedings of the international workshop on federated learning for user privacy and data confidentiality. https://fl-icml.github.io/2021/papers
+UR  - https://fl-icml.github.io/2021/papers
+ID  - ref22
+ER  - 
+TY  - STD
+TI  - Gu T, Dolan-Gavitt B, Garg S (2017) BadNets: identifying vulnerabilities in the machine learning model supply chain. arXiv preprint arXiv:170806733
+ID  - ref23
+ER  - 
+TY  - STD
+TI  - Hardy S, Henecka W, Ivey-Law H, Nock R, Patrini G, Smith G, Thorne B (2017) Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption. arXiv preprint arXiv:171110677
+ID  - ref24
+ER  - 
+TY  - STD
+TI  - Jin X, Du R, Chen PY, Chen T (2020) CAFE: catastrophic data leakage in federated learning
+ID  - ref25
+ER  - 
+TY  - STD
+TI  - Kairouz P, McMahan HB, Avent B, Bellet A, Bennis M, Bhagoji AN, Bonawitz K, Charles Z, Cormode G, Cummings R et al (2019) Advances and open problems in federated learning. arXiv preprint arXiv:191204977
+ID  - ref26
+ER  - 
+TY  - STD
+TI  - Kingma DP, Ba J (2017) Adam: a method for stochastic optimization. 1412.6980
+ID  - ref27
+ER  - 
+TY  - STD
+TI  - Konečnỳ J, McMahan HB, Yu FX, Richtárik P, Suresh AT, Bacon D (2016) Federated learning: strategies for improving communication efficiency. arXiv preprint arXiv:161005492
+ID  - ref28
+ER  - 
+TY  - JOUR
+AU  - Lamport, L.
+AU  - Shostak, R.
+AU  - Pease, M.
+PY  - 1982
+DA  - 1982//
+TI  - The byzantine generals problem
+JO  - ACM Trans Program Lang Syst
+VL  - 4
+UR  - https://doi.org/10.1145/357172.357176
+DO  - 10.1145/357172.357176
+ID  - Lamport1982
+ER  - 
+TY  - STD
+TI  - Law A, Leung C, Poddar R, Popa RA, Shi C, Sima O, Yu C, Zhang X, Zheng W (2020) Secure collaborative training and inference for XGBoost. In: Proceedings of the 2020 workshop on privacy-preserving machine learning in practice, pp 21–26
+ID  - ref30
+ER  - 
+TY  - STD
+TI  - Li T, Sahu AK, Zaheer M, Sanjabi M, Talwalkar A, Smith V (2018) Federated optimization in heterogeneous networks. arXiv preprint arXiv:181206127
+ID  - ref31
+ER  - 
+TY  - JOUR
+AU  - Liu, W.
+AU  - Chen, L.
+AU  - Chen, Y.
+AU  - Zhang, W.
+PY  - 2020
+DA  - 2020//
+TI  - Accelerating federated learning via momentum gradient descent
+JO  - IEEE Trans Parallel Distrib Syst
+VL  - 31
+UR  - https://doi.org/10.1109/TPDS.2020.2975189
+DO  - 10.1109/TPDS.2020.2975189
+ID  - Liu2020
+ER  - 
+TY  - STD
+TI  - Liu Y, Ma Z, Liu X, Ma S, Nepal S, Deng R (2019) Boosting privately: privacy-preserving federated extreme boosting for mobile crowdsensing. arXiv preprint arXiv:190710218
+ID  - ref33
+ER  - 
+TY  - BOOK
+AU  - Liu, Y.
+AU  - Liu, Y.
+AU  - Liu, Z.
+AU  - Liang, Y.
+AU  - Meng, C.
+AU  - Zhang, J.
+AU  - Zheng, Y.
+PY  - 2020
+DA  - 2020//
+TI  - Federated forest
+PB  - IEEE Trans Big Data
+CY  - IEEE Trans Big Data
+ID  - Liu2020
+ER  - 
+TY  - STD
+TI  - Ludwig H, Baracaldo N, Thomas G, Zhou Y, Anwar A, Rajamoni S, Ong Y, Radhakrishnan J, Verma A, Sinn M et al (2020) IBM federated learning: an enterprise framework white paper v0. 1. arXiv preprint arXiv:200710987
+ID  - ref35
+ER  - 
+TY  - STD
+TI  - Malinovskiy G, Kovalev D, Gasanov E, Condat L, Richtarik P (2020) From local SGD to local fixed-point methods for federated learning. In: International conference on machine learning. PMLR, pp 6692–6701
+ID  - ref36
+ER  - 
+TY  - STD
+TI  - Mansour Y, Mohri M, Ro J, Suresh AT (2020) Three approaches for personalization with applications to federated learning. arXiv preprint arXiv:200210619
+ID  - ref37
+ER  - 
+TY  - STD
+TI  - McMahan B, Moore E, Ramage D, Hampson S, y Arcas BA (2017) Communication-efficient learning of deep networks from decentralized data. In: Artificial intelligence and statistics. PMLR, pp 1273–1282
+ID  - ref38
+ER  - 
+TY  - STD
+TI  - Melis L, Song C, De Cristofaro E, Shmatikov V (2019) Exploiting unintended feature leakage in collaborative learning. In: 2019 IEEE symposium on security and privacy (SP). IEEE, pp 691–706
+ID  - ref39
+ER  - 
+TY  - STD
+TI  - Meltzer J (2020) The Court of Justice of the European Union in Schrems II: the impact of GDPR on data flows and national security. https://voxeu.org/article/impact-gdpr-data-flows-and-national-security
+UR  - https://voxeu.org/article/impact-gdpr-data-flows-and-national-security
+ID  - ref40
+ER  - 
+TY  - STD
+TI  - Nasr M, Shokri R, Houmansadr A (2018) Comprehensive privacy analysis of deep learning: stand-alone and federated learning under passive and active white-box inference attacks
+ID  - ref41
+ER  - 
+TY  - STD
+TI  - NBC News (2018) Yahoo to pay $50 million, offer credit monitoring for massive security breach. https://www.nbcnews.com/tech/tech-news/yahoo-pay-50m-offer-credit-monitoring-massive-security-breach-n923531
+UR  - https://www.nbcnews.com/tech/tech-news/yahoo-pay-50m-offer-credit-monitoring-massive-security-breach-n923531
+ID  - ref42
+ER  - 
+TY  - STD
+TI  - New York Times (2018) Facebook security breach exposes accounts of 50 million users. https://www.nytimes.com/2018/09/28/technology/facebook-hack-data-breach.html
+UR  - https://www.nytimes.com/2018/09/28/technology/facebook-hack-data-breach.html
+ID  - ref43
+ER  - 
+TY  - STD
+TI  - Nikolaenko V, Weinsberg U, Ioannidis S, Joye M, Boneh D, Taft N (2013) Privacy-preserving ridge regression on hundreds of millions of records. In: 2013 IEEE symposium on security and privacy. IEEE, pp 334–348
+ID  - ref44
+ER  - 
+TY  - STD
+TI  - Ong YJ, Zhou Y, Baracaldo N, Ludwig H (2020) Adaptive histogram-based gradient boosted trees for federated learning. arXiv preprint arXiv:201206670
+ID  - ref45
+ER  - 
+TY  - JOUR
+AU  - Quinlan, J. R.
+PY  - 1986
+DA  - 1986//
+TI  - Induction of decision trees
+JO  - Mach Learn
+VL  - 1
+ID  - Quinlan1986
+ER  - 
+TY  - JOUR
+AU  - So, J.
+AU  - Güler, B.
+AU  - Avestimehr, A. S.
+PY  - 2021
+DA  - 2021//
+TI  - Turbo-aggregate: breaking the quadratic aggregation barrier in secure federated learning
+JO  - IEEE J Sel Areas Inf Theory
+VL  - 2
+UR  - https://doi.org/10.1109/JSAIT.2021.3054610
+DO  - 10.1109/JSAIT.2021.3054610
+ID  - So2021
+ER  - 
+TY  - STD
+TI  - State of California (2018) California Consumer Privacy Act of 2018
+ID  - ref48
+ER  - 
+TY  - STD
+TI  - Thapa C, Chamikara MAP, Camtepe S (2020) SplitFed: when federated learning meets split learning. arXiv preprint arXiv:200412088
+ID  - ref49
+ER  - 
+TY  - STD
+TI  - The European Parliament and Council (2016) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27th of April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing directive 95/46
+ID  - ref50
+ER  - 
+TY  - STD
+TI  - The Wall Street Journal (2018) Google exposed user data, feared repercussions of disclosing to public. https://www.wsj.com/articles/google-exposed-user-data-feared-repercussions-of-disclosing-to-public-1539017194
+UR  - https://www.wsj.com/articles/google-exposed-user-data-feared-repercussions-of-disclosing-to-public-1539017194
+ID  - ref51
+ER  - 
+TY  - STD
+TI  - Truex S, Baracaldo N, Anwar A, Steinke T, Ludwig H, Zhang R, Zhou Y (2019) A hybrid approach to privacy-preserving federated learning. In: Proceedings of the 12th ACM workshop on artificial intelligence and security, pp 1–11
+ID  - ref52
+ER  - 
+TY  - BOOK
+PY  - 1996
+DA  - 1996//
+TI  - Health Insurance Portability and Accountability Act of 1996
+PB  - U.S. Government Printing Office
+CY  - Washington, DC
+ID  - ref53
+ER  - 
+TY  - STD
+TI  - Varma K, Zhou Y, Baracaldo N, Anwar A (2021) LEGATO: a LayerwisE Gradient AggregaTiOn algorithm for mitigating byzantine attacks in federated learning. In: 2021 IEEE 14th international conference on cloud computing (CLOUD)
+ID  - ref54
+ER  - 
+TY  - STD
+TI  - Vepakomma P, Gupta O, Swedish T, Raskar R (2018) Split learning for health: distributed deep learning without sharing raw patient data. arXiv preprint arXiv:181200564
+ID  - ref55
+ER  - 
+TY  - STD
+TI  - Wang K, Mathews R, Kiddon C, Eichner H, Beaufays F, Ramage D (2019) Federated evaluation of on-device personalization. arXiv preprint arXiv:191010252
+ID  - ref56
+ER  - 
+TY  - STD
+TI  - Xie C, Koyejo O, Gupta I (2018) Generalized byzantine-tolerant SGD. 1802.10116
+ID  - ref57
+ER  - 
+TY  - STD
+TI  - Xie C, Koyejo O, Gupta I (2018) Zeno: distributed stochastic gradient descent with suspicion-based fault-tolerance. 1805.10032
+ID  - ref58
+ER  - 
+TY  - STD
+TI  - Xie C, Huang K, Chen PY, Li B (2019) DBA: distributed backdoor attacks against federated learning. In: International conference on learning representations
+ID  - ref59
+ER  - 
+TY  - STD
+TI  - Xie C, Koyejo S, Gupta I (2019) Fall of empires: breaking byzantine-tolerant SGD by inner product manipulation. 1903.03936
+ID  - ref60
+ER  - 
+TY  - STD
+TI  - Xu R, Baracaldo N, Zhou Y, Anwar A, Ludwig H (2019) HybridAlpha: an efficient approach for privacy-preserving federated learning. In: Proceedings of the 12th ACM workshop on artificial intelligence and security, pp 13–23
+ID  - ref61
+ER  - 
+TY  - STD
+TI  - Xu R, Baracaldo N, Zhou Y, Anwar A, Joshi J, Ludwig H (2021) FedV: Privacy-preserving federated learning over vertically partitioned data. arXiv preprint arXiv:210303918
+ID  - ref62
+ER  - 
+TY  - STD
+TI  - Yang M, Song L, Xu J, Li C, Tan G (2019) The tradeoff between privacy and accuracy in anomaly detection using federated XGBoost. arXiv preprint arXiv:190707157
+ID  - ref63
+ER  - 
+TY  - STD
+TI  - Yin D, Chen Y, Ramchandran K, Bartlett P (2018) Byzantine-robust distributed learning: towards optimal statistical rates. 1803.01498
+ID  - ref64
+ER  - 
+TY  - JOUR
+AU  - Zawad, S.
+AU  - Ali, A.
+AU  - Chen, P. Y.
+AU  - Anwar, A.
+AU  - Zhou, Y.
+AU  - Baracaldo, N.
+AU  - Tian, Y.
+AU  - Yan, F.
+PY  - 2021
+DA  - 2021//
+TI  - Curse or redemption? How data heterogeneity affects the robustness of federated learning
+JO  - Proceedings of the AAAI conference on artificial intelligence, vol
+VL  - 35
+ID  - Zawad2021
+ER  - 
+TY  - STD
+TI  - Zhang C, Li S, Xia J, Wang W, Yan F, Liu Y (2020) BatchCrypt: efficient homomorphic encryption for cross-silo federated learning. In: 2020 USENIX annual technical conference (USENIX ATC 20), pp 493–506
+ID  - ref66
+ER  - 
+TY  - STD
+TI  - Zhao B, Mopuri KR, Bilen H (2020) iDLG: improved deep leakage from gradients. arXiv preprint arXiv:200102610
+ID  - ref67
+ER  - 
+TY  - CHAP
+AU  - Zhu, L.
+AU  - Han, S.
+PY  - 2020
+DA  - 2020//
+TI  - Deep leakage from gradients
+BT  - Federated learning
+PB  - Springer
+CY  - Cham
+UR  - https://doi.org/10.1007/978-3-030-63076-8_2
+DO  - 10.1007/978-3-030-63076-8_2
+ID  - Zhu2020
+ER  - 

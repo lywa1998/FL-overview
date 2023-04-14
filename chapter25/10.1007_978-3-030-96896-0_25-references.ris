@@ -1,0 +1,162 @@
+TY  - STD
+TI  - https://developer.ibm.com/articles/edge-computing-architecture-and-use-cases/
+UR  - https://developer.ibm.com/articles/edge-computing-architecture-and-use-cases/
+ID  - ref1
+ER  - 
+TY  - STD
+TI  - Multi-access edge computing.https://www.etsi.org/technologies/multi-access-edge-computing
+UR  - https://www.etsi.org/technologies/multi-access-edge-computing
+ID  - ref2
+ER  - 
+TY  - STD
+TI  - Look Ma, no hands. http://www.ieee.org/about/news/2012/5september_2_2012.html
+UR  - http://www.ieee.org/about/news/2012/5september_2_2012.html
+ID  - ref3
+ER  - 
+TY  - STD
+TI  - Tan K, Bremner D, Krenec JL, Imran M (2020) Federated machine learning in vehicular networks: a summary of recent applications. In: 2020 international conference on UK-China emerging technologies (UCET)
+ID  - ref4
+ER  - 
+TY  - STD
+TI  - https://www.ibm.com/thought-leadership/institute-business-value/report/contactless-payment-tele
+UR  - https://www.ibm.com/thought-leadership/institute-business-value/report/contactless-payment-tele
+ID  - ref5
+ER  - 
+TY  - CHAP
+AU  - Nguyen, K. K.
+AU  - Hoang, D. T.
+AU  - Niyato, D.
+AU  - Wang, P.
+AU  - Nguyen, D.
+AU  - Dutkiewicz, E.
+PY  - 2018
+DA  - 2018//
+TI  - Cyberattack detection in mobile cloud computing: a deep learning approach
+BT  - Proceedings of the IEEE WCNC
+ID  - Nguyen2018
+ER  - 
+TY  - JOUR
+AU  - Abeshu, A.
+AU  - Chilamkurti, N.
+PY  - 2018
+DA  - 2018//
+TI  - Deep learning: the frontier for distributed attack detection in fog-to-things computing
+JO  - IEEE Commun Mag
+VL  - 56
+UR  - https://doi.org/10.1109/MCOM.2018.1700332
+DO  - 10.1109/MCOM.2018.1700332
+ID  - Abeshu2018
+ER  - 
+TY  - STD
+TI  - Bagdasaryan E, Veit A, Hua Y, et al (2019) How to backdoor federated learning. ArXiv Preprint ArXiv:1807.00459. https://arxiv.org/abs/1807.00459
+UR  - https://arxiv.org/abs/1807.00459
+ID  - ref8
+ER  - 
+TY  - STD
+TI  - Preuveneers D, Rimmer V, Tsingenopoulos I et al (2018) Chained anomaly detection models for federated learning: an intrusion detection case study. Appl Sci. https://doi.org/10.3390/app8122663
+ID  - ref9
+ER  - 
+TY  - JOUR
+AU  - Liu, Y.
+AU  - Yuan, X.
+AU  - Xiong, Z.
+AU  - Kang, J.
+AU  - Wang, X.
+AU  - Niyato, D.
+PY  - 2020
+DA  - 2020//
+TI  - Federated learning for 6G communications: challenges, methods, and future directions
+JO  - China Commun
+VL  - 17
+UR  - https://doi.org/10.23919/JCC.2020.09.009
+DO  - 10.23919/JCC.2020.09.009
+ID  - Liu2020
+ER  - 
+TY  - JOUR
+AU  - Wanga, M.
+AU  - Zhua, T.
+AU  - Zhang, T.
+AU  - Zhangb, J.
+AU  - Yua, S.
+AU  - Zhoua, W.
+PY  - 2020
+DA  - 2020//
+TI  - Security and privacy in 6G networks: new areas and new challenges
+JO  - Digital Commun Netw
+VL  - 6
+UR  - https://doi.org/10.1016/j.dcan.2020.07.003
+DO  - 10.1016/j.dcan.2020.07.003
+ID  - Wanga2020
+ER  - 
+TY  - STD
+TI  - wendychong-ibm-2020.medium.com/ai-edge-saving-grace-with-advanced-ai-ml-accelerators-for-5g-edge-computing-use-cases
+UR  - http://wendychong-ibm-2020.medium.com/ai-edge-saving-grace-with-advanced-ai-ml-accelerators-for-5g-edge-computing-use-cases
+ID  - ref12
+ER  - 
+TY  - STD
+TI  - Dynamic network slicing: challenges and opportunities. https://link.springer.com/chapter/10.1007/978-3-030-49190-1_5
+UR  - https://link.springer.com/chapter/10.1007/978-3-030-49190-1_5
+ID  - ref13
+ER  - 
+TY  - STD
+TI  - DevSecOps. https://www.ibm.com/cloud/architecture/adoption/devops. Aug 2020
+UR  - https://www.ibm.com/cloud/architecture/adoption/devops
+ID  - ref14
+ER  - 
+TY  - STD
+TI  - ibm.medium.com/ai-edge-coreset-intelligent-data-sampling-for-ai-ml-at-the-5g-edge
+UR  - http://ibm.medium.com/ai-edge-coreset-intelligent-data-sampling-for-ai-ml-at-the-5g-edge
+ID  - ref15
+ER  - 
+TY  - STD
+TI  - S. Wang, T. Tuor, T. Salonidis, K. K. Leung, C. Makaya, T. He, and K. Chan, “Adaptive federated learning in resource constrained edge computing systems,” IEEE J Select Areas Commun, vol. 37, no. 6, pp. 1205–1221, Jun. 2019
+ID  - ref16
+ER  - 
+TY  - STD
+TI  - Konečný J, McMahan HB, Yu FX, Richtárik P, Suresh AT, Bacon D (2016) Federated learning: strategies for improving communication efficiency. arXivpreprint arXiv:161005492
+ID  - ref17
+ER  - 
+TY  - BOOK
+AU  - Wenyuan, X.
+AU  - Fang, W.
+AU  - Ding, Y.
+AU  - Zou, M.
+AU  - Xiong, N.
+PY  - 2021
+DA  - 2021//
+TI  - Accelerating federated learning for IoT in big data analytics with pruning, quantization and selective updating
+PB  - IEEE Access
+ID  - Wenyuan2021
+ER  - 
+TY  - CHAP
+AU  - Bhagoji, A.
+AU  - Chakraborty, S.
+AU  - Mittal, P.
+AU  - Calo, S.
+PY  - 2019
+DA  - 2019//
+TI  - Analyzing federated learning through an adversarial lens
+BT  - International conference on machine learning (ICML)
+ID  - Bhagoji2019
+ER  - 
+TY  - STD
+TI  - ibm.medium.com/ai-edge-federated-learning-learn-on-private-and-partitioned-dataset
+UR  - http://ibm.medium.com/ai-edge-federated-learning-learn-on-private-and-partitioned-dataset
+ID  - ref20
+ER  - 
+TY  - CHAP
+AU  - Bonawitz, K.
+PY  - 2016
+DA  - 2016//
+TI  - Practical secure aggregation for federated learning on user-held data
+BT  - NIPS workshop on private multi-party machine learning
+ID  - Bonawitz2016
+ER  - 
+TY  - STD
+TI  - McMahan HB et al (2016) Communication-efficient learning of deep networks from decentralized data. [Online]. Available: arXiv:1602.05629
+ID  - ref22
+ER  - 
+TY  - STD
+TI  - Gu Z et al (2019) Reaching data confidentiality and model accountability on the Caltrain. In: Proceedings International Conference on Dependable Systems and Networks, pp 336–348
+ID  - ref23
+ER  - 

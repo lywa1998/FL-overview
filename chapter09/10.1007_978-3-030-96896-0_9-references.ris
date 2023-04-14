@@ -1,0 +1,304 @@
+TY  - STD
+TI  - Abadi M, Chu A, Goodfellow I, McMahan HB, Mironov I, Talwar K, Zhang L (2016) Deep learning with differential privacy. In: Proceedings of the 2016 ACM SIGSAC conference on computer and communications security. ACM, pp 308–318
+ID  - ref1
+ER  - 
+TY  - STD
+TI  - Balakrishnan R, Akdeniz M, Dhakal S, Himayat N (2020) Resource management and fairness for federated learning over wireless edge networks. In: 2020 IEEE 21st international workshop on signal processing advances in wireless communications (SPAWC). IEEE, pp 1–5
+ID  - ref2
+ER  - 
+TY  - STD
+TI  - Bonawitz K, Ivanov V, Kreuter B, Marcedone A, McMahan HB, Patel S, Ramage D, Segal A, Seth K (2017) Practical secure aggregation for privacy-preserving machine learning. In: Proceedings of the 2017 ACM SIGSAC conference on computer and communications security. ACM, pp 1175–1191
+ID  - ref3
+ER  - 
+TY  - STD
+TI  - Bonawitz K, Eichner H, Grieskamp W, Huba D, Ingerman A, Ivanov V, Kiddon C, Konecný J, Mazzocchi S, McMahan B, Overveldt TV, Petrou D, Ramage D, Roselander J (2019) Towards federated learning at scale: System design. In: Talwalkar A, Smith V, Zaharia M (eds) Proceedings of machine learning and systems 2019, MLSys 2019, Stanford, CA, USA, March 31–April 2, 2019, mlsys.org. https://proceedings.mlsys.org/book/271.pdf
+UR  - https://proceedings.mlsys.org/book/271.pdf
+ID  - ref4
+ER  - 
+TY  - STD
+TI  - Caldas S, Konečny J, McMahan HB, Talwalkar A (2018) Expanding the reach of federated learning by reducing client resource requirements. Preprint. arXiv:181207210
+ID  - ref5
+ER  - 
+TY  - STD
+TI  - Chai Z, Ali A, Zawad S, Truex S, Anwar A, Baracaldo N, Zhou Y, Ludwig H, Yan F, Cheng Y (2020) Tifl: A tier-based federated learning system. In: Proceedings of the 29th international symposium on high-performance parallel and distributed computing, pp 125–136
+ID  - ref6
+ER  - 
+TY  - STD
+TI  - Chan Z, Li J, Yang X, Chen X, Hu W, Zhao D, Yan R (2019) Modeling personalization in continuous space for response generation via augmented wasserstein autoencoders. In: Proceedings of the 2019 conference on empirical methods in natural language processing and the 9th international joint conference on natural language processing (emnlp-ijcnlp), pp 1931–1940
+ID  - ref7
+ER  - 
+TY  - STD
+TI  - Chen T, Jin X, Sun Y, Yin W (2020) Vafl: a method of vertical asynchronous federated learning. e-prints. arXiv–2007
+ID  - ref8
+ER  - 
+TY  - STD
+TI  - Cheng K, Fan T, Jin Y, Liu Y, Chen T, Papadopoulos D, Yang Q (2019) Secureboost: A lossless federated learning framework. Preprint. arXiv:190108755
+ID  - ref9
+ER  - 
+TY  - STD
+TI  - Du W, Atallah MJ (2001) Secure multi-party computation problems and their applications: a review and open problems. In: Proceedings of the 2001 workshop on new security paradigms, pp 13–22
+ID  - ref10
+ER  - 
+TY  - STD
+TI  - Du W, Zhan Z (2003) Using randomized response techniques for privacy-preserving data mining. In: Proceedings of the ninth ACM SIGKDD international conference on Knowledge discovery and data mining, pp 505–510
+ID  - ref11
+ER  - 
+TY  - STD
+TI  - Dwork C, Hardt M, Pitassi T, Reingold O, Zemel R (2012) Fairness through awareness. In: Proceedings of the 3rd innovations in theoretical computer science conference, pp 214–226
+ID  - ref12
+ER  - 
+TY  - STD
+TI  - Feng S, Yu H (2020) Multi-participant multi-class vertical federated learning. Preprint. arXiv:200111154
+ID  - ref13
+ER  - 
+TY  - STD
+TI  - Gao D, Liu Y, Huang A, Ju C, Yu H, Yang Q (2019) Privacy-preserving heterogeneous federated transfer learning. In: 2019 IEEE international conference on big data (Big Data). IEEE, pp 2552–2559
+ID  - ref14
+ER  - 
+TY  - BOOK
+AU  - Gentry, C.
+PY  - 2009
+DA  - 2009//
+TI  - A fully homomorphic encryption scheme
+PB  - Stanford University
+CY  - Stanford
+ID  - Gentry2009
+ER  - 
+TY  - STD
+TI  - Hao M, Li H, Xu G, Liu S, Yang H (2019) Towards efficient and privacy-preserving federated deep learning. In: ICC 2019-2019 IEEE international conference on communications (ICC). IEEE, pp 1–6
+ID  - ref16
+ER  - 
+TY  - STD
+TI  - Hardy S, Henecka W, Ivey-Law H, Nock R, Patrini G, Smith G, Thorne B (2017) Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption. Preprint. arXiv:171110677
+ID  - ref17
+ER  - 
+TY  - JOUR
+AU  - Hosseinalipour, S.
+AU  - Brinton, C. G.
+AU  - Aggarwal, V.
+AU  - Dai, H.
+AU  - Chiang, M.
+PY  - 2020
+DA  - 2020//
+TI  - From federated to fog learning: Distributed machine learning over heterogeneous wireless networks
+JO  - IEEE Commun Mag
+VL  - 58
+UR  - https://doi.org/10.1109/MCOM.001.2000410
+DO  - 10.1109/MCOM.001.2000410
+ID  - Hosseinalipour2020
+ER  - 
+TY  - STD
+TI  - Kairouz P, McMahan HB, Avent B, Bellet A, Bennis M, Bhagoji AN, Bonawitz K, Charles Z, Cormode G, Cummings R et al (2019) Advances and open problems in federated learning. Preprint. arXiv:191204977
+ID  - ref19
+ER  - 
+TY  - STD
+TI  - Konecnỳ J, McMahan HB, Felix XY, Richtárik P, Suresh AT, Bacon D (2016) Federated learning: Strategies for improving communication efficiency. CoRR
+ID  - ref20
+ER  - 
+TY  - STD
+TI  - Lalitha A, Shekhar S, Javidi T, Koushanfar F (2018) Fully decentralized federated learning. In: Third workshop on bayesian deep learning (NeurIPS)
+ID  - ref21
+ER  - 
+TY  - STD
+TI  - Li C, Shen H, Huang T (2016) Learning to diagnose stragglers in distributed computing. In: 2016 9th workshop on many-task computing on clouds, grids, and supercomputers (MTAGS). IEEE, pp 1–6
+ID  - ref22
+ER  - 
+TY  - STD
+TI  - Li X, Huang K, Yang W, Wang S, Zhang Z (2019) On the convergence of fedavg on non-iid data. In: International conference on learning representations
+ID  - ref23
+ER  - 
+TY  - JOUR
+AU  - Li, T.
+AU  - Sahu, A. K.
+AU  - Talwalkar, A.
+AU  - Smith, V.
+PY  - 2020
+DA  - 2020//
+TI  - Federated learning: Challenges, methods, and future directions
+JO  - IEEE Signal Process Mag
+VL  - 37
+UR  - https://doi.org/10.1109/MSP.2020.2975749
+DO  - 10.1109/MSP.2020.2975749
+ID  - Li2020
+ER  - 
+TY  - STD
+TI  - Liang G, Chawathe SS (2004) Privacy-preserving inter-database operations. In: International conference on intelligence and security informatics. Springer, pp 66–82
+ID  - ref25
+ER  - 
+TY  - STD
+TI  - Liu, Y., Kang, Y., Zhang, X., Li, L., Cheng, Y., Chen, T., …& Yang, Q. A Communication efficient vertical federated learning framework. 2019. arXiv preprint arXiv:1912.11187
+ID  - ref26
+ER  - 
+TY  - STD
+TI  - Lo SK, Lu Q, Zhu L, Paik Hy, Xu X, Wang C (2021) Architectural patterns for the design of federated learning systems. Preprint. arXiv:210102373
+ID  - ref27
+ER  - 
+TY  - JOUR
+AU  - Mao, Y.
+AU  - You, C.
+AU  - Zhang, J.
+AU  - Huang, K.
+AU  - Letaief, K. B.
+PY  - 2017
+DA  - 2017//
+TI  - A survey on mobile edge computing: The communication perspective
+JO  - IEEE Commun Surv Tutorials
+VL  - 19
+UR  - https://doi.org/10.1109/COMST.2017.2745201
+DO  - 10.1109/COMST.2017.2745201
+ID  - Mao2017
+ER  - 
+TY  - STD
+TI  - McMahan HB, Moore E, Ramage D, Hampson S et al (2016) Communication-efficient learning of deep networks from decentralized data. Preprint. arXiv:160205629
+ID  - ref29
+ER  - 
+TY  - STD
+TI  - McMahan HB, et al (2021) Advances and open problems in federated learning. Found Trends® Mach Learn 14(1):1
+ID  - ref30
+ER  - 
+TY  - STD
+TI  - Nishio T, Yonetani R (2019) Client selection for federated learning with heterogeneous resources in mobile edge. In: ICC 2019-2019 IEEE international conference on communications (ICC). IEEE, pp 1–7
+ID  - ref31
+ER  - 
+TY  - JOUR
+AU  - O’herrin, J. K.
+AU  - Fost, N.
+AU  - Kudsk, K. A.
+PY  - 2004
+DA  - 2004//
+TI  - Health insurance portability accountability act (hipaa) regulations: effect on medical record research
+JO  - Ann Surg
+VL  - 239
+UR  - https://doi.org/10.1097/01.sla.0000128307.98274.dc
+DO  - 10.1097/01.sla.0000128307.98274.dc
+ID  - O’herrin2004
+ER  - 
+TY  - STD
+TI  - Pathak MA, Rane S, Raj B (2010) Multiparty differential privacy via aggregation of locally trained classifiers. In: NIPS, Citeseer, pp 1876–1884
+ID  - ref33
+ER  - 
+TY  - STD
+TI  - Scannapieco M, Figotin I, Bertino E, Elmagarmid AK (2007) Privacy preserving schema and data matching. In: Proceedings of the 2007 ACM SIGMOD international conference on Management of data, pp 653–664
+ID  - ref34
+ER  - 
+TY  - JOUR
+AU  - Shi, W.
+AU  - Dustdar, S.
+PY  - 2016
+DA  - 2016//
+TI  - The promise of edge computing
+JO  - Computer
+VL  - 49
+UR  - https://doi.org/10.1109/MC.2016.145
+DO  - 10.1109/MC.2016.145
+ID  - Shi2016
+ER  - 
+TY  - JOUR
+AU  - Shi, W.
+AU  - Cao, J.
+AU  - Zhang, Q.
+AU  - Li, Y.
+AU  - Xu, L.
+PY  - 2016
+DA  - 2016//
+TI  - Edge computing: Vision and challenges
+JO  - IEEE Internet Things J
+VL  - 3
+UR  - https://doi.org/10.1109/JIOT.2016.2579198
+DO  - 10.1109/JIOT.2016.2579198
+ID  - Shi2016
+ER  - 
+TY  - STD
+TI  - Sprague MR, Jalalirad A, Scavuzzo M, Capota C, Neun M, Do L, Kopp M (2018) Asynchronous federated learning for geospatial applications. In: Joint European conference on machine learning and knowledge discovery in databases. Springer, pp 21–28
+ID  - ref37
+ER  - 
+TY  - STD
+TI  - Tandon R, Lei Q, Dimakis AG, Karampatziakis N (2017) Gradient coding: Avoiding stragglers in distributed learning. In: International conference on machine learning, PMLR, pp 3368–3376
+ID  - ref38
+ER  - 
+TY  - JOUR
+AU  - Tankard, C.
+PY  - 2016
+DA  - 2016//
+TI  - What the GDPR means for businesses
+JO  - Netw Secur
+VL  - 2016
+UR  - https://doi.org/10.1016/S1353-4858(16)30056-3
+DO  - 10.1016/S1353-4858(16)30056-3
+ID  - Tankard2016
+ER  - 
+TY  - JOUR
+AU  - Wei, K.
+AU  - Li, J.
+AU  - Ding, M.
+AU  - Ma, C.
+AU  - Yang, H. H.
+AU  - Farokhi, F.
+AU  - Jin, S.
+AU  - Quek, T. Q.
+AU  - Poor, H. V.
+PY  - 2020
+DA  - 2020//
+TI  - Federated learning with differential privacy: Algorithms and performance analysis
+JO  - IEEE Trans Inf Forensics Secur
+VL  - 15
+UR  - https://doi.org/10.1109/TIFS.2020.2988575
+DO  - 10.1109/TIFS.2020.2988575
+ID  - Wei2020
+ER  - 
+TY  - JOUR
+AU  - Wu, W.
+AU  - He, L.
+AU  - Lin, W.
+AU  - Mao, R.
+AU  - Maple, C.
+AU  - Jarvis, S. A.
+PY  - 2020
+DA  - 2020//
+TI  - Safa: a semi-asynchronous protocol for fast federated learning with low overhead
+JO  - IEEE Trans Comput
+VL  - 70
+UR  - https://doi.org/10.1109/TC.2020.2994391
+DO  - 10.1109/TC.2020.2994391
+ID  - Wu2020
+ER  - 
+TY  - STD
+TI  - Xie C, Koyejo S, Gupta I (2019) Asynchronous federated optimization. Preprint. arXiv:190303934
+ID  - ref42
+ER  - 
+TY  - STD
+TI  - Xu Z, Yang Z, Xiong J, Yang J, Chen X (2019) Elfish: Resource-aware federated learning on heterogeneous edge devices. Preprint. arXiv:191201684
+ID  - ref43
+ER  - 
+TY  - STD
+TI  - Xu R, Baracaldo N, Zhou Y, Anwar A, Joshi J, Ludwig H (2021) Fedv: Privacy-preserving federated learning over vertically partitioned data. e-prints, pp arXiv–2103
+ID  - ref44
+ER  - 
+TY  - STD
+TI  - Yang K, Fan T, Chen T, Shi Y, Yang Q (2019) A quasi-newton method based vertical federated learning framework for logistic regression. Preprint. arXiv:191200513
+ID  - ref45
+ER  - 
+TY  - JOUR
+AU  - Yang, Q.
+AU  - Liu, Y.
+AU  - Chen, T.
+AU  - Tong, Y.
+PY  - 2019
+DA  - 2019//
+TI  - Federated machine learning: Concept and applications
+JO  - ACM Trans Intell Syst Technol (TIST)
+VL  - 10
+ID  - Yang2019
+ER  - 
+TY  - STD
+TI  - Yang R, Ouyang X, Chen Y, Townend P, Xu J (2018) Intelligent resource scheduling at scale: a machine learning perspective. In: 2018 IEEE symposium on service-oriented system engineering (SOSE). IEEE, pp 132–141
+ID  - ref47
+ER  - 
+TY  - STD
+TI  - Yang S, Ren B, Zhou X, Liu L (2019) Parallel distributed logistic regression for vertical federated learning without third-party coordinator. Preprint. arXiv:191109824
+ID  - ref48
+ER  - 
+TY  - STD
+TI  - Zhang C, Li S, Xia J, Wang W, Yan F, Liu Y (2020) Batchcrypt: Efficient homomorphic encryption for cross-silo federated learning. In: 2020 USENIX annual technical conference (USENIX ATC 20), pp 493–506
+ID  - ref49
+ER  - 

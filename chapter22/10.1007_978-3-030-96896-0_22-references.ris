@@ -1,0 +1,424 @@
+TY  - JOUR
+AU  - Kim, M.
+AU  - Yun, J.
+AU  - Cho, Y.
+AU  - Shin, K.
+AU  - Jang, R.
+AU  - Bae, H. J.
+AU  - Kim, N.
+PY  - 2019
+DA  - 2019//
+TI  - Deep learning in medical imaging
+JO  - Neurospine
+VL  - 16
+UR  - https://doi.org/10.14245/ns.1938396.198
+DO  - 10.14245/ns.1938396.198
+ID  - Kim2019
+ER  - 
+TY  - JOUR
+AU  - Russakovsky, O.
+AU  - Deng, J.
+AU  - Su, H.
+PY  - 2015
+DA  - 2015//
+TI  - ImageNet large scale visual recognition challenge
+JO  - Int J Comput Vis
+VL  - 115
+UR  - https://doi.org/10.1007/s11263-015-0816-y
+DO  - 10.1007/s11263-015-0816-y
+ID  - Russakovsky2015
+ER  - 
+TY  - STD
+TI  - Johnson A, Pollard T, Mark R, Berkowitz S, Horng S (2019) MIMIC-CXR Database (version 2.0.0). PhysioNet. https://doi.org/10.13026/C2JT1Q.
+UR  - https://doi.org/10.13026/C2JT1Q
+ID  - ref3
+ER  - 
+TY  - JOUR
+AU  - Johnson, A. E. W.
+AU  - Pollard, T. J.
+AU  - Berkowitz, S. J.
+PY  - 2019
+DA  - 2019//
+TI  - MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports
+JO  - Sci Data
+VL  - 6
+UR  - https://doi.org/10.1038/s41597-019-0322-0
+DO  - 10.1038/s41597-019-0322-0
+ID  - Johnson2019
+ER  - 
+TY  - STD
+TI  - Irvin J, Rajpurkar P, Ko M, Yu Y, Ciurea-Ilcus S (2019) CheXpert: a large chest radiograph dataset with uncertainty labels and expert comparison. In: 33rd AAAI conference on artificial intelligence
+ID  - ref5
+ER  - 
+TY  - STD
+TI  - Peng Y, Wang X, Lu L, Bagheri M, Summers RM, Lu Z (2018) NegBio: a high-performance tool for negation and uncertainty detection in radiology reports. In: AMIA 2018 informatics summit
+ID  - ref6
+ER  - 
+TY  - STD
+TI  - (2001) DICOM reference guide. Health Dev 30:5–30
+ID  - ref7
+ER  - 
+TY  - STD
+TI  - HIPAA (2020) US Department of Health and Human Services. https://www.hhs.gov/hipaa/index.html
+UR  - https://www.hhs.gov/hipaa/index.html
+ID  - ref8
+ER  - 
+TY  - STD
+TI  - GDPR (2016) Intersoft consulting. https://gdpr-info.eu
+UR  - https://gdpr-info.eu
+ID  - ref9
+ER  - 
+TY  - STD
+TI  - McMahan HB, Moore E, Ramage D, Hampson S, Arcas BAY (2017) Communication-efficient learning of deep networks from decentralized data. arXiv preprint arXiv:1602.05629
+ID  - ref10
+ER  - 
+TY  - STD
+TI  - Ludwig H, Baracaldo N, Thomas G, Zhou Y, Anwar A, Rajamoni S, Ong Y, Radhakrishnan J, Verma A, Sinn M et al (2020) IBM federated learning: an enterprise framework white paper V0.1. arXiv preprint arXiv:2007.10987
+ID  - ref11
+ER  - 
+TY  - JOUR
+AU  - Dalen, J. E.
+PY  - 2002
+DA  - 2002//
+TI  - Pulmonary embolism: what have we learned since Virchow? Natural history, pathophysiology, and diagnosis
+JO  - Chest
+VL  - 122
+UR  - https://doi.org/10.1378/chest.122.4.1440
+DO  - 10.1378/chest.122.4.1440
+ID  - Dalen2002
+ER  - 
+TY  - JOUR
+AU  - Barritt, D. W.
+AU  - Jordan, S. C.
+PY  - 1960
+DA  - 1960//
+TI  - Anticoagulant drugs in the treatment of pulmonary embolism: a controlled trial
+JO  - The Lancet
+VL  - 275
+UR  - https://doi.org/10.1016/S0140-6736(60)92299-6
+DO  - 10.1016/S0140-6736(60)92299-6
+ID  - Barritt1960
+ER  - 
+TY  - JOUR
+AU  - Hermann, R. E.
+AU  - Davis, J. H.
+AU  - Holden, W. D.
+PY  - 1961
+DA  - 1961//
+TI  - Pulmonary embolism: a clinical and pathologic study with emphasis on the effect of prophylactic therapy with anticoagulants
+JO  - Am J Surg
+VL  - 102
+UR  - https://doi.org/10.1016/0002-9610(61)90680-8
+DO  - 10.1016/0002-9610(61)90680-8
+ID  - Hermann1961
+ER  - 
+TY  - JOUR
+AU  - Morrell, M. T.
+AU  - Dunnill, M. S.
+PY  - 1968
+DA  - 1968//
+TI  - The post-mortem incidence of pulmonary embolism in a hospital population
+JO  - Br J Surg
+VL  - 55
+UR  - https://doi.org/10.1002/bjs.1800550506
+DO  - 10.1002/bjs.1800550506
+ID  - Morrell1968
+ER  - 
+TY  - JOUR
+AU  - Coon, W. W.
+AU  - Willis, P. W.
+AU  - Symons, M. J.
+PY  - 1969
+DA  - 1969//
+TI  - Assessment of anticoagulant treatment of venous thromboembolism
+JO  - Ann Surg
+VL  - 170
+UR  - https://doi.org/10.1097/00000658-196910000-00007
+DO  - 10.1097/00000658-196910000-00007
+ID  - Coon1969
+ER  - 
+TY  - JOUR
+AU  - Carson, J. L.
+AU  - Kelley, M. A.
+AU  - Duff, A.
+AU  - Weg, J. G.
+AU  - Fulkerson, W. J.
+AU  - Palevsky, H. I.
+AU  - Schwartz, J. S.
+AU  - Thompson, B. T.
+AU  - Popovich, J.
+AU  - Hobbins, T. E.
+AU  - Spera, M. A.
+PY  - 1992
+DA  - 1992//
+TI  - The clinical course of pulmonary embolism
+JO  - N Engl J Med
+VL  - 326
+UR  - https://doi.org/10.1056/NEJM199205073261902
+DO  - 10.1056/NEJM199205073261902
+ID  - Carson1992
+ER  - 
+TY  - JOUR
+AU  - Das, M.
+AU  - Mühlenbruch, G.
+AU  - Helm, A.
+AU  - Bakai, A.
+AU  - Salganicoff, M.
+AU  - Stanzel, S.
+AU  - Liang, J.
+AU  - Wolf, M.
+AU  - Günther, R. W.
+AU  - Wildberger, J. E.
+PY  - 2008
+DA  - 2008//
+TI  - Computer-aided detection of pulmonary embolism: influence on radiologists’ detection performance with respect to vessel segments
+JO  - Eur Radiol
+VL  - 18
+UR  - https://doi.org/10.1007/s00330-008-0889-x
+DO  - 10.1007/s00330-008-0889-x
+ID  - Das2008
+ER  - 
+TY  - JOUR
+AU  - Zhou, C.
+AU  - Chan, H. P.
+AU  - Patel, S.
+AU  - Cascade, P. N.
+AU  - Sahiner, B.
+AU  - Hadjiiski, L. M.
+AU  - Kazerooni, E. A.
+PY  - 2005
+DA  - 2005//
+TI  - Preliminary investigation of computer-aided detection of pulmonary embolism in three-dimensional computed tomography pulmonary angiography images
+JO  - Acad Radiol
+VL  - 12
+UR  - https://doi.org/10.1016/j.acra.2005.01.014
+DO  - 10.1016/j.acra.2005.01.014
+ID  - Zhou2005
+ER  - 
+TY  - JOUR
+AU  - Schoepf, U. J.
+AU  - Schneider, A. C.
+AU  - Das, M.
+AU  - Wood, S. A.
+AU  - Cheema, J. I.
+AU  - Costello, P.
+PY  - 2007
+DA  - 2007//
+TI  - Pulmonary embolism: computer-aided detection at multidetector row spiral computed tomography
+JO  - J Thorac Imaging
+VL  - 22
+UR  - https://doi.org/10.1097/RTI.0b013e31815842a9
+DO  - 10.1097/RTI.0b013e31815842a9
+ID  - Schoepf2007
+ER  - 
+TY  - JOUR
+AU  - Buhmann, S.
+AU  - Herzog, P.
+AU  - Liang, J.
+AU  - Wolf, M.
+AU  - Salganicoff, M.
+AU  - Kirchhoff, C.
+AU  - Reiser, M.
+AU  - Becker, C. H.
+PY  - 2007
+DA  - 2007//
+TI  - Clinical evaluation of a computer-aided diagnosis (CAD) prototype for the detection of pulmonary embolism
+JO  - Acad Radiol
+VL  - 14
+UR  - https://doi.org/10.1016/j.acra.2007.02.007
+DO  - 10.1016/j.acra.2007.02.007
+ID  - Buhmann2007
+ER  - 
+TY  - JOUR
+AU  - Engelke, C.
+AU  - Schmidt, S.
+AU  - Bakai, A.
+AU  - Auer, F.
+AU  - Marten, K.
+PY  - 2008
+DA  - 2008//
+TI  - Computer-assisted detection of pulmonary embolism: performance evaluation in consensus with experienced and inexperienced chest radiologists
+JO  - Eur Radiol
+VL  - 18
+UR  - https://doi.org/10.1007/s00330-007-0770-3
+DO  - 10.1007/s00330-007-0770-3
+ID  - Engelke2008
+ER  - 
+TY  - CHAP
+AU  - Liang, J.
+AU  - Bi, J.
+PY  - 2007
+DA  - 2007//
+TI  - Computer aided detection of pulmonary embolism with tobogganing and multiple instance classification in CT pulmonary angiography
+BT  - Biennial international conference on information processing in medical imaging
+PB  - Springer
+CY  - Berlin/Heidelberg
+UR  - https://doi.org/10.1007/978-3-540-73273-0_52
+DO  - 10.1007/978-3-540-73273-0_52
+ID  - Liang2007
+ER  - 
+TY  - CHAP
+AU  - Tajbakhsh, N.
+AU  - Gotway, M. B.
+AU  - Liang, J.
+PY  - 2015
+DA  - 2015//
+TI  - Computer-aided pulmonary embolism detection using a novel vessel-aligned multi-planar image representation and convolutional neural networks
+BT  - International conference on medical image computing and computer-assisted intervention
+PB  - Springer
+CY  - Cham
+ID  - Tajbakhsh2015
+ER  - 
+TY  - JOUR
+AU  - Huang, S. C.
+AU  - Kothari, T.
+AU  - Banerjee, I.
+AU  - Chute, C.
+AU  - Ball, R. L.
+AU  - Borus, N.
+PY  - 2020
+DA  - 2020//
+TI  - PENet—a scalable deep-learning model for automated diagnosis of pulmonary embolism using volumetric CT imaging
+JO  - NPJ Digit Med
+VL  - 3
+UR  - https://doi.org/10.1038/s41746-019-0211-0
+DO  - 10.1038/s41746-019-0211-0
+ID  - Huang2020
+ER  - 
+TY  - STD
+TI  - Gonzalez G. CAD-PE challenge website. Available online: http://www.cad-pe.org
+UR  - http://www.cad-pe.org
+ID  - ref26
+ER  - 
+TY  - JOUR
+AU  - Masoudi, M.
+AU  - Pourreza, H. R.
+AU  - Saadatmand-Tarzjan, M.
+AU  - Eftekhari, N.
+AU  - Zargar, F. S.
+AU  - Rad, M. P.
+PY  - 2018
+DA  - 2018//
+TI  - A new data set of computed-tomography angiography images for computer-aided detection of pulmonary embolism
+JO  - Sci Data
+VL  - 5
+UR  - https://doi.org/10.1038/sdata.2018.180
+DO  - 10.1038/sdata.2018.180
+ID  - Masoudi2018
+ER  - 
+TY  - CHAP
+AU  - Ronneberger, O.
+AU  - Fischer, P.
+AU  - Brox, T.
+PY  - 2015
+DA  - 2015//
+TI  - U-Net: convolutional networks for biomedical image segmentation
+BT  - International conference on medical image computing and computer-assisted intervention
+PB  - Springer
+CY  - Cham
+ID  - Ronneberger2015
+ER  - 
+TY  - STD
+TI  - Milletari F, Navab N, Ahmadi SA (2016) V-Net: fully convolutional neural networks for volumetric medical image segmentation. In: 2016 fourth international conference on 3D vision (3DV). IEEE, pp 565–571
+ID  - ref29
+ER  - 
+TY  - STD
+TI  - Ørting SN, Petersen J, Thomsen LH, Wille MMW, Bruijne de M (2018) Detecting emphysema with multiple instance learning. In: 2018 IEEE 15th international symposium biomedical imaging (ISBI), pp 510–513
+ID  - ref30
+ER  - 
+TY  - STD
+TI  - Cheplygina V, Sørensen L, Tax DMJ, Pedersen JH, Loog M, de Bruijne M (2014) Classification of COPD with multiple instance learning. In: 2014 22nd international conference on pattern recognition, pp 1508–1513
+ID  - ref31
+ER  - 
+TY  - STD
+TI  - Peña IP, Cheplygina V, Paschaloudi S et al (2018) Automatic emphysema detection using weakly labeled HRCT lung images. PLoS ONE 13(10). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6188751/
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6188751/
+ID  - ref32
+ER  - 
+TY  - JOUR
+AU  - Bortsova, G.
+AU  - Dubost, F.
+AU  - Ørting, S.
+PY  - 2018
+DA  - 2018//
+TI  - Deep learning from label proportions for emphysema quantification
+JO  - Medical image computing and computer assisted intervention—MICCAI
+VL  - 2018
+ID  - Bortsova2018
+ER  - 
+TY  - STD
+TI  - Karabulut EM, Ibrikci T (2015) Emphysema discrimination from raw HRCT images by convolutional neural networks. In: 2015 9th international conference on electrical and electronics engineering, ELECO, pp 705–708. http://ieeexplore.ieee.org/document/7394441/
+UR  - http://ieeexplore.ieee.org/document/7394441/
+ID  - ref34
+ER  - 
+TY  - JOUR
+AU  - Negahdar, M.
+AU  - Coy, A.
+AU  - Beymer, D.
+PY  - 2019
+DA  - 2019//
+TI  - An end-to-end deep learning pipeline for emphysema quantification using multi-label learning. In: 41st annual international conference on IEEE engineering in medicine biology society
+JO  - EMBC
+VL  - 2019
+ID  - Negahdar2019
+ER  - 
+TY  - JOUR
+AU  - Humphries, S.
+AU  - Notary, A.
+AU  - Centeno, J. P.
+AU  - Strand, M.
+AU  - Crapo, J.
+AU  - Silverman, E.
+AU  - Lynch, D.
+PY  - 2020
+DA  - 2020//
+TI  - Deep learning enables automatic classification of emphysema pattern at CT
+JO  - Radiology
+VL  - 294
+UR  - https://doi.org/10.1148/radiol.2019191022
+DO  - 10.1148/radiol.2019191022
+ID  - Humphries2020
+ER  - 
+TY  - STD
+TI  - Braman N, Beymer D, Degan E (2018) Disease detection in weakly annotated volumetric medical images using a convolutional LSTM network. arXiv preprint arXiv:1812.01087
+ID  - ref37
+ER  - 
+TY  - JOUR
+AU  - Shi, X.
+AU  - Chen, Z.
+AU  - Wang, H.
+AU  - Yeung, D. Y.
+AU  - Wong, W. K.
+AU  - Woo, W. C.
+PY  - 2015
+DA  - 2015//
+TI  - Convolutional LSTM network: a machine learning approach for precipitation nowcasting
+JO  - Adv Neural Inf Process Syst
+VL  - 2015
+ID  - Shi2015
+ER  - 
+TY  - JOUR
+PY  - 2011
+DA  - 2011//
+TI  - The national lung screening trial: overview and study design
+JO  - Radiology
+VL  - 258
+UR  - https://doi.org/10.1148/radiol.10091808
+DO  - 10.1148/radiol.10091808
+ID  - ref39
+ER  - 
+TY  - JOUR
+AU  - Hohberger, L. A.
+AU  - Schroeder, D. R.
+AU  - Bartholmai, B. J.
+PY  - 2014
+DA  - 2014//
+TI  - Correlation of regional emphysema and lung cancer: a lung tissue research consortium-based study
+JO  - J Thorac Oncol Off Publ Int Assoc Study Lung Cancer
+VL  - 9
+ID  - Hohberger2014
+ER  - 
+TY  - STD
+TI  - Huang G, Liu Z, Van Der Maaten L, Weinberger KQ (2017) Densely connected convolutional networks. In: 2017 IEEE conference on computer vision and pattern recognition (CVPR), pp 2261–2269. https://doi.org/10.1109/CVPR.2017.243
+ID  - ref41
+ER  - 

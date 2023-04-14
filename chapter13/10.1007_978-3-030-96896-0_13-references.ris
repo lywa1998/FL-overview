@@ -1,0 +1,472 @@
+TY  - STD
+TI  - Abadi M, Chu A, Goodfellow I, McMahan HB, Mironov I, Talwar K, Zhang L (2016) Deep learning with differential privacy. In: Proceedings of the 2016 ACM SIGSAC conference on computer and communications security, pp 308–318
+ID  - ref1
+ER  - 
+TY  - BOOK
+AU  - Abdalla, M.
+AU  - Bourse, F.
+AU  - Caro, A.
+AU  - Pointcheval, D.
+PY  - 2015
+DA  - 2015//
+TI  - Simple functional encryption schemes for inner products
+PB  - IACR international workshop on public key cryptography. Springer
+CY  - In
+ID  - Abdalla2015
+ER  - 
+TY  - STD
+TI  - Abdalla M, Benhamouda F, Gay R (2019) From single-input to multi-client inner-product functional encryption. In: International conference on the theory and application of cryptology and information security. Springer, pp 552–582
+ID  - ref3
+ER  - 
+TY  - STD
+TI  - Ananth P, Vaikuntanathan V (2019) Optimal bounded-collusion secure functional encryption. In: Theory of cryptography conference. Springer, pp 174–198
+ID  - ref4
+ER  - 
+TY  - JOUR
+AU  - Aono, Y.
+AU  - Hayashi, T.
+AU  - Wang, L.
+AU  - Moriai, S.
+PY  - 2017
+DA  - 2017//
+TI  - Privacy-preserving deep learning via additively homomorphic encryption
+JO  - IEEE Trans Inf Forens Secur
+VL  - 13
+ID  - Aono2017
+ER  - 
+TY  - STD
+TI  - Asoodeh S, Calmon F (2020) Differentially private federated learning: An information-theoretic perspective. In: Proc. ICML-FL
+ID  - ref6
+ER  - 
+TY  - JOUR
+AU  - Ateniese, G.
+AU  - Mancini, L. V.
+AU  - Spognardi, A.
+AU  - Villani, A.
+AU  - Vitali, D.
+AU  - Felici, G.
+PY  - 2015
+DA  - 2015//
+TI  - Hacking smart machines with smarter ones: How to extract meaningful data from machine learning classifiers
+JO  - Int J Secur Netw
+VL  - 10
+UR  - https://doi.org/10.1504/IJSN.2015.071829
+DO  - 10.1504/IJSN.2015.071829
+ID  - Ateniese2015
+ER  - 
+TY  - BOOK
+AU  - Attrapadung, N.
+AU  - Libert, B.
+PY  - 2010
+DA  - 2010//
+TI  - Functional encryption for inner product: Achieving constant-size ciphertexts with adaptive security or support for negation
+PB  - International workshop on public key cryptography. Springer
+CY  - In
+ID  - Attrapadung2010
+ER  - 
+TY  - STD
+TI  - Balta D, Sellami M, Kuhn P, Schöpp U, Buchinger M, Baracaldo N, Anwar A, Sinn M, Purcell M, Altakrouri B IFIP EGOV (2021) Accountable Federated Machine Learning in Government: Engineering and Management Insights (Best paper award), IFIP EGOV 2021
+ID  - ref9
+ER  - 
+TY  - STD
+TI  - Bonawitz K, Ivanov V, Kreuter B, Marcedone A, McMahan HB, Patel S, Ramage D, Segal A, Seth K (2017) Practical secure aggregation for privacy-preserving machine learning. In: Proceedings of the 2017 ACM SIGSAC conference on computer and communications security, pp 1175–1191
+ID  - ref10
+ER  - 
+TY  - STD
+TI  - Boneh D, Sahai A, Waters B (2011) Functional encryption: Definitions and challenges. In: Theory of cryptography conference. Springer, pp 253–273
+ID  - ref11
+ER  - 
+TY  - STD
+TI  - Carlini N, Liu C, Erlingsson Ú, Kos J, Song D (2019) The secret sharer: Evaluating and testing unintended memorization in neural networks. In: 28th USENIX security symposium (USENIX Sec 19), pp 267–284
+ID  - ref12
+ER  - 
+TY  - STD
+TI  - Carlini N, Tramer F, Wallace E, Jagielski M, Herbert-Voss A, Lee K, Roberts A, Brown T, Song D, Erlingsson U et al (2020) Extracting training data from large language models. Preprint. arXiv:2012.07805
+ID  - ref13
+ER  - 
+TY  - STD
+TI  - Centers for Medicare & Medicaid Services: The Health Insurance Portability and Accountability Act of 1996 (HIPAA) (1996) Online at http://www.cms.hhs.gov/hipaa/
+UR  - http://www.cms.hhs.gov/hipaa/
+ID  - ref14
+ER  - 
+TY  - STD
+TI  - Cheng PC, Eykholt K, Gu Z, Jamjoom H, Jayaram K, Valdez E, Verma A (2021) Separation of powers in federated learning. Preprint. arXiv:2105.09400
+ID  - ref15
+ER  - 
+TY  - STD
+TI  - Choquette-Choo CA, Tramer F, Carlini N, Papernot N (2021) Label-only membership inference attacks. In: Meila M, Zhang T (eds) Proceedings of the 38th international conference on machine learning, Proceedings of machine learning research. PMLR, vol 139, pp 1964–1974. http://proceedings.mlr.press/v139/choquette-choo21a.html
+UR  - http://proceedings.mlr.press/v139/choquette-choo21a.html
+ID  - ref16
+ER  - 
+TY  - STD
+TI  - Choudhury O, Gkoulalas-Divanis A, Salonidis T, Sylla I, Park Y, Hsu G, Das A (2020) A syntactic approach for privacy-preserving federated learning. In: ECAI 2020. IOS Press, pp 1762–1769
+ID  - ref17
+ER  - 
+TY  - STD
+TI  - Clifton C, Tassa T (2013) On syntactic anonymity and differential privacy. In: 2013 IEEE 29th international conference on data engineering workshops (ICDEW). IEEE, pp 88–93
+ID  - ref18
+ER  - 
+TY  - STD
+TI  - Damgård I, Jurik M (2001) A generalisation, a simpli. cation and some applications of paillier’s probabilistic public-key system. In: International workshop on public key cryptography. Springer, pp 119–136
+ID  - ref19
+ER  - 
+TY  - JOUR
+AU  - Domingo-Ferrer, J.
+AU  - Sánchez, D.
+AU  - Blanco-Justicia, A.
+PY  - 2021
+DA  - 2021//
+TI  - The limits of differential privacy (and its misuse in data release and machine learning)
+JO  - Commun ACM
+VL  - 64
+UR  - https://doi.org/10.1145/3433638
+DO  - 10.1145/3433638
+ID  - Domingo-Ferrer2021
+ER  - 
+TY  - STD
+TI  - Dwork C (2008) Differential privacy: A survey of results. In: International conference on theory and applications of models of computation. Springer, pp 1–19
+ID  - ref21
+ER  - 
+TY  - STD
+TI  - Dwork C, Lei J (2009) Differential privacy and robust statistics. In: STOC, vol 9. ACM, pp 371–380
+ID  - ref22
+ER  - 
+TY  - JOUR
+AU  - Dwork, C.
+AU  - Roth, A.
+PY  - 2014
+DA  - 2014//
+TI  - The algorithmic foundations of differential privacy
+JO  - Found Trends Theor Comput Sci
+VL  - 9
+ID  - Dwork2014
+ER  - 
+TY  - STD
+TI  - FederatedAI: Fate (federated AI technology enabler). Online at https://fate.fedai.org/
+UR  - https://fate.fedai.org/
+ID  - ref24
+ER  - 
+TY  - STD
+TI  - Fredrikson M, Lantz E, Jha S, Lin S, Page D, Ristenpart T (2014) Privacy in pharmacogenetics: An end-to-end case study of personalized warfarin dosing. In: 23rd {USENIX} Security Symposium ({USENIX} Security 14), pp 17–32
+ID  - ref25
+ER  - 
+TY  - STD
+TI  - Fredrikson M, Jha S, Ristenpart T (2015) Model inversion attacks that exploit confidence information and basic countermeasures. In: Proceedings of the 22nd ACM SIGSAC conference on computer and communications security, pp 1322–1333
+ID  - ref26
+ER  - 
+TY  - STD
+TI  - Ganju K, Wang Q, Yang W, Gunter C.A, Borisov N (2018) Property inference attacks on fully connected neural networks using permutation invariant representations. In: Proceedings of the 2018 ACM SIGSAC conference on computer and communications security, pp 619–633
+ID  - ref27
+ER  - 
+TY  - STD
+TI  - Geiping J, Bauermeister H, Dröge H, Moeller M (2020) Inverting gradients–how easy is it to break privacy in federated learning? Preprint. arXiv:2003.14053
+ID  - ref28
+ER  - 
+TY  - STD
+TI  - Gentry C (2009) A fully homomorphic encryption scheme. Ph.D. thesis, Stanford University
+ID  - ref29
+ER  - 
+TY  - STD
+TI  - Geyer RC, Klein T, Nabi M (2017) Differentially private federated learning: A client level perspective. Preprint. arXiv:1712.07557
+ID  - ref30
+ER  - 
+TY  - STD
+TI  - Goldwasser S, Gordon S.D, Goyal V, Jain A, Katz J, Liu FH, Sahai A, Shi E, Zhou HS (2014) Multi-input functional encryption. In: Annual international conference on the theory and applications of cryptographic techniques. Springer, pp 578–602
+ID  - ref31
+ER  - 
+TY  - STD
+TI  - Hayes J, Melis L, Danezis G, De Cristofaro E (2017) Logan: Membership inference attacks against generative models. Preprint. arXiv:1705.07663
+ID  - ref32
+ER  - 
+TY  - STD
+TI  - Henderson P, Sinha K, Angelard-Gontier N, Ke NR, Fried G, Lowe R, Pineau J (2018) Ethical challenges in data-driven dialogue systems. In: Proceedings of the 2018 AAAI/ACM conference on AI, ethics, and society, pp 123–129
+ID  - ref33
+ER  - 
+TY  - STD
+TI  - Hitaj B, Ateniese G, Perez-Cruz F (2017) Deep models under the GAN: information leakage from collaborative deep learning. In: Proceedings of the 2017 ACM SIGSAC conference on computer and communications security, pp 603–618
+ID  - ref34
+ER  - 
+TY  - JOUR
+AU  - Holohan, N.
+AU  - Leith, D. J.
+AU  - Mason, O.
+PY  - 2017
+DA  - 2017//
+TI  - Optimal differentially private mechanisms for randomised response
+JO  - IEEE Trans Inf Forens Secur
+VL  - 12
+UR  - https://doi.org/10.1109/TIFS.2017.2718487
+DO  - 10.1109/TIFS.2017.2718487
+ID  - Holohan2017
+ER  - 
+TY  - STD
+TI  - Holohan N, Braghin S, Mac Aonghusa P, Levacher K (2019) Diffprivlib: the IBMTM differential privacy library. Preprint. arXiv:1907.02444
+ID  - ref36
+ER  - 
+TY  - STD
+TI  - Huang Y, Su Y, Ravi S, Song Z, Arora S, Li K (2020) Privacy-preserving learning via deep net pruning. Preprint. arXiv:2003.01876
+ID  - ref37
+ER  - 
+TY  - STD
+TI  - Jia J, Salem A, Backes M, Zhang Y, Gong NZ (2019) Memguard: Defending against black-box membership inference attacks via adversarial examples. In: Proceedings of the 2019 ACM SIGSAC conference on computer and communications security, pp 259–274
+ID  - ref38
+ER  - 
+TY  - STD
+TI  - Jin X, Du R, Chen PY, Chen T (2020) Cafe: Catastrophic data leakage in federated learning. OpenReview - Preprint
+ID  - ref39
+ER  - 
+TY  - STD
+TI  - Kadhe S, Rajaraman N, Koyluoglu OO, Ramchandran K (2020) Fastsecagg: Scalable secure aggregation for privacy-preserving federated learning. Preprint. arXiv:2009.11248
+ID  - ref40
+ER  - 
+TY  - STD
+TI  - Kairouz P, Oh S, Viswanath P (2014) Extremal mechanisms for local differential privacy. Preprint. arXiv:1407.1338
+ID  - ref41
+ER  - 
+TY  - STD
+TI  - Kairouz P, Liu Z, Steinke T (2021) The distributed discrete gaussian mechanism for federated learning with secure aggregation. Preprint. arXiv:2102.06387
+ID  - ref42
+ER  - 
+TY  - STD
+TI  - Kaplan D, Powell J, Woller T (2016) Amd memory encryption. White paper
+ID  - ref43
+ER  - 
+TY  - STD
+TI  - Kifer D, Machanavajjhala A (2011) No free lunch in data privacy. In: Proceedings of the 2011 ACM SIGMOD international conference on management of data, pp 193–204
+ID  - ref44
+ER  - 
+TY  - STD
+TI  - Lam M, Wei GY, Brooks D, Reddi VJ, Mitzenmacher M (2021) Gradient disaggregation: Breaking privacy in federated learning by reconstructing the user participant matrix. Preprint. arXiv:2106.06089
+ID  - ref45
+ER  - 
+TY  - STD
+TI  - Law A, Leung C, Poddar R, Popa R.A, Shi C, Sima O, Yu C, Zhang X, Zheng W (2020) Secure collaborative training and inference for xgboost. In: Proceedings of the 2020 workshop on privacy-preserving machine learning in practice, pp 21–26
+ID  - ref46
+ER  - 
+TY  - STD
+TI  - Li O, Sun J, Yang X, Gao W, Zhang H, Xie J, Smith V, Wang C (2021) Label leakage and protection in two-party split learning. Preprint. arXiv:2102.08504
+ID  - ref47
+ER  - 
+TY  - STD
+TI  - Liu Y, Ma Z, Liu X, Ma S, Nepal S, Deng R (2019) Boosting privately: Privacy-preserving federated extreme boosting for mobile crowdsensing. Preprint. arXiv:1907.10218
+ID  - ref48
+ER  - 
+TY  - STD
+TI  - Liu C, Zhu Y, Chaudhuri K, Wang YX (2020) Revisiting model-agnostic private learning: Faster rates and active learning. Preprint. arXiv:2011.03186
+ID  - ref49
+ER  - 
+TY  - STD
+TI  - Ludwig H, Baracaldo N, Thomas G, Zhou Y, Anwar A, Rajamoni S, Ong Y, Radhakrishnan J, Verma A, Sinn M et al (2020) IbmTM federated learning: an enterprise framework white paper v0. 1. Preprint. arXiv:2007.10987
+ID  - ref50
+ER  - 
+TY  - STD
+TI  - Machanavajjhala A, Kifer D, Gehrke J, Venkitasubramaniam M (2007) l-diversity: Privacy beyond k-anonymity. ACM Trans Knowl Discov Data (TKDD) 1(1):3–es
+ID  - ref51
+ER  - 
+TY  - STD
+TI  - McKeen F, Alexandrovich I, Berenzon A, Rozas C.V, Shafi H, Shanbhogue V, Savagaonkar UR (2013) Innovative instructions and software model for isolated execution. In: Proceedings of the 2nd international workshop on hardware and architectural support for security and privacy, HASP ’13. Association for Computing Machinery, New York
+ID  - ref52
+ER  - 
+TY  - STD
+TI  - McMahan B, Moore E, Ramage D, Hampson, S, y Arcas BA (2017) Communication-efficient learning of deep networks from decentralized data. In: Artificial intelligence and statistics. PMLR, pp 1273–1282
+ID  - ref53
+ER  - 
+TY  - STD
+TI  - Melis L, Song C, De Cristofaro E, Shmatikov V (2019) Exploiting unintended feature leakage in collaborative learning. In: 2019 IEEE symposium on security and privacy (SP). IEEE, pp 691–706
+ID  - ref54
+ER  - 
+TY  - STD
+TI  - Mohassel P, Zhang Y (2017) Secureml: A system for scalable privacy-preserving machine learning. In: 2017 IEEE symposium on security and privacy (SP). IEEE, pp 19–38
+ID  - ref55
+ER  - 
+TY  - STD
+TI  - Naccache D, Stern J (1997) A new public-key cryptosystem. In: International conference on the theory and applications of cryptographic techniques. Springer, pp 27–36
+ID  - ref56
+ER  - 
+TY  - STD
+TI  - Nasr M, Shokri R, Houmansadr A (2019) Comprehensive privacy analysis of deep learning: Stand-alone and federated learning under passive and active white-box inference attacks. 2019 IEEE symposium on security and privacy (SP)
+ID  - ref57
+ER  - 
+TY  - STD
+TI  - Nikolaenko V, Weinsberg U, Ioannidis S, Joye M, Boneh D, Taft N (2013) Privacy-preserving ridge regression on hundreds of millions of records. In: 2013 IEEE symposium on security and privacy. IEEE, pp 334–348
+ID  - ref58
+ER  - 
+TY  - STD
+TI  - Okamoto T, Uchiyama S (1998) A new public-key cryptosystem as secure as factoring. In: International conference on the theory and applications of cryptographic techniques. Springer, pp 308–318
+ID  - ref59
+ER  - 
+TY  - STD
+TI  - Paillier P (1999) Public-key cryptosystems based on composite degree residuosity classes. In: International conference on the theory and applications of cryptographic techniques. Springer, pp 223–238
+ID  - ref60
+ER  - 
+TY  - STD
+TI  - Papernot N, Abadi M, Erlingsson U, Goodfellow I, Talwar K (2016) Semi-supervised knowledge transfer for deep learning from private training data. Preprint. arXiv:1610.05755
+ID  - ref61
+ER  - 
+TY  - STD
+TI  - Park S, McMullen A (2021) Announcing secure build for ibmTM cloud hyper protect virtual servers. IBMTM Cloud Blog. https://www.ibm.com/cloud/blog/announcements/secure-build-for-ibm-cloud-hyper-protect-virtual-servers
+UR  - https://www.ibm.com/cloud/blog/announcements/secure-build-for-ibm-cloud-hyper-protect-virtual-servers
+ID  - ref62
+ER  - 
+TY  - STD
+TI  - Parliament E of the European Union C (2016) General data protection regulation (GDPR) – official legal text. https://gdpr-info.eu/
+UR  - https://gdpr-info.eu/
+ID  - ref63
+ER  - 
+TY  - STD
+TI  - Parno B (2008) Bootstrapping trust in a “trusted” platform. In: HotSec
+ID  - ref64
+ER  - 
+TY  - STD
+TI  - Qin Z, Yang Y, Yu T, Khalil I, Xiao X, Ren K (2016) Heavy hitter estimation over set-valued data with local differential privacy. In: Proceedings of the 2016 ACM SIGSAC conference on computer and communications security, pp 192–203
+ID  - ref65
+ER  - 
+TY  - STD
+TI  - Radebaugh C, Erlingsson U.: Introducing TensorFlow privacy: Learning with differential privacy for training data. https://blog.tensorflow.org/2019/03/introducing-tensorflow-privacy-learning.html
+UR  - https://blog.tensorflow.org/2019/03/introducing-tensorflow-privacy-learning.html
+ID  - ref66
+ER  - 
+TY  - STD
+TI  - Roth H, Zephyr M, Harouni A (2021) Federated learning with homomorphic encryption. NVIDIATM Developer Blog. https://developer.nvidia.com/blog/federated-learning-with-homomorphic-encryption/
+UR  - https://developer.nvidia.com/blog/federated-learning-with-homomorphic-encryption/
+ID  - ref67
+ER  - 
+TY  - STD
+TI  - Salem A, Zhang Y, Humbert M, Berrang P, Fritz M, Backes M (2018) Ml-leaks: Model and data independent membership inference attacks and defenses on machine learning models. Preprint. arXiv:1806.01246
+ID  - ref68
+ER  - 
+TY  - JOUR
+AU  - Shamir, A.
+PY  - 1979
+DA  - 1979//
+TI  - How to share a secret
+JO  - Commun ACM
+VL  - 22
+UR  - https://doi.org/10.1145/359168.359176
+DO  - 10.1145/359168.359176
+ID  - Shamir1979
+ER  - 
+TY  - STD
+TI  - Shokri R, Stronati M, Song C, Shmatikov V (2017) Membership inference attacks against machine learning models. In: 2017 IEEE symposium on security and privacy (SP). IEEE, pp 3–18
+ID  - ref70
+ER  - 
+TY  - STD
+TI  - So J, Ali RE, Guler B, Jiao J, Avestimehr S (2021) Securing secure aggregation: Mitigating multi-round privacy leakage in federated learning. Preprint. arXiv:2106.03328
+ID  - ref71
+ER  - 
+TY  - JOUR
+AU  - So, J.
+AU  - Güler, B.
+AU  - Avestimehr, A. S.
+PY  - 2021
+DA  - 2021//
+TI  - Turbo-aggregate: Breaking the quadratic aggregation barrier in secure federated learning
+JO  - IEEE J Sel Areas Inf Theory
+VL  - 2
+UR  - https://doi.org/10.1109/JSAIT.2021.3054610
+DO  - 10.1109/JSAIT.2021.3054610
+ID  - So2021
+ER  - 
+TY  - STD
+TI  - Song C, Raghunathan A (2020) Information leakage in embedding models. In: Proceedings of the 2020 ACM SIGSAC conference on computer and communications security, pp 377–390
+ID  - ref73
+ER  - 
+TY  - STD
+TI  - Song S, Chaudhuri K, Sarwate AD (2013) Stochastic gradient descent with differentially private updates. In: 2013 IEEE global conference on signal and information processing. IEEE, pp 245–248
+ID  - ref74
+ER  - 
+TY  - JOUR
+AU  - Song, M.
+AU  - Wang, Z.
+AU  - Zhang, Z.
+AU  - Song, Y.
+AU  - Wang, Q.
+AU  - Ren, J.
+AU  - Qi, H.
+PY  - 2020
+DA  - 2020//
+TI  - Analyzing user-level privacy attack against federated learning
+JO  - IEEE J Sel Areas Commun
+VL  - 38
+UR  - https://doi.org/10.1109/JSAC.2020.3000372
+DO  - 10.1109/JSAC.2020.3000372
+ID  - Song2020
+ER  - 
+TY  - JOUR
+AU  - Sweeney, L.
+PY  - 2002
+DA  - 2002//
+TI  - k-anonymity: A model for protecting privacy
+JO  - Int J Uncertainty Fuzziness Knowl Based Syst
+VL  - 10
+UR  - https://doi.org/10.1142/S0218488502001648
+DO  - 10.1142/S0218488502001648
+ID  - Sweeney2002
+ER  - 
+TY  - STD
+TI  - Team DP (2017) Learning with privacy at scale. Machine Learning Research at AppleTM
+ID  - ref77
+ER  - 
+TY  - STD
+TI  - Thakkar O, Ramaswamy S, Mathews R, Beaufays F (2020) Understanding unintended memorization in federated learning. Preprint. arXiv:2006.07490
+ID  - ref78
+ER  - 
+TY  - STD
+TI  - Tramèr F, Boneh D (2020) Differentially private learning needs better features (or much more data). Preprint. arXiv:2011.11660
+ID  - ref79
+ER  - 
+TY  - STD
+TI  - Truex S, Baracaldo N, Anwar A, Steinke T, Ludwig H, Zhang R, Zhou Y (2019) A hybrid approach to privacy-preserving federated learning. In: Proceedings of the 12th ACM workshop on artificial intelligence and security, pp 1–11
+ID  - ref80
+ER  - 
+TY  - STD
+TI  - Wang Y, Deng J, Guo D, Wang C, Meng X, Liu H, Ding C, Rajasekaran S (2020) Sapag: a self-adaptive privacy attack from gradients. Preprint. arXiv:2009.06228
+ID  - ref81
+ER  - 
+TY  - JOUR
+AU  - Warner, S. L.
+PY  - 1965
+DA  - 1965//
+TI  - Randomized response: A survey technique for eliminating evasive answer bias
+JO  - J Am Stat Assoc
+VL  - 60
+UR  - https://doi.org/10.1080/01621459.1965.10480775
+DO  - 10.1080/01621459.1965.10480775
+ID  - Warner1965
+ER  - 
+TY  - STD
+TI  - Wei W, Liu L, Loper M, Chow KH, Gursoy ME, Truex S, Wu Y (2020) A framework for evaluating gradient leakage attacks in federated learning. Preprint. arXiv:2004.10397
+ID  - ref83
+ER  - 
+TY  - STD
+TI  - Xu R, Baracaldo N, Zhou Y, Anwar A, Ludwig H (2019) Hybridalpha: An efficient approach for privacy-preserving federated learning. In: Proceedings of the 12th ACM workshop on artificial intelligence and security, pp 13–23
+ID  - ref84
+ER  - 
+TY  - STD
+TI  - Yang Z, Shao B, Xuan B, Chang EC, Zhang F (2020) Defending model inversion and membership inference attacks via prediction purification. Preprint. arXiv:2005.03915
+ID  - ref85
+ER  - 
+TY  - STD
+TI  - Yurochkin M, Agarwal M, Ghosh S, Greenewald K, Hoang N, Khazaeni Y (2019) Bayesian nonparametric federated learning of neural networks. In: International conference on machine learning. PMLR, pp 7252–7261
+ID  - ref86
+ER  - 
+TY  - STD
+TI  - Zanella-Béguelin S, Wutschitz L, Tople S, Rühle V, Paverd A, Ohrimenko O, Köpf B, Brockschmidt M (2020) Analyzing information leakage of updates to natural language models. In: Proceedings of the 2020 ACM SIGSAC conference on computer and communications security, pp 363–375
+ID  - ref87
+ER  - 
+TY  - STD
+TI  - Zhang C, Li S, Xia J, Wang W, Yan F, Liu Y (2020) Batchcrypt: Efficient homomorphic encryption for cross-silo federated learning. In: 2020 USENIX annual technical conference (USENIX ATC 20), pp 493–506
+ID  - ref88
+ER  - 
+TY  - STD
+TI  - Zhao B, Mopuri KR, Bilen H (2020) IDLG: Improved deep leakage from gradients. Preprint. arXiv:2001.02610
+ID  - ref89
+ER  - 
+TY  - STD
+TI  - Zheng, W Popa RA, Gonzalez JE, Stoica I (2019) Helen: Maliciously secure coopetitive learning for linear models. In: 2019 IEEE symposium on security and privacy (SP). IEEE, pp 724–738
+ID  - ref90
+ER  - 
+TY  - STD
+TI  - Zhu L, Han S (2020) Deep leakage from gradients. In: Federated learning. Springer, pp 17–31
+ID  - ref91
+ER  - 

@@ -1,0 +1,135 @@
+TY  - BOOK
+AU  - Blanchard, P.
+AU  - Mhamdi, E. M.
+AU  - Guerraoui, R.
+AU  - Stainer, J.
+PY  - 2017
+DA  - 2017//
+TI  - Machine learning with adversaries: byzantine tolerant gradient descent
+PB  - Advances in Neural Information Processing Systems
+CY  - Advances in Neural Information Processing Systems
+ID  - Blanchard2017
+ER  - 
+TY  - STD
+TI  - Charikar M, Steinhardt J, Valiant G (2017, June) Learning from untrusted data. In: Proceedings of the 49th annual ACM SIGACT symposium on theory of computing, pp 47–60
+ID  - ref2
+ER  - 
+TY  - JOUR
+AU  - Chen, Y.
+AU  - Su, L.
+AU  - Xu, J.
+PY  - 2017
+DA  - 2017//
+TI  - Distributed statistical machine learning in adversarial settings: Byzantine gradient descent
+JO  - Proceedings of the ACM on measurement and analysis of computing systems
+VL  - 1
+ID  - Chen2017
+ER  - 
+TY  - STD
+TI  - El-Mhamdi, E. M., Guerraoui, R., & Rouault, S. (2020). Distributed momentum for byzantine-resilient learning. arXiv preprint arXiv:2003.00010
+ID  - ref4
+ER  - 
+TY  - STD
+TI  - Fung, C., Yoon, C. J., & Beschastnikh, I. (2018). Mitigating sybils in federated learning poisoning. arXiv preprint arXiv:1808.04866
+ID  - ref5
+ER  - 
+TY  - STD
+TI  - Gao D, Liu Y, Huang A, Ju C, Yu H, Yang Q (2019) Privacy-preserving heterogeneous federated transfer learning. In: 2019 IEEE international conference on big data (Big Data). IEEE, pp 2552–2559
+ID  - ref6
+ER  - 
+TY  - STD
+TI  - Krishnaswamy R, Li S, Sandeep S (2018, June) Constant approximation for k-median and k-means with outliers via iterative rounding. In: Proceedings of the 50th annual ACM SIGACT symposium on theory of computing, pp 646–659
+ID  - ref7
+ER  - 
+TY  - JOUR
+AU  - Lamport, L.
+AU  - Shostak, R.
+AU  - Pease, M.
+PY  - 1982
+DA  - 1982//
+TI  - The byzantine generals problem
+JO  - ACM Trans Program Lang Syst
+VL  - 4
+UR  - https://doi.org/10.1145/357172.357176
+DO  - 10.1145/357172.357176
+ID  - Lamport1982
+ER  - 
+TY  - JOUR
+AU  - Lecun, Y.
+AU  - Bottou, L.
+AU  - Bengio, Y.
+AU  - Haffner, P.
+PY  - 1998
+DA  - 1998//
+TI  - Gradient-based learning applied to document recognition
+JO  - Proc IEEE
+VL  - 86
+UR  - https://doi.org/10.1109/5.726791
+DO  - 10.1109/5.726791
+ID  - Lecun1998
+ER  - 
+TY  - STD
+TI  - Li T, Sahu AK, Zaheer M, Sanjabi M, Talwalkar A, Smith V (2018) Federated optimization in heterogeneous networks. Preprint. arXiv:1812.06127
+ID  - ref10
+ER  - 
+TY  - STD
+TI  - Ludwig H, Baracaldo N, Thomas G, Zhou Y, Anwar A, Rajamoni S, Ong Y, Radhakrishnan J, Verma A, Sinn M et al (2020) IBM federated learning: an enterprise framework white paper v0. 1. Preprint. arXiv:2007.10987
+ID  - ref11
+ER  - 
+TY  - STD
+TI  - McMahan B, Moore E, Ramage D, Hampson S, y Arcas, B. A. (2017, April) Communication-efficient learning of deep networks from decentralized data. In: Artificial intelligence and statistics, PMLR, pp 1273–1282
+ID  - ref12
+ER  - 
+TY  - STD
+TI  - Guerraoui R, Rouault S (2018, July) The hidden vulnerability of distributed learning in byzantium. In: International conference on machine learning. PMLR, pp 3521–3530
+ID  - ref13
+ER  - 
+TY  - STD
+TI  - Muñoz-González, L., Co, K. T., & Lupu, E. C. (2019). Byzantine-robust federated machine learning through adaptive model averaging. arXiv preprint arXiv:1909.05125
+ID  - ref14
+ER  - 
+TY  - STD
+TI  - Pillutla, K., Kakade, S. M., & Harchaoui, Z. (2019). Robust aggregation for federated learning. arXiv preprint arXiv:1912.13445
+ID  - ref15
+ER  - 
+TY  - STD
+TI  - Rajput S, Wang H, Charles ZB, Papailiopoulos DS (2019) DETOX: A redundancy-based framework for faster and more robust gradient aggregation. CoRR abs/1907.12205. http://arxiv.org/abs/1907.12205
+UR  - http://arxiv.org/abs/1907.12205
+ID  - ref16
+ER  - 
+TY  - STD
+TI  - Varma K, Zhou Y, Baracaldo N, Anwar A (2021) Legato: A layerwise gradient aggregation algorithm for mitigating byzantine attacks in federated learning
+ID  - ref17
+ER  - 
+TY  - STD
+TI  - Wang H, Yurochkin M, Sun Y, Papailiopoulos D, Khazaeni Y (2020) Federated learning with matched averaging
+ID  - ref18
+ER  - 
+TY  - STD
+TI  - Xia Q, Tao Z, Hao Z, Li Q (2019) Faba: An algorithm for fast aggregation against byzantine attacks in distributed neural networks. In: Proceedings of the twenty-eighth international joint conference on artificial intelligence, IJCAI-19. International joint conferences on artificial intelligence organization, pp 4824–4830. https://doi.org/10.24963/ijcai.2019/670
+ID  - ref19
+ER  - 
+TY  - STD
+TI  - Xie, C., Koyejo, O., & Gupta, I. (2018). Generalized byzantine-tolerant sgd. arXiv preprint arXiv:1802.10116
+ID  - ref20
+ER  - 
+TY  - STD
+TI  - Xie C, Koyejo S, Gupta I (2019, May) Zeno: distributed stochastic gradient descent with suspicion-based fault-tolerance. In: International conference on machine learning. PMLR, pp 6893–6901
+ID  - ref21
+ER  - 
+TY  - STD
+TI  - Xie C, Koyejo O, Gupta I (2020, August) Fall of empires: breaking byzantine-tolerant sgd by inner product manipulation. In: Uncertainty in artificial intelligence. PMLR, pp 261–270
+ID  - ref22
+ER  - 
+TY  - STD
+TI  - Yin D, Chen Y, Kannan R, Bartlett P (2018, July) Byzantine-robust distributed learning: towards optimal statistical rates. In: International conference on machine learning. PMLR, pp 5650–5659
+ID  - ref23
+ER  - 
+TY  - STD
+TI  - Zhang, C., Bengio, S., & Singer, Y. (2019). Are all layers created equal?. arXiv preprint arXiv:1902.01996
+ID  - ref24
+ER  - 
+TY  - STD
+TI  - Zhao, Y., Li, M., Lai, L., Suda, N., Civin, D., & Chandra, V. (2018). Federated learning with non-iid data. arXiv preprint arXiv:1806.00582
+ID  - ref25
+ER  - 

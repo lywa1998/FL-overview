@@ -1,0 +1,314 @@
+TY  - STD
+TI  - Abadi M, Chu A, Goodfellow I, McMahan HB, Mironov I, Talwar K, Zhang L (2016) Deep learning with differential privacy. In: Proceedings of the 2016 ACM SIGSAC Conference on computer and communications security. ACM, pp 308–318
+ID  - ref1
+ER  - 
+TY  - STD
+TI  - Abay A, Zhou Y, Baracaldo N, Rajamoni S, Chuba E, Ludwig H (2020) Mitigating bias in federated learning. Preprint. arXiv:2012.02447
+ID  - ref2
+ER  - 
+TY  - JOUR
+AU  - Act, A. c. c. o. u. n. t. a. b. i. l. i. t. y.
+PY  - 1996
+DA  - 1996//
+TI  - Health insurance portability and accountability act of 1996
+JO  - Public Law
+VL  - 104
+ID  - Act1996
+ER  - 
+TY  - STD
+TI  - Balakrishnan R, Akdeniz M, Dhakal S, Himayat N (2020) Resource management and fairness for federated learning over wireless edge networks. In: 2020 IEEE 21st international workshop on signal processing advances in wireless communications (SPAWC). IEEE, pp 1–5
+ID  - ref4
+ER  - 
+TY  - STD
+TI  - Bonawitz K, Ivanov V, Kreuter B, Marcedone A, McMahan HB, Patel S, Ramage D, Segal A, Seth K (2017) Practical secure aggregation for privacy-preserving machine learning. In: Proceedings of the 2017 ACM SIGSAC conference on computer and communications security. ACM, pp 1175–1191
+ID  - ref5
+ER  - 
+TY  - STD
+TI  - Bonawitz K, Eichner H, Grieskamp W, Huba D, Ingerman A, Ivanov V, Kiddon C, Konecny J, Mazzocchi S, McMahan HB et al (2019) Towards federated learning at scale: System design. Preprint. arXiv:1902.01046
+ID  - ref6
+ER  - 
+TY  - STD
+TI  - Buolamwini J, Gebru T (2018) Gender shades: Intersectional accuracy disparities in commercial gender classification. In: Conference on fairness, accountability and transparency, pp 77–91
+ID  - ref7
+ER  - 
+TY  - STD
+TI  - Cai L, Lin D, Zhang J, Yu S (2020) Dynamic sample selection for federated learning with heterogeneous data in fog computing. In: 2020 IEEE international conference on communications, ICC 2020, Dublin, Ireland, June 7–11, 2020. IEEE, pp 1–6
+ID  - ref8
+ER  - 
+TY  - STD
+TI  - Caldas S, Konečny J, McMahan HB, Talwalkar A (2018) Expanding the reach of federated learning by reducing client resource requirements. Preprint. arXiv:1812.07210
+ID  - ref9
+ER  - 
+TY  - STD
+TI  - Caldas S, Wu P, Li T, Konečnỳ J, McMahan HB, Smith V, Talwalkar A (2018) Leaf: A benchmark for federated settings. Preprint. arXiv:1812.01097
+ID  - ref10
+ER  - 
+TY  - STD
+TI  - Chai Z, Ali A, Zawad S, Truex S, Anwar A, Baracaldo N, Zhou Y, Ludwig H, Yan F, Cheng Y (2020) Tifl: A tier-based federated learning system. In: Proceedings of the 29th international symposium on high-performance parallel and distributed computing, pp 125–136
+ID  - ref11
+ER  - 
+TY  - JOUR
+AU  - Chen, I. Y.
+AU  - Szolovits, P.
+AU  - Ghassemi, M.
+PY  - 2019
+DA  - 2019//
+TI  - Can AI help reduce disparities in general medical and mental health care?
+JO  - AMA J Ethics
+VL  - 21
+UR  - https://doi.org/10.1001/amajethics.2019.167
+DO  - 10.1001/amajethics.2019.167
+ID  - Chen2019
+ER  - 
+TY  - STD
+TI  - Cortes C, Mohri M, Medina AM (2015) Adaptation algorithm and theory based on generalized discrepancy. In: 21st ACM SIGKDD conference on knowledge discovery and data mining, KDD 2015. Association for Computing Machinery, pp 169–178
+ID  - ref13
+ER  - 
+TY  - STD
+TI  - DiCiccio C, Vasudevan S, Basu K, Kenthapadi K, Agarwal D (2020) Evaluating fairness using permutation tests. In: Gupta R, Liu Y, Tang J, Prakash BA (eds) KDD ’20: The 26th ACM SIGKDD conference on knowledge discovery and data mining, Virtual Event, CA, USA, August 23–27, 2020. ACM, pp 1467–1477
+ID  - ref14
+ER  - 
+TY  - STD
+TI  - Dwork C, Hardt M, Pitassi T, Reingold O, Zemel R (2012) Fairness through awareness. In: Proceedings of the 3rd innovations in theoretical computer science conference, pp 214–226
+ID  - ref15
+ER  - 
+TY  - JOUR
+AU  - Regulation, G. e. n. e. r. a. l. D. a. t. a. P. r. o. t. e. c. t. i. o. n.
+PY  - 2016
+DA  - 2016//
+TI  - Regulation (EU) 2016/679 of the European parliament and of the council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing directive 95/46
+JO  - Off J Eur Union (OJ)
+VL  - 59
+ID  - Regulation2016
+ER  - 
+TY  - STD
+TI  - Gudur GK, Balaji BS, Perepu SK (2020) Resource-constrained federated learning with heterogeneous labels and models. In: 3rd International workshop on artificial intelligence of things (AIoT’20), KDD 2020
+ID  - ref17
+ER  - 
+TY  - STD
+TI  - Hardt M, Price E, Srebro N (2016) Equality of opportunity in supervised learning. In: Advances in neural information processing systems, pp 3315–3323
+ID  - ref18
+ER  - 
+TY  - JOUR
+AU  - Hosseinalipour, S.
+AU  - Brinton, C. G.
+AU  - Aggarwal, V.
+AU  - Dai, H.
+AU  - Chiang, M.
+PY  - 2020
+DA  - 2020//
+TI  - From federated to fog learning: Distributed machine learning over heterogeneous wireless networks
+JO  - IEEE Commun Mag
+VL  - 58
+UR  - https://doi.org/10.1109/MCOM.001.2000410
+DO  - 10.1109/MCOM.001.2000410
+ID  - Hosseinalipour2020
+ER  - 
+TY  - STD
+TI  - Kairouz P, McMahan HB, Avent B, Bellet A, Bennis M, Bhagoji AN, Bonawitz K, Charles Z, Cormode G, Cummings R et al (2019) Advances and open problems in federated learning. Preprint. arXiv:1912.04977
+ID  - ref20
+ER  - 
+TY  - STD
+TI  - Kamishima T, Akaho S, Sakuma J (2011) Fairness-aware learning through regularization approach. In: 2011 IEEE 11th international conference on data mining workshops. IEEE, pp 643–650
+ID  - ref21
+ER  - 
+TY  - JOUR
+AU  - Khan, L. U.
+AU  - Pandey, S. R.
+AU  - Tran, N. H.
+AU  - Saad, W.
+AU  - Han, Z.
+AU  - Nguyen, M. N. H.
+AU  - Hong, C. S.
+PY  - 2020
+DA  - 2020//
+TI  - Federated learning for edge networks: Resource optimization and incentive mechanism
+JO  - IEEE Commun Mag
+VL  - 58
+UR  - https://doi.org/10.1109/MCOM.001.1900649
+DO  - 10.1109/MCOM.001.1900649
+ID  - Khan2020
+ER  - 
+TY  - STD
+TI  - Konečnỳ J, McMahan HB, Yu FX, Richtárik P, Suresh AT, Bacon D (2016) Federated learning: Strategies for improving communication efficiency. Preprint. arXiv:1610.05492
+ID  - ref23
+ER  - 
+TY  - STD
+TI  - Kusner MJ, Loftus J, Russell C, Silva R (2017) Counterfactual fairness. In: Advances in neural information processing systems, pp 4066–4076
+ID  - ref24
+ER  - 
+TY  - STD
+TI  - Leroy D, Coucke A, Lavril T, Gisselbrecht T, Dureau J (2019) Federated learning for keyword spotting. In: ICASSP 2019–2019 IEEE international conference on acoustics, speech and signal processing (ICASSP). IEEE, pp 6341–6345
+ID  - ref25
+ER  - 
+TY  - STD
+TI  - Li T, Sahu AK, Zaheer M, Sanjabi M, Talwalkar A, Smith V (2018) Federated optimization in heterogeneous networks. Preprint. arXiv:1812.06127
+ID  - ref26
+ER  - 
+TY  - STD
+TI  - Li T, Sanjabi M, Beirami A, Smith V (2019) Fair resource allocation in federated learning. In: International conference on learning representations
+ID  - ref27
+ER  - 
+TY  - JOUR
+AU  - Li, T.
+AU  - Sahu, A. K.
+AU  - Talwalkar, A.
+AU  - Smith, V.
+PY  - 2020
+DA  - 2020//
+TI  - Federated learning: Challenges, methods, and future directions
+JO  - IEEE Signal Process Mag
+VL  - 37
+UR  - https://doi.org/10.1109/MSP.2020.2975749
+DO  - 10.1109/MSP.2020.2975749
+ID  - Li2020
+ER  - 
+TY  - STD
+TI  - Lu S, Zhang Y, Wang Y (2020) Decentralized federated learning for electronic health records. In: 2020 54th Annual conference on information sciences and systems (CISS). IEEE, pp 1–5
+ID  - ref29
+ER  - 
+TY  - STD
+TI  - Machine learning to augment shared knowledge in federated privacy-preserving scenarios (musketeer). https://musketeer.eu/wp-content/uploads/2019/10/MUSKETEER_D2.1-v1.1.pdf. Accessed 03 Jan 2021
+UR  - https://musketeer.eu/wp-content/uploads/2019/10/MUSKETEER_D2.1-v1.1.pdf
+ID  - ref30
+ER  - 
+TY  - STD
+TI  - McMahan HB, Moore E, Ramage D, Hampson S et al (2016) Communication-efficient learning of deep networks from decentralized data. Preprint. arXiv:1602.05629
+ID  - ref31
+ER  - 
+TY  - STD
+TI  - Mehrabi N, Morstatter F, Saxena N, Lerman K, Galstyan A (2019) A survey on bias and fairness in machine learning. Preprint. arXiv:1908.09635
+ID  - ref32
+ER  - 
+TY  - STD
+TI  - Mohri M, Sivek G, Suresh AT (2019) Agnostic federated learning. In: international conference on machine learning. PMLR, pp 4615–4625
+ID  - ref33
+ER  - 
+TY  - STD
+TI  - Muhammad K, Wang Q, O’Reilly-Morgan D, Tragos E, Smyth B, Hurley N, Geraci J, Lawlor A (2020) Fedfast: Going beyond average for faster training of federated recommender systems. In: Proceedings of the 26th ACM SIGKDD international conference on knowledge discovery & data mining, pp 1234–1242
+ID  - ref34
+ER  - 
+TY  - STD
+TI  - Nishio T, Yonetani R (2019) Client selection for federated learning with heterogeneous resources in mobile edge. In: ICC 2019–2019 IEEE international conference on communications (ICC). IEEE, pp 1–7
+ID  - ref35
+ER  - 
+TY  - JOUR
+AU  - O’herrin, J. K.
+AU  - Fost, N.
+AU  - Kudsk, K. A.
+PY  - 2004
+DA  - 2004//
+TI  - Health insurance portability accountability act (HIPAA) regulations: effect on medical record research
+JO  - Ann Surg
+VL  - 239
+UR  - https://doi.org/10.1097/01.sla.0000128307.98274.dc
+DO  - 10.1097/01.sla.0000128307.98274.dc
+ID  - O’herrin2004
+ER  - 
+TY  - STD
+TI  - Reisizadeh A, Mokhtari A, Hassani H, Jadbabaie A, Pedarsani R (2020) Fedpaq: A communication-efficient federated learning method with periodic averaging and quantization. In: International conference on artificial intelligence and statistics. PMLR, pp 2021–2031
+ID  - ref37
+ER  - 
+TY  - STD
+TI  - Saleiro P, Rodolfa KT, Ghani R (2020) Dealing with bias and fairness in data science systems: A practical hands-on tutorial. In Gupta R, Liu Y, Tang J, Prakash BA (eds) KDD ’20: The 26th ACM SIGKDD conference on knowledge discovery and data mining, Virtual Event, CA, USA, August 23–27, 2020. ACM, pp 3513–3514
+ID  - ref38
+ER  - 
+TY  - STD
+TI  - Saputra YM, Hoang DT, Nguyen DN, Dutkiewicz E, Mueck MD, Srikanteswara S (2019) Energy demand prediction with federated learning for electric vehicle networks. In: 2019 IEEE global communications conference (GLOBECOM). IEEE, pp 1–6
+ID  - ref39
+ER  - 
+TY  - JOUR
+AU  - Sattler, F.
+AU  - Wiedemann, S.
+AU  - Müller, K. R.
+AU  - Samek, W.
+PY  - 2019
+DA  - 2019//
+TI  - Robust and communication-efficient federated learning from non-iid data
+JO  - IEEE Trans Neural Netw Learn Syst
+VL  - 31
+UR  - https://doi.org/10.1109/TNNLS.2019.2944481
+DO  - 10.1109/TNNLS.2019.2944481
+ID  - Sattler2019
+ER  - 
+TY  - JOUR
+AU  - Savazzi, S.
+AU  - Nicoli, M.
+AU  - Rampa, V.
+PY  - 2020
+DA  - 2020//
+TI  - Federated learning with cooperating devices: A consensus approach for massive IoT networks
+JO  - IEEE Internet Things J
+VL  - 7
+UR  - https://doi.org/10.1109/JIOT.2020.2964162
+DO  - 10.1109/JIOT.2020.2964162
+ID  - Savazzi2020
+ER  - 
+TY  - STD
+TI  - Sun Y, Zhou S, Gündüz D (2020) Energy-aware analog aggregation for federated learning with redundant data. In: ICC 2020–2020 IEEE international conference on communications (ICC). IEEE, pp 1–7
+ID  - ref42
+ER  - 
+TY  - STD
+TI  - Voigt P, Von dem Bussche A (2017) The EU general data protection regulation (GDPR). A Practical Guide, 1st Ed., Springer International Publishing, Cham 10:3152676
+ID  - ref43
+ER  - 
+TY  - JOUR
+AU  - Wang, S.
+AU  - Tuor, T.
+AU  - Salonidis, T.
+AU  - Leung, K. K.
+AU  - Makaya, C.
+AU  - He, T.
+AU  - Chan, K.
+PY  - 2019
+DA  - 2019//
+TI  - Adaptive federated learning in resource constrained edge computing systems
+JO  - IEEE J Sel Areas Commun
+VL  - 37
+UR  - https://doi.org/10.1109/JSAC.2019.2904348
+DO  - 10.1109/JSAC.2019.2904348
+ID  - Wang2019
+ER  - 
+TY  - JOUR
+AU  - Wang, X.
+AU  - Han, Y.
+AU  - Leung, V. C. M.
+AU  - Niyato, D.
+AU  - Yan, X.
+AU  - Chen, X.
+PY  - 2020
+DA  - 2020//
+TI  - Convergence of edge computing and deep learning: A comprehensive survey
+JO  - IEEE Commun Surv Tutorials
+VL  - 22
+UR  - https://doi.org/10.1109/COMST.2020.2970550
+DO  - 10.1109/COMST.2020.2970550
+ID  - Wang2020
+ER  - 
+TY  - STD
+TI  - Xu Z, Yang Z, Xiong J, Yang J, Chen X (2019) Elfish: Resource-aware federated learning on heterogeneous edge devices. Preprint. arXiv:1912.01684
+ID  - ref46
+ER  - 
+TY  - JOUR
+AU  - Yang, Z.
+AU  - Chen, M.
+AU  - Saad, W.
+AU  - Hong, C. S.
+AU  - Shikh-Bahaei, M.
+PY  - 2020
+DA  - 2020//
+TI  - Energy efficient federated learning over wireless communication networks
+JO  - IEEE Trans Wirel Commun
+VL  - 20
+UR  - https://doi.org/10.1109/TWC.2020.3037554
+DO  - 10.1109/TWC.2020.3037554
+ID  - Yang2020
+ER  - 
+TY  - STD
+TI  - Yu H, Liu Z, Liu Y, Chen T, Cong M, Weng X, Niyato D, Yang Q (2020) A fairness-aware incentive scheme for federated learning. In: Proceedings of the AAAI/ACM conference on AI, ethics, and society, pp 393–399
+ID  - ref48
+ER  - 
+TY  - STD
+TI  - Zhao Y, Li M, Lai L, Suda N, Civin D, Chandra V (2018) Federated learning with non-iid data. Preprint. arXiv:1806.00582
+ID  - ref49
+ER  - 

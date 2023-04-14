@@ -1,0 +1,210 @@
+TY  - BOOK
+AU  - Abdalla, M.
+AU  - Benhamouda, F.
+AU  - Kohlweiss, M.
+AU  - Waldner, H.
+PY  - 2019
+DA  - 2019//
+TI  - Decentralizing inner-product functional encryption
+PB  - IACR international workshop on public key cryptography. Springer
+CY  - In
+ID  - Abdalla2019
+ER  - 
+TY  - STD
+TI  - Bagdasaryan E, Veit A, Hua Y, Estrin D, Shmatikov V (2018) How to backdoor federated learning. Preprint. arXiv:1807.00459
+ID  - ref2
+ER  - 
+TY  - STD
+TI  - Bonawitz K, Eichner H, Grieskamp W, Huba D, Ingerman A, Ivanov V, Kiddon C, Konecny J, Mazzocchi S, McMahan HB et al (2019) Towards federated learning at scale: System design. Preprint. arXiv:1902.01046
+ID  - ref3
+ER  - 
+TY  - STD
+TI  - Chen B, Carvalho W, Baracaldo N, Ludwig H, Edwards B, Lee T, Molloy I, Srivastava B (2018) Detecting backdoor attacks on deep neural networks by activation clustering. Preprint. arXiv:1811.03728
+ID  - ref4
+ER  - 
+TY  - STD
+TI  - Chen T, Jin X, Sun Y, Yin W (2020) Vafl: a method of vertical asynchronous federated learning. Preprint. arXiv:2007.06081
+ID  - ref5
+ER  - 
+TY  - STD
+TI  - Chotard J, Sans ED, Gay R, Phan DH, Pointcheval D (2018) Decentralized multi-client functional encryption for inner product. In: International conference on the theory and application of cryptology and information security. Springer, pp 703–732
+ID  - ref6
+ER  - 
+TY  - STD
+TI  - Corinzia L, Buhmann JM (2019) Variational federated multi-task learning. Preprint. arXiv:1906.06268
+ID  - ref7
+ER  - 
+TY  - STD
+TI  - Fang C, Li CJ, Lin Z, Zhang T (2018) Spider: Near-optimal non-convex optimization via stochastic path integrated differential estimator. Preprint. arXiv:1807.01695
+ID  - ref8
+ER  - 
+TY  - JOUR
+AU  - Gascón, A.
+AU  - Schoppmann, P.
+AU  - Balle, B.
+AU  - Raykova, M.
+AU  - Doerner, J.
+AU  - Zahur, S.
+AU  - Evans, D.
+PY  - 2016
+DA  - 2016//
+TI  - Secure linear regression on vertically partitioned datasets
+JO  - IACR Cryptology ePrint Archive
+VL  - 2016
+ID  - Gascón2016
+ER  - 
+TY  - STD
+TI  - Geyer RC, Klein T, Nabi M (2017) Differentially private federated learning: A client level perspective. Preprint. arXiv:1712.07557
+ID  - ref10
+ER  - 
+TY  - JOUR
+AU  - Ghadimi, S.
+AU  - Lan, G.
+PY  - 2013
+DA  - 2013//
+TI  - Stochastic first-and zeroth-order methods for nonconvex stochastic programming
+JO  - SIAM J Optim
+VL  - 23
+UR  - https://doi.org/10.1137/120880811
+DO  - 10.1137/120880811
+ID  - Ghadimi2013
+ER  - 
+TY  - STD
+TI  - Gu B, Dang Z, Li X, Huang H (2020) Federated doubly stochastic kernel learning for vertically partitioned data. In: Proceedings of the 26th ACM SIGKDD international conference on knowledge discovery & data mining, pp 2483–2493
+ID  - ref12
+ER  - 
+TY  - STD
+TI  - Hardy S, Henecka W, Ivey-Law H, Nock R, Patrini G, Smith G, Thorne B (2017) Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption. Preprint. arXiv:1711.10677
+ID  - ref13
+ER  - 
+TY  - JOUR
+AU  - Ion, M.
+AU  - Kreuter, B.
+AU  - Nergiz, A. E.
+AU  - Patel, S.
+AU  - Raykova, M.
+AU  - Saxena, S.
+AU  - Seth, K.
+AU  - Shanahan, D.
+AU  - Yung, M.
+PY  - 2019
+DA  - 2019//
+TI  - On deploying secure computing commercially: Private intersection-sum protocols and their business applications
+JO  - IACR Cryptol. ePrint Arch.
+VL  - 2019
+ID  - Ion2019
+ER  - 
+TY  - STD
+TI  - Jin X, Du R, Chen PY, Chen T (2020) Cafe: Catastrophic data leakage in federated learning. OpenReview - Preprint
+ID  - ref15
+ER  - 
+TY  - STD
+TI  - Kingma DP, Ba J (2014) Adam: A method for stochastic optimization. Preprint. arXiv:1412.6980
+ID  - ref16
+ER  - 
+TY  - JOUR
+AU  - Lan, G.
+AU  - Lee, S.
+AU  - Zhou, Y.
+PY  - 2020
+DA  - 2020//
+TI  - Communication-efficient algorithms for decentralized and stochastic optimization
+JO  - Math Program
+VL  - 180
+UR  - https://doi.org/10.1007/s10107-018-1355-4
+DO  - 10.1007/s10107-018-1355-4
+ID  - Lan2020
+ER  - 
+TY  - STD
+TI  - Li O, Sun J, Yang X, Gao W, Zhang H, Xie J, Smith V, Wang C (2021) Label leakage and protection in two-party split learning. Preprint. arXiv:2102.08504
+ID  - ref18
+ER  - 
+TY  - STD
+TI  - Ludwig H, Baracaldo N, Thomas G, Zhou Y, Anwar A, Rajamoni S, Ong Y, Radhakrishnan J, Verma A, Sinn M, et al (2020) IBM federated learning: an enterprise framework white paper v0. 1. Preprint. arXiv:2007.10987
+ID  - ref19
+ER  - 
+TY  - STD
+TI  - Luo X, Wu Y, Xiao X, Ooi BC (2021) Feature inference attack on model predictions in vertical federated learning. In: 2021 IEEE 37th international conference on data engineering (ICDE). IEEE, pp 181–192
+ID  - ref20
+ER  - 
+TY  - STD
+TI  - McMahan HB, Moore E, Ramage D, Hampson S et al (2016) Communication-efficient learning of deep networks from decentralized data. Preprint. arXiv:1602.05629
+ID  - ref21
+ER  - 
+TY  - JOUR
+AU  - Nesterov, Y.
+PY  - 1998
+DA  - 1998//
+TI  - Introductory lectures on convex programming volume I: Basic course
+JO  - Lecture Notes
+VL  - 3
+ID  - Nesterov1998
+ER  - 
+TY  - STD
+TI  - Nock R, Hardy S, Henecka W, Ivey-Law H, Patrini G, Smith G, Thorne B (2018) Entity resolution and federated learning get a federated resolution. Preprint. arXiv:1803.04035
+ID  - ref23
+ER  - 
+TY  - STD
+TI  - Schnell R, Bachteler T, Reiher J (2011) A novel error-tolerant anonymous linking code. German Record Linkage Center, Working Paper Series No. WP-GRLC-2011-02
+ID  - ref24
+ER  - 
+TY  - STD
+TI  - Singh A, Vepakomma P, Gupta O, Raskar R (2019) Detailed comparison of communication efficiency of split learning and federated learning. Preprint. arXiv:1909.09145
+ID  - ref25
+ER  - 
+TY  - STD
+TI  - Slavkovic AB, Nardi Y, Tibbits MM (2007) Secure logistic regression of horizontally and vertically partitioned distributed databases. In: Seventh IEEE international conference on data mining workshops (ICDMW 2007). IEEE, pp. 723–728
+ID  - ref26
+ER  - 
+TY  - STD
+TI  - Thapa C, Chamikara MAP, Camtepe S (2020) Splitfed: When federated learning meets split learning. Preprint. arXiv:2004.12088
+ID  - ref27
+ER  - 
+TY  - STD
+TI  - Vaidya J (2008) A survey of privacy-preserving methods across vertically partitioned data. In: Privacy-preserving data mining. Springer, pp 337–358
+ID  - ref28
+ER  - 
+TY  - JOUR
+AU  - Vaidya, J.
+AU  - Clifton, C.
+AU  - Kantarcioglu, M.
+AU  - Patterson, A. S.
+PY  - 2008
+DA  - 2008//
+TI  - Privacy-preserving decision trees over vertically partitioned data
+JO  - ACM Trans Knowl Discov Data (TKDD)
+VL  - 2
+ID  - Vaidya2008
+ER  - 
+TY  - STD
+TI  - Vepakomma P, Gupta O, Swedish T, Raskar R (2018) Split learning for health: Distributed deep learning without sharing raw patient data. Preprint. arXiv:1812.00564
+ID  - ref30
+ER  - 
+TY  - STD
+TI  - Wang C, Liang J, Huang M, Bai B, Bai K, Li H (2020) Hybrid differentially private federated learning on vertically partitioned data. Preprint. arXiv:2009.02763
+ID  - ref31
+ER  - 
+TY  - STD
+TI  - Xu R, Baracaldo N, Zhou Y, Anwar A, Ludwig H (2019) Hybridalpha: An efficient approach for privacy-preserving federated learning. In: Proceedings of the 12th ACM workshop on artificial intelligence and security. ACM
+ID  - ref32
+ER  - 
+TY  - STD
+TI  - Xu R, Baracaldo N, Zhou Y, Anwar A, Joshi J, Ludwig H (2021) Fedv: Privacy-preserving federated learning over vertically partitioned data. Preprint. arXiv:2103.03918
+ID  - ref33
+ER  - 
+TY  - STD
+TI  - Yang, K, Fan T, Chen T, Shi Y, Yang Q (2019) A quasi-newton method based vertical federated learning framework for logistic regression. Preprint. arXiv:1912.00513
+ID  - ref34
+ER  - 
+TY  - STD
+TI  - Yu H, Vaidya J, Jiang X (2006) Privacy-preserving SVM classification on vertically partitioned data. In: Pacific-Asia conference on knowledge discovery and data mining. Springer, pp 647–656
+ID  - ref35
+ER  - 
+TY  - STD
+TI  - Zhang Q, Gu B, Deng C, Huang H (2021) Secure bilevel asynchronous vertical federated learning with backward updating. Preprint. arXiv:2103.00958
+ID  - ref36
+ER  - 
+TY  - STD
+TI  - Zhao Y, Li M, Lai L, Suda N, Civin D, Chandra V (2018) Federated learning with non-IID data. Preprint. arXiv:1806.00582
+ID  - ref37
+ER  - 

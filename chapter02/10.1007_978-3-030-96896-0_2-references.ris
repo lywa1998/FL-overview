@@ -1,0 +1,316 @@
+TY  - STD
+TI  - Blomer J, Ganis G (2015) Large-scale merging of histograms using distributed in-memory computing. J Phys Conf Ser 664:092003. IOP Publishing
+ID  - ref1
+ER  - 
+TY  - STD
+TI  - Bonawitz K, Ivanov V, Kreuter B, Marcedone A, McMahan HB, Patel S, Ramage D, Segal A, Seth K (2017) Practical secure aggregation for privacy-preserving machine learning. In: Proceedings of the 2017 ACM SIGSAC conference on computer and communications security, pp 1175–1191
+ID  - ref2
+ER  - 
+TY  - JOUR
+AU  - Breiman, L.
+PY  - 1996
+DA  - 1996//
+TI  - Bagging predictors
+JO  - Mach Learn
+VL  - 24
+ID  - Breiman1996
+ER  - 
+TY  - STD
+TI  - Chen T, Guestrin C (2016) XGBoost: a scalable tree boosting system. In: Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining, pp 785–794
+ID  - ref4
+ER  - 
+TY  - STD
+TI  - Chen T, Guestrin C (2016) XGBoost: a scalable tree boosting system supplementary material
+ID  - ref5
+ER  - 
+TY  - STD
+TI  - Cheng K, Fan T, Jin Y, Liu Y, Chen T, Yang Q (2019) SecureBoost: a lossless federated learning framework. arXiv preprint arXiv:1901.08755
+ID  - ref6
+ER  - 
+TY  - CHAP
+AU  - Dang, Z.
+AU  - Gu, B.
+AU  - Huang, H.
+PY  - 2020
+DA  - 2020//
+TI  - Large-scale kernel method for vertical federated learning
+BT  - Federated learning
+PB  - Springer
+CY  - Cham
+UR  - https://doi.org/10.1007/978-3-030-63076-8_5
+DO  - 10.1007/978-3-030-63076-8_5
+ID  - Dang2020
+ER  - 
+TY  - STD
+TI  - de Souza LAC, Rebello GAF, Camilo GF, Guimarães LCB, Duarte OCMB (2020) DFedForest: decentralized federated forest. In: 2020 IEEE international conference on blockchain (Blockchain). IEEE, pp 90–97
+ID  - ref8
+ER  - 
+TY  - STD
+TI  - Dimitrakopoulos GN, Vrahatis AG, Plagianakos V, Sgarbas K (2018) Pathway analysis using XGBoost classification in biomedical data. In: Proceedings of the 10th Hellenic conference on artificial intelligence, pp 1–6
+ID  - ref9
+ER  - 
+TY  - STD
+TI  - Dwork C, McSherry F, Nissim K, Smith A (2006) Calibrating noise to sensitivity in private data analysis. In: Theory of cryptography conference. Springer, pp 265–284
+ID  - ref10
+ER  - 
+TY  - STD
+TI  - Fang W, Chen C, Tan J, Yu C, Lu Y, Wang L, Zhou J, Alex X (2020) A hybrid-domain framework for secure gradient tree boosting. ArXiv, abs/2005.08479
+ID  - ref11
+ER  - 
+TY  - STD
+TI  - Feng Z, Xiong H, Song C, Yang S, Zhao B, Wang L, Chen Z, Yang S, Liu L, Huan J (2019) SecureGBM: secure multi-party gradient boosting. In: 2019 IEEE international conference on Big Data (Big Data). IEEE, pp 1312–1321
+ID  - ref12
+ER  - 
+TY  - JOUR
+AU  - Friedman, J. H.
+PY  - 2001
+DA  - 2001//
+TI  - Greedy function approximation: a gradient boosting machine
+JO  - Ann Stat
+VL  - 29
+UR  - https://doi.org/10.1214/aos/1013203451
+DO  - 10.1214/aos/1013203451
+ID  - Friedman2001
+ER  - 
+TY  - JOUR
+AU  - Friedman, J. H.
+PY  - 2002
+DA  - 2002//
+TI  - Stochastic gradient boosting
+JO  - Comput Stat Data Anal
+VL  - 38
+UR  - https://doi.org/10.1016/S0167-9473(01)00065-2
+DO  - 10.1016/S0167-9473(01)00065-2
+ID  - Friedman2002
+ER  - 
+TY  - JOUR
+AU  - Giacomelli, I.
+AU  - Jha, S.
+AU  - Kleiman, R.
+AU  - Page, D.
+AU  - Yoon, K.
+PY  - 2019
+DA  - 2019//
+TI  - Privacy-preserving collaborative prediction using random forests
+JO  - AMIA Summits Transl Sci Proc
+VL  - 2019
+ID  - Giacomelli2019
+ER  - 
+TY  - JOUR
+AU  - Greenwald, M.
+AU  - Khanna, S.
+PY  - 2001
+DA  - 2001//
+TI  - Space-efficient online computation of quantile summaries
+JO  - ACM SIGMOD Rec
+VL  - 30
+UR  - https://doi.org/10.1145/376284.375670
+DO  - 10.1145/376284.375670
+ID  - Greenwald2001
+ER  - 
+TY  - STD
+TI  - Hard A, Rao K, Mathews R, Ramaswamy S, Beaufays F, Augenstein S, Eichner H, Kiddon C, Ramage D (2018) Federated learning for mobile keyboard prediction. arXiv preprint arXiv:1811.03604
+ID  - ref17
+ER  - 
+TY  - BOOK
+AU  - Hastie, T.
+AU  - Tibshirani, R.
+AU  - Friedman, J.
+PY  - 2009
+DA  - 2009//
+TI  - The elements of statistical learning: data mining, inference, and prediction
+PB  - Business Media
+CY  - New York
+UR  - https://doi.org/10.1007/978-0-387-84858-7
+DO  - 10.1007/978-0-387-84858-7
+ID  - Hastie2009
+ER  - 
+TY  - STD
+TI  - Kairouz P, McMahan HB, Avent B, Bellet A, Bennis M, Bhagoji AN, Bonawitz K, Charles Z, Cormode G, Cummings R et al (2019) Advances and open problems in federated learning. arXiv preprint arXiv:1912.04977
+ID  - ref19
+ER  - 
+TY  - STD
+TI  - Ke G, Meng Q, Finley T, Wang T, Chen W, Ma W, Ye Q, Liu T-Y (2017) LightGBM: a highly efficient gradient boosting decision tree. In: Advances in neural information processing systems, pp 3146–3154
+ID  - ref20
+ER  - 
+TY  - JOUR
+AU  - Keck, T.
+PY  - 2017
+DA  - 2017//
+TI  - FastBDT: a speed-optimized multivariate classification algorithm for the belle II experiment
+JO  - Comput Softw Big Sci
+VL  - 1
+UR  - https://doi.org/10.1007/s41781-017-0002-8
+DO  - 10.1007/s41781-017-0002-8
+ID  - Keck2017
+ER  - 
+TY  - STD
+TI  - Leung C (2020) Towards privacy-preserving collaborative gradient boosted decision tree learning
+ID  - ref22
+ER  - 
+TY  - JOUR
+AU  - Li, Q.
+AU  - Wen, Z.
+AU  - He, B.
+PY  - 2020
+DA  - 2020//
+TI  - Practical federated gradient boosting decision trees
+JO  - Proceedings of the AAAI conference on artificial intelligence, vol
+VL  - 34
+UR  - https://doi.org/10.1609/aaai.v34i04.5895
+DO  - 10.1609/aaai.v34i04.5895
+ID  - Li2020
+ER  - 
+TY  - JOUR
+AU  - Li, S.
+AU  - Zhang, X.
+PY  - 2019
+DA  - 2019//
+TI  - Research on orthopedic auxiliary classification and prediction model based on XGBoost algorithm
+JO  - Neural Comput Appl
+VL  - 32
+UR  - https://doi.org/10.1007/s00521-019-04378-4
+DO  - 10.1007/s00521-019-04378-4
+ID  - Li2019
+ER  - 
+TY  - STD
+TI  - Liu Y, Liu Y, Liu Z, Liang Y, Meng C, Zhang J, Zheng Y (2020) Federated forest. IEEE Trans Big Data
+ID  - ref25
+ER  - 
+TY  - STD
+TI  - Liu Y, Ma Z, Liu X, Ma S, Nepal S, Deng R (2019) Boosting privately: privacy-preserving federated extreme boosting for mobile crowdsensing. arXiv preprint arXiv:1907.10218
+ID  - ref26
+ER  - 
+TY  - STD
+TI  - Ludwig H, Baracaldo N, Thomas G, Zhou Y, Anwar A, Rajamoni S, Ong Y, Radhakrishnan J, Verma A, Sinn M et al (2020) IBM federated learning: an enterprise framework white paper v0. 1. arXiv preprint arXiv:2007.10987
+ID  - ref27
+ER  - 
+TY  - STD
+TI  - Masson C, Rim JE, Lee HK (2019) DDSketch: a fast and fully-mergeable quantile sketch with relative-error guarantees. arXiv preprint arXiv:1908.10693
+ID  - ref28
+ER  - 
+TY  - STD
+TI  - McMahan HB, Moore E, Ramage D, Hampson S et al (2016) Communication-efficient learning of deep networks from decentralized data. arXiv preprint arXiv:1602.05629
+ID  - ref29
+ER  - 
+TY  - JOUR
+AU  - Nobre, J.
+AU  - Neves, R. F.
+PY  - 2019
+DA  - 2019//
+TI  - Combining principal component analysis, discrete wavelet transform and XGBoost to trade in the financial markets
+JO  - Expert Syst Appl
+VL  - 125
+UR  - https://doi.org/10.1016/j.eswa.2019.01.083
+DO  - 10.1016/j.eswa.2019.01.083
+ID  - Nobre2019
+ER  - 
+TY  - STD
+TI  - Ong YJ, Zhou Y, Baracaldo N, Ludwig H (2020) Adaptive histogram-based gradient boosted trees for federated learning. arXiv preprint arXiv:2012.06670
+ID  - ref31
+ER  - 
+TY  - STD
+TI  - Pelttari H et al (2020) Federated learning for mortality prediction in intensive care units
+ID  - ref32
+ER  - 
+TY  - JOUR
+AU  - Quinlan, J. R.
+PY  - 1986
+DA  - 1986//
+TI  - Induction of decision trees
+JO  - Mach Learn
+VL  - 1
+ID  - Quinlan1986
+ER  - 
+TY  - STD
+TI  - Salzberg SL (1993, 1994) C4.5: programs for machine learning by J. Ross Quinlan. Morgan Kaufmann Publishers, Inc., San Mateo
+ID  - ref34
+ER  - 
+TY  - STD
+TI  - Sjöberg A, Gustavsson E, Koppisetty AC, Jirstrand M (2019) Federated learning of deep neural decision forests. In: International conference on machine learning, optimization, and data science. Springer, pp 700–710
+ID  - ref35
+ER  - 
+TY  - JOUR
+AU  - Sweeney, L.
+PY  - 2002
+DA  - 2002//
+TI  - k-anonymity: a model for protecting privacy
+JO  - Int J Uncertainty Fuzziness Knowl-Based Syst
+VL  - 10
+UR  - https://doi.org/10.1142/S0218488502001648
+DO  - 10.1142/S0218488502001648
+ID  - Sweeney2002
+ER  - 
+TY  - STD
+TI  - Tian Z, Zhang R, Hou X, Liu J, Ren K (2020) FederBoost: private federated learning for GBDT. arXiv preprint arXiv:2011.02796
+ID  - ref37
+ER  - 
+TY  - STD
+TI  - Truex S, Baracaldo N, Anwar A, Steinke T, Ludwig H, Zhang R (2018) A hybrid approach to privacy-preserving federated learning
+ID  - ref38
+ER  - 
+TY  - STD
+TI  - Wang Z, Yang Y, Liu Y, Liu X, Gupta BB, Ma J (2020) Cloud-based federated boosting for mobile crowdsensing. arXiv preprint arXiv:2005.05304
+ID  - ref39
+ER  - 
+TY  - STD
+TI  - Wu Y, Cai S, Xiao X, Chen G, Ooi BC (2020) Privacy preserving vertical federated learning for tree-based models. arXiv preprint arXiv:2008.06170
+ID  - ref40
+ER  - 
+TY  - STD
+TI  - XingFen W, Xiangbin Y, Yangchun M (2018) Research on user consumption behavior prediction based on improved XGBoost algorithm. In: 2018 IEEE international conference on Big Data (Big Data). IEEE, pp 4169–4175
+ID  - ref41
+ER  - 
+TY  - STD
+TI  - Yamamoto F, Wang L, Ozawa S (2020) New approaches to federated XGBoost learning for privacy-preserving data analysis. In: International conference on neural information processing. Springer, pp 558–569
+ID  - ref42
+ER  - 
+TY  - STD
+TI  - Yang M, Song L, Xu J, Li C, Tan G (2019) The tradeoff between privacy and accuracy in anomaly detection using federated XGBoost. arXiv preprint arXiv:1907.07157
+ID  - ref43
+ER  - 
+TY  - JOUR
+AU  - Zhang, J.
+AU  - Zhao, X.
+AU  - Yuan, P.
+PY  - 2020
+DA  - 2020//
+TI  - Federated security tree algorithm for user privacy protection
+JO  - J Comput Appl
+VL  - 40
+ID  - Zhang2020
+ER  - 
+TY  - STD
+TI  - Zhang Q, Wang W (2007) A fast algorithm for approximate quantiles in high speed data streams. In: 19th international conference on scientific and statistical database management (SSDBM 2007). IEEE, p 29
+ID  - ref45
+ER  - 
+TY  - STD
+TI  - Xie L, Liu J, Lu S, Chang T-H, Shi Q (2021) An efficient learning framework for federated XGBoost using secret sharing and distributed optimization. arXiv preprint arXiv:2105.05717
+ID  - ref46
+ER  - 
+TY  - STD
+TI  - Abay A, Zhou Y, Baracaldo N, Rajamoni S, Chuba E, Ludwig H (2020) Mitigating Bias in Federated Learning. arXiv preprint arXiv:2012.02447
+ID  - ref47
+ER  - 
+TY  - STD
+TI  - Ravichandran S, Khurana D, Venkatesh B, Edakunni NU (2020) FairXGBoost: fairness-aware classification in XGBoost arXiv preprint arXiv:2009.01442
+ID  - ref48
+ER  - 
+TY  - STD
+TI  - Chai Z, Ali A, Zawad S, Truex S, Anwar A, Baracaldo N, Zhou Y, Ludwig H, Yan F, Cheng Y (2020) TiFL: a tier-based federated learning system. arXiv preprint arXiv:2001.09249
+ID  - ref49
+ER  - 
+TY  - STD
+TI  - Chen X, Zhou S, Yang K, Fan H, Feng Z, Chen Z, Wang H, Wang Y (2021) Fed-EINI: an efficient and interpretable inference framework for decision tree ensembles in federated learning. arXiv preprint arXiv:2105.09540
+ID  - ref50
+ER  - 
+TY  - STD
+TI  - Dua D, Graff C. UCI Machine Learning Repository. School of Information and Computer Science, University of California, Irvine. http://archive.ics.uci.edu/ml
+UR  - http://archive.ics.uci.edu/ml
+ID  - ref51
+ER  - 
+TY  - STD
+TI  - U.S. Department of Transportation (2009) Airline On-Time Statistics and Delay Causes. https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp
+UR  - https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp
+ID  - ref52
+ER  - 

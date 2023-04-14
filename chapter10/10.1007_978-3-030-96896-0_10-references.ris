@@ -1,0 +1,196 @@
+TY  - STD
+TI  - Bonawitz K, Eichner H, Grieskamp W, Huba D, Ingerman A, Ivanov V, Kiddon C, Konecný J, Mazzocchi S, McMahan B, Van Overveldt T, Petrou D, Ramage D, Roselander J (2019) Towards federated learning at scale: System design. In Talwalkar A, Smith V, and Zaharia M (eds) Proceedings of machine learning and systems 2019, MLSys 2019, Stanford, CA, USA, March 31–April 2, 2019. mlsys.org
+ID  - ref1
+ER  - 
+TY  - STD
+TI  - Zheng Chai, Ahsan Ali, Syed Zawad, Stacey Truex, Ali Anwar, Nathalie Baracaldo, Yi Zhou, Heiko Ludwig, Feng Yan, and Yue Cheng (2020) Tifl: A tier-based federated learning system. In: Proceedings of the 29th international symposium on high-performance parallel and distributed computing, pp 125–136
+ID  - ref2
+ER  - 
+TY  - JOUR
+AU  - Chen, B.
+AU  - Medini, T.
+AU  - Farwell, J.
+AU  - Tai, C.
+AU  - Shrivastava, A.
+PY  - 2020
+DA  - 2020//
+TI  - Slide: in defense of smart algorithms over hardware acceleration for large-scale deep learning systems
+JO  - Proceedings of Machine Learning and Systems
+VL  - 2
+ID  - Chen2020
+ER  - 
+TY  - STD
+TI  - Chen Y, Xiaoyan Sun X, Yaochu Jin Y (2019) Communication-efficient federated deep learning with asynchronous model update and temporally weighted aggregation. Preprint. arXiv:1903.07424
+ID  - ref4
+ER  - 
+TY  - JOUR
+AU  - Daghaghi, S.
+AU  - Meisburger, N.
+AU  - Zhao, M.
+AU  - Shrivastava, A.
+PY  - 2021
+DA  - 2021//
+TI  - Accelerating slide deep learning on modern cpus: Vectorization, quantizations, memory optimizations, and more
+JO  - Proc Mach Learn Syst
+VL  - 3
+ID  - Daghaghi2021
+ER  - 
+TY  - STD
+TI  - Ghosh A, Chung J, Yin D, Ramchandran K (2020) An efficient framework for clustered federated learning. Preprint. arXiv:2006.04088
+ID  - ref6
+ER  - 
+TY  - STD
+TI  - Gupta S, Imani M, Rosing T (2019) Exploring processing in-memory for different technologies. In: Proceedings of the 2019 on great lakes symposium on VLSI, pp 201–206
+ID  - ref7
+ER  - 
+TY  - STD
+TI  - Hamer J, Mohri M, Suresh AT (2020) Fedboost: A communication-efficient algorithm for federated learning. In: International conference on machine learning. PMLR, pp 3973–3983
+ID  - ref8
+ER  - 
+TY  - STD
+TI  - Imani M, Gupta S, Kim Y, Rosing T (2019) Floatpim: In-memory acceleration of deep neural network training with high precision. In 2019 ACM/IEEE 46th annual international symposium on computer architecture (ISCA). IEEE, pp 802–815
+ID  - ref9
+ER  - 
+TY  - JOUR
+AU  - Jiang, J.
+AU  - Hu, L.
+PY  - 2020
+DA  - 2020//
+TI  - Decentralised federated learning with adaptive partial gradient aggregation
+JO  - CAAI Trans Intell Technol
+VL  - 5
+UR  - https://doi.org/10.1049/trit.2020.0082
+DO  - 10.1049/trit.2020.0082
+ID  - Jiang2020
+ER  - 
+TY  - STD
+TI  - Jiang Y, Wang S, Valls V, Ko BJ, Lee WH, Leung KK, Tassiulas L (2019) Model pruning enables efficient federated learning on edge devices. Preprint. arXiv:1909.12326
+ID  - ref11
+ER  - 
+TY  - STD
+TI  - Konecnỳ J, McMahan HB, Yu FX, Richtárik P, Suresh AT, Bacon D (2016) Federated learning: Strategies for improving communication efficiency. CoRR
+ID  - ref12
+ER  - 
+TY  - STD
+TI  - Lalitha A, Shekhar S, Javidi T, Koushanfar F (2018) Fully decentralized federated learning. In: Third workshop on bayesian deep learning (NeurIPS)
+ID  - ref13
+ER  - 
+TY  - STD
+TI  - Lane ND, Bhattacharya S, Georgiev P, Forlivesi C, Jiao L, Qendro L, Kawsar F (2016) Deepx: A software accelerator for low-power deep learning inference on mobile devices. In: 2016 15th ACM/IEEE international conference on information processing in sensor networks (IPSN). IEEE, pp 1–12
+ID  - ref14
+ER  - 
+TY  - STD
+TI  - Li L, Shi D, Hou R, Li H, Pan M, Han Z (2020) To talk or to work: Flexible communication compression for energy efficient federated learning over heterogeneous mobile edge devices. Preprint. arXiv:2012.11804
+ID  - ref15
+ER  - 
+TY  - STD
+TI  - Liu L, Zhang J, Song SH, Letaief KB (2020) Client-edge-cloud hierarchical federated learning. In: ICC 2020-2020 IEEE international conference on communications (ICC), pp 1–6. IEEE
+ID  - ref16
+ER  - 
+TY  - STD
+TI  - Lo SK, Lu Q, Zhu L, Paik HY, Xu X, Wang C Architectural patterns for the design of federated learning systems. Preprint. arXiv:2101.02373, 2021.
+ID  - ref17
+ER  - 
+TY  - JOUR
+AU  - Luo, S.
+AU  - Chen, X.
+AU  - Wu, Q.
+AU  - Zhou, Z.
+AU  - Yu, S.
+PY  - 2020
+DA  - 2020//
+TI  - Hfel: Joint edge association and resource allocation for cost-efficient hierarchical federated edge learning
+JO  - IEEE Trans Wirel Commun
+VL  - 19
+UR  - https://doi.org/10.1109/TWC.2020.3003744
+DO  - 10.1109/TWC.2020.3003744
+ID  - Luo2020
+ER  - 
+TY  - STD
+TI  - Luping W, Wei W, Bo L (2019) Cmfl: Mitigating communication overhead for federated learning. In: 2019 IEEE 39th international conference on distributed computing systems (ICDCS). IEEE, pp 954–964
+ID  - ref19
+ER  - 
+TY  - JOUR
+AU  - Kairouz, P.
+AU  - McMahan, H. B.
+AU  - Avent, B.
+AU  - Bellet, A.
+AU  - Bennis, M.
+AU  - Bhagoji, A. N.
+PY  - 2021
+DA  - 2021//
+TI  - Advances and open problems in federated learning
+JO  - Foundations and TrendsⓇin Machine Learning
+VL  - 14
+ID  - Kairouz2021
+ER  - 
+TY  - STD
+TI  - Reisizadeh A, Mokhtari A, Hassani H, Jadbabaie A, Pedarsani R (2020) Fedpaq: A communication-efficient federated learning method with periodic averaging and quantization. In: International conference on artificial intelligence and statistics. PMLR, pp 2021–2031
+ID  - ref21
+ER  - 
+TY  - STD
+TI  - Roy AG, Siddiqui S, Pölsterl S, Navab N, Wachinger C (2019) Braintorrent: A peer-to-peer environment for decentralized federated learning. Preprint. arXiv:1905.06731
+ID  - ref22
+ER  - 
+TY  - JOUR
+AU  - Sattler, F.
+AU  - Wiedemann, S.
+AU  - Müller, K. R.
+AU  - Samek, W.
+PY  - 2019
+DA  - 2019//
+TI  - Robust and communication-efficient federated learning from non-iid data
+JO  - IEEE Trans Neural Netw Learn Syst
+VL  - 31
+UR  - https://doi.org/10.1109/TNNLS.2019.2944481
+DO  - 10.1109/TNNLS.2019.2944481
+ID  - Sattler2019
+ER  - 
+TY  - JOUR
+AU  - Sattler, F.
+AU  - Müller, K. R.
+AU  - Samek, W.
+PY  - 2020
+DA  - 2020//
+TI  - Clustered federated learning: Model-agnostic distributed multitask optimization under privacy constraints
+JO  - IEEE Trans Neural Netw Learn Syst
+VL  - 32
+UR  - https://doi.org/10.1109/TNNLS.2020.3015958
+DO  - 10.1109/TNNLS.2020.3015958
+ID  - Sattler2020
+ER  - 
+TY  - STD
+TI  - Sprague MR, Jalalirad A, Scavuzzo M, Capota C, Neun M, Do L, Kopp M (2018) Asynchronous federated learning for geospatial applications. In: Joint European conference on machine learning and knowledge discovery in databases. Springer, pp 21–28
+ID  - ref25
+ER  - 
+TY  - STD
+TI  - Sun Y, Zhou S, Gündüz D (2020) Energy-aware analog aggregation for federated learning with redundant data. In: ICC 2020-2020 ieee international conference on communications (ICC). IEEE, pp 1–7
+ID  - ref26
+ER  - 
+TY  - STD
+TI  - Tran NH, Bao W, Zomaya A, Nguyen MN, Hong CS (2019) Federated learning over wireless networks: Optimization model design and analysis. In: IEEE INFOCOM 2019-IEEE conference on computer communications. IEEE, pp 1387–1395
+ID  - ref27
+ER  - 
+TY  - STD
+TI  - Xie C, Koyejo S, Gupta I (2019) Asynchronous federated optimization. Preprint. arXiv:1903.03934
+ID  - ref28
+ER  - 
+TY  - STD
+TI  - Xu Z, Yang Z, Xiong J, Yang J, Chen X (2019) Elfish: Resource-aware federated learning on heterogeneous edge devices. Preprint. arXiv:1912.01684
+ID  - ref29
+ER  - 
+TY  - JOUR
+AU  - Yang, Z.
+AU  - Chen, M.
+AU  - Saad, W.
+AU  - Hong, C. S.
+AU  - Shikh-Bahaei, M.
+PY  - 2020
+DA  - 2020//
+TI  - Energy efficient federated learning over wireless communication networks
+JO  - IEEE Trans Wirel Commun
+VL  - 20
+UR  - https://doi.org/10.1109/TWC.2020.3037554
+DO  - 10.1109/TWC.2020.3037554
+ID  - Yang2020
+ER  - 

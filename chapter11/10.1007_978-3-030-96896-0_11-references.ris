@@ -1,0 +1,77 @@
+TY  - STD
+TI  - Abadi M, Barham P, Chen J, Chen Z, Davis A, Dean J, Devin M, Ghemawat S, Irving G, Isard M et al (2016) Tensorflow: A system for large-scale machine learning. In: 12th USENIX symposium on operating systems design and implementation (OSDI 16), pp 265–283
+ID  - ref1
+ER  - 
+TY  - STD
+TI  - Beimel A, Kasiviswanathan SP, Nissim K (2010) Bounds on the sample complexity for private learning and private data release. In: Theory of cryptography conference. Springer, pp 437–454
+ID  - ref2
+ER  - 
+TY  - STD
+TI  - Bonawitz K, Ivanov V, Kreuter B, Marcedone A, McMahan HB, Patel S, Ramage D, Segal A, Seth K (2017) Practical secure aggregation for privacy-preserving machine learning. In: Proceedings of the 2017 ACM SIGSAC conference on computer and communications security. ACM, pp 1175–1191
+ID  - ref3
+ER  - 
+TY  - STD
+TI  - Bonawitz K, Eichner H, Grieskamp W, Huba D, Ingerman A, Ivanov V, Kiddon C, Konecny J, Mazzocchi S, McMahan HB et al (2019) Towards federated learning at scale: System design. Preprint. arXiv:1902.01046
+ID  - ref4
+ER  - 
+TY  - STD
+TI  - Caldas S, Konečny J, McMahan HB, Talwalkar A (2018) Expanding the reach of federated learning by reducing client resource requirements. Preprint. arXiv:1812.07210
+ID  - ref5
+ER  - 
+TY  - STD
+TI  - Caldas S, Wu P, Li T, Konečnỳ J, McMahan HB, Smith V, Talwalkar A (2018) Leaf: A benchmark for federated settings. Preprint. arXiv:1812.01097
+ID  - ref6
+ER  - 
+TY  - STD
+TI  - Chai Z, Fayyaz H, Fayyaz Z, Anwar A, Zhou Y, Baracaldo N, Ludwig H, Cheng Y (2019) Towards taming the resource and data heterogeneity in federated learning. In: 2019 USENIX conference on operational machine learning (OpML 19), pp 19–21
+ID  - ref7
+ER  - 
+TY  - STD
+TI  - Chai Z, Ali A, Zawad S, Truex S, Anwar A, Baracaldo N, Zhou Y, Ludwig H, Yan F, Cheng Y (2020) Tifl: A tier-based federated learning system. In: Proceedings of the 29th international symposium on high-performance parallel and distributed computing, pp 125–136
+ID  - ref8
+ER  - 
+TY  - STD
+TI  - Kairouz P, McMahan HB, Avent B, Bellet A, Bennis M, Bhagoji AN, Bonawitz K, Charles Z, Cormode G, Cummings R et al (2019) Advances and open problems in federated learning. Preprint. arXiv:1912.04977
+ID  - ref9
+ER  - 
+TY  - STD
+TI  - Konečnỳ J, McMahan HB, Yu FX, Richtárik P, Suresh AT, Bacon D (2016) Federated learning: Strategies for improving communication efficiency. Preprint. arXiv:1610.05492
+ID  - ref10
+ER  - 
+TY  - STD
+TI  - Krizhevsky A, Nair V, Hinton G (2014) The cifar-10 dataset. Online: http://www.cs.toronto.edu/kriz/cifar.html, 55
+UR  - http://www.cs.toronto.edu/kriz/cifar.html
+ID  - ref11
+ER  - 
+TY  - STD
+TI  - Li T, Sahu AK, Talwalkar A, Smith V (2019) Federated learning: Challenges, methods, and future directions. Preprint. arXiv:1908.07873
+ID  - ref12
+ER  - 
+TY  - STD
+TI  - Liu L, Zhang J, Song SH, Letaief KB (2019) Edge-assisted hierarchical federated learning with non-iid data. Preprint. arXiv:1905.06641
+ID  - ref13
+ER  - 
+TY  - STD
+TI  - McMahan HB, Moore E, Ramage D, Hampson S et al (2016) Communication-efficient learning of deep networks from decentralized data. Preprint. arXiv:1602.05629
+ID  - ref14
+ER  - 
+TY  - STD
+TI  - Xiao H, Rasul K, Vollgraf R (2017) Fashion-mnist: a novel image dataset for benchmarking machine learning algorithms. Preprint. arXiv:1708.07747
+ID  - ref15
+ER  - 
+TY  - JOUR
+AU  - Yang, Q.
+AU  - Liu, Y.
+AU  - Chen, T.
+AU  - Tong, Y.
+PY  - 2019
+DA  - 2019//
+TI  - Federated machine learning: Concept and applications
+JO  - ACM Trans Intell Syst Technol (TIST)
+VL  - 10
+ID  - Yang2019
+ER  - 
+TY  - STD
+TI  - Zhao Y, Li M, Lai L, Suda N, Civin D, Chandra V (2018) Federated learning with non-iid data. Preprint. arXiv:1806.00582
+ID  - ref17
+ER  - 

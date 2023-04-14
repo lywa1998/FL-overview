@@ -1,0 +1,344 @@
+TY  - STD
+TI  - Albasyoni A, Safaryan M, Condat L, Richtárik P (2020) Optimal gradient compression for distributed and federated learning. arXiv preprint arXiv:2010.03246
+ID  - ref1
+ER  - 
+TY  - STD
+TI  - Alistarh D, Grubic D, Li J, Tomioka R, Vojnovic M (2017) QSGD: communication-efficient SGD via gradient quantization and encoding. In: Advances in neural information processing systems, pp 1709–1720
+ID  - ref2
+ER  - 
+TY  - JOUR
+AU  - Basu, D.
+AU  - Data, D.
+AU  - Karakus, C.
+AU  - Diggavi, S. N.
+PY  - 2020
+DA  - 2020//
+TI  - Qsparse-local-SGD: distributed SGD with quantization, sparsification, and local computations
+JO  - IEEE J Sel Areas Inf Theory
+VL  - 1
+UR  - https://doi.org/10.1109/JSAIT.2020.2985917
+DO  - 10.1109/JSAIT.2020.2985917
+ID  - Basu2020
+ER  - 
+TY  - STD
+TI  - Bottou L, Curtis FE, Nocedal J (2018) Optimization methods for large-scale machine learning. arXiv preprint arXiv:1606.04838
+ID  - ref4
+ER  - 
+TY  - BOOK
+AU  - Boyd, S.
+AU  - Vandenberghe, L.
+PY  - 2004
+DA  - 2004//
+TI  - Convex optimization
+PB  - Cambridge University Press
+CY  - Cambridge
+UR  - https://doi.org/10.1017/CBO9780511804441
+DO  - 10.1017/CBO9780511804441
+ID  - Boyd2004
+ER  - 
+TY  - JOUR
+AU  - Boyd, S.
+AU  - Parikh, N.
+AU  - Chu, E.
+AU  - Peleato, B.
+AU  - Eckstein, J.
+PY  - 2011
+DA  - 2011//
+TI  - Distributed optimization and statistical learning via the alternating direction method of multipliers
+JO  - Found Trends Mach Learn
+VL  - 3
+UR  - https://doi.org/10.1561/2200000016
+DO  - 10.1561/2200000016
+ID  - Boyd2011
+ER  - 
+TY  - STD
+TI  - Chaudhari P, Soatto S (2017) Stochastic gradient descent performs variational inference, converges to limit cycles for deep networks. CoRR, abs/1710.11029. http://arxiv.org/abs/1710.11029
+UR  - http://arxiv.org/abs/1710.11029
+ID  - ref7
+ER  - 
+TY  - STD
+TI  - Cho YJ, Wang J, Joshi G (2020) Client selection in federated learning: convergence analysis and power-of-choice selection strategies
+ID  - ref8
+ER  - 
+TY  - STD
+TI  - Cipar J, Ho Q, Kim JK, Lee S, Ganger GR, Gibson G, Keeton K, Xing E (2013) Solving the straggler problem with bounded staleness. In: Proceedings of the workshop on hot topics in operating systems
+ID  - ref9
+ER  - 
+TY  - STD
+TI  - Cui H, Cipar J, Ho Q, Kim JK, Lee S, Kumar A, Wei J, Dai W, Ganger GR, Gibbons PB, Gibson GA, Xing EP (2014) Exploiting bounded staleness to speed up big data analytics. In: Proceedings of the USENIX annual technical conference, pp 37–48
+ID  - ref10
+ER  - 
+TY  - STD
+TI  - Dean J, Corrado GS, Monga R, Chen K, Devin M, Le QV, Mao MZ, Ranzato M, Senior A, Tucker P, Yang K, Ng AY (2012) Large scale distributed deep networks. In: Proceedings of the international conference on neural information processing systems, pp 1223–1231
+ID  - ref11
+ER  - 
+TY  - JOUR
+AU  - Dekel, O.
+AU  - Gilad-Bachrach, R.
+AU  - Shamir, O.
+AU  - Xiao, L.
+PY  - 2012
+DA  - 2012//
+TI  - Optimal distributed online prediction using mini-batches
+JO  - J Mach Learn Res
+VL  - 13
+ID  - Dekel2012
+ER  - 
+TY  - STD
+TI  - Dutta S, Joshi G, Ghosh S, Dube P, Nagpurkar P (2018) Slow and stale gradients can win the race: error-runtime trade-offs in distributed SGD. In: International conference on artificial intelligence and statistics (AISTATS). https://arxiv.org/abs/1803.01113
+UR  - https://arxiv.org/abs/1803.01113
+ID  - ref13
+ER  - 
+TY  - STD
+TI  - Frankle J, Carbin M (2019) The lottery ticket hypothesis: finding sparse, trainable neural networks. In: International conference on learning representations
+ID  - ref14
+ER  - 
+TY  - STD
+TI  - Gupta S, Zhang W, Wang F (2016) Model accuracy and runtime tradeoff in distributed deep learning: a systematic study. In: IEEE international conference on data mining (ICDM). IEEE, pp 171–180
+ID  - ref15
+ER  - 
+TY  - STD
+TI  - Han P, Wang S, Leung KK (2020) Adaptive gradient sparsification for efficient federated learning: an online learning approach. In: 2020 IEEE 40th international conference on distributed computing systems (ICDCS), pp 300–310
+ID  - ref16
+ER  - 
+TY  - STD
+TI  - Han S, Mao H, Dally WJ (2015) Deep compression: compressing deep neural networks with pruning, trained quantization and Huffman coding. arXiv preprint arXiv:1510.00149
+ID  - ref17
+ER  - 
+TY  - JOUR
+AU  - Hazan, E.
+PY  - 2016
+DA  - 2016//
+TI  - Introduction to online convex optimization
+JO  - Found Trends Optim
+VL  - 2
+UR  - https://doi.org/10.1561/2400000013
+DO  - 10.1561/2400000013
+ID  - Hazan2016
+ER  - 
+TY  - STD
+TI  - Ho Q, Cipar J, Cui H, Kim JK, Lee S, Gibbons PB, Gibson GA, Ganger GR, Xing EP (2013) More effective distributed ml via a stale synchronous parallel parameter server. In: Proceedings of the international conference on neural information processing systems, pp 1223–1231
+ID  - ref19
+ER  - 
+TY  - STD
+TI  - Horváth S, Richtarik P (2021) A better alternative to error feedback for communication-efficient distributed learning. In: International conference on learning representations
+ID  - ref20
+ER  - 
+TY  - STD
+TI  - Jee Cho Y, Gupta S, Joshi G, Yagan O (2020) Bandit-based communication-efficient client selection strategies for federated learning. In: Proceedings of the asilomar conference on signals, systems, and computers, pp 1066–1069. https://doi.org/10.1109/IEEECONF51394.2020.9443523
+ID  - ref21
+ER  - 
+TY  - STD
+TI  - Jiang Y, Wang S, Valls V, Ko BJ, Lee W-H, Leung KK, Tassiulas L (2019) Model pruning enables efficient federated learning on edge devices. arXiv preprint arXiv:1909.12326
+ID  - ref22
+ER  - 
+TY  - STD
+TI  - Karimireddy SP, Kale S, Mohri M, Reddi SJ, Stich SU, Suresh AT (2019) SCAFFOLD: stochastic controlled averaging for on-device federated learning. arXiv preprint arXiv:1910.06378
+ID  - ref23
+ER  - 
+TY  - STD
+TI  - Karimireddy SP, Rebjock Q, Stich S, Jaggi M (2019) Error feedback fixes SignSGD and other gradient compression schemes. In: International conference on machine learning. PMLR, pp 3252–3261
+ID  - ref24
+ER  - 
+TY  - STD
+TI  - Li M, Zhang T, Chen Y, Smola AJ (2014) Efficient mini-batch training for stochastic optimization. In: Proceedings of the ACM SIGKDD international conference on knowledge discovery and data mining, pp 661–670
+ID  - ref25
+ER  - 
+TY  - STD
+TI  - Li T, Sahu AK, Zaheer M, Sanjabi M, Talwalkar A, Smith V (2020) FedDANE: a federated newton-type method
+ID  - ref26
+ER  - 
+TY  - STD
+TI  - Li X, Huang K, Yang W, Wang S, Zhang Z (2020) On the convergence of FedAvg on non-IID data. In: International conference on learning representations (ICLR). https://arxiv.org/abs/1907.02189
+UR  - https://arxiv.org/abs/1907.02189
+ID  - ref27
+ER  - 
+TY  - STD
+TI  - Lian X, Huang Y, Li Y, Liu J (2015) Asynchronous parallel stochastic gradient for nonconvex optimization. In: Proceedings of the international conference on neural information processing systems, pp 2737–2745
+ID  - ref28
+ER  - 
+TY  - STD
+TI  - Lian X, Zhang W, Zhang C, Liu J (2018) Asynchronous decentralized parallel stochastic gradient descent. In: Proceedings of the 35th international conference on machine learning. Proceedings of machine learning research, vol 80. PMLR, pp 3043–3052. http://proceedings.mlr.press/v80/lian18a.html
+UR  - http://proceedings.mlr.press/v80/lian18a.html
+ID  - ref29
+ER  - 
+TY  - STD
+TI  - McMahan HB, Moore E, Ramage D, Hampson S, y Arcas BA (2017) Communication-efficient learning of deep networks from decentralized data. In: International conference on artificial intelligence and statistics (AISTATS). https://arxiv.org/abs/1602.05629
+UR  - https://arxiv.org/abs/1602.05629
+ID  - ref30
+ER  - 
+TY  - STD
+TI  - Neyshabur B, Tomioka R, Salakhutdinov R, Srebro N (2017) Geometry of optimization and implicit regularization in deep learning. CoRR, abs/1705.03071. http://arxiv.org/abs/1705.03071
+UR  - http://arxiv.org/abs/1705.03071
+ID  - ref31
+ER  - 
+TY  - JOUR
+AU  - Parikh, N.
+AU  - Boyd, S.
+PY  - 2014
+DA  - 2014//
+TI  - Proximal algorithms
+JO  - Found Trends Optim
+VL  - 1
+UR  - https://doi.org/10.1561/2400000003
+DO  - 10.1561/2400000003
+ID  - Parikh2014
+ER  - 
+TY  - STD
+TI  - Recht B, Re C, Wright S, Niu F (2011) Hogwild: a lock-free approach to parallelizing stochastic gradient descent. In: Proceedings of the international conference on neural information processing systems, pp 693–701
+ID  - ref33
+ER  - 
+TY  - STD
+TI  - Reisizadeh A, Mokhtari A, Hassani H, Jadbabaie A, Pedarsani R (2020) FedPAQ: a communication-efficient federated learning method with periodic averaging and quantization. In: International conference on artificial intelligence and statistics. PMLR, pp 2021–2031
+ID  - ref34
+ER  - 
+TY  - STD
+TI  - Robbins H, Monro S (1951) A stochastic approximation method. In: The annals of mathematical statistics, pp 400–407
+ID  - ref35
+ER  - 
+TY  - STD
+TI  - Ruan Y, Zhang X, Liang S-C, Joe-Wong C (2021) Towards flexible device participation in federated learning. In: Banerjee A, Fukumizu K (eds) Proceedings of the 24th international conference on artificial intelligence and statistics. Proceedings of machine learning research, vol 130. PMLR, pp 3403–3411. http://proceedings.mlr.press/v130/ruan21a.html
+UR  - http://proceedings.mlr.press/v130/ruan21a.html
+ID  - ref36
+ER  - 
+TY  - STD
+TI  - Ruder S (2016) An overview of gradient descent optimization algorithms. arXiv preprint arXiv:1609.04747
+ID  - ref37
+ER  - 
+TY  - JOUR
+AU  - Russakovsky, O.
+AU  - Deng, J.
+AU  - Su, H.
+AU  - Krause, J.
+AU  - Satheesh, S.
+AU  - Ma, S.
+AU  - Huang, Z.
+AU  - Karpathy, A.
+AU  - Khosla, A.
+AU  - Bernstein, M.
+AU  - Berg, A. C.
+AU  - Fei-Fei, L.
+PY  - 2015
+DA  - 2015//
+TI  - ImageNet large scale visual recognition challenge
+JO  - Int J Comput Vis
+VL  - 115
+UR  - https://doi.org/10.1007/s11263-015-0816-y
+DO  - 10.1007/s11263-015-0816-y
+ID  - Russakovsky2015
+ER  - 
+TY  - STD
+TI  - Sahu AK, Li T, Sanjabi M, Zaheer M, Talwalkar A, Smith V (2019) Federated optimization in heterogeneous networks. In: Proceedings of the machine learning and systems (MLSys) conference
+ID  - ref39
+ER  - 
+TY  - STD
+TI  - Sahu AK, Li T, Sanjabi M, Zaheer M, Talwalkar A, Smith V (2019) Federated optimization for heterogeneous networks. https://arxiv.org/abs/1812.06127
+UR  - https://arxiv.org/abs/1812.06127
+ID  - ref40
+ER  - 
+TY  - BOOK
+AU  - Shalev-Shwartz, S.
+AU  - Ben-David, S.
+PY  - 2014
+DA  - 2014//
+TI  - Understanding machine learning: from theory to algorithms
+PB  - Cambridge University Press
+CY  - New York
+UR  - https://doi.org/10.1017/CBO9781107298019
+DO  - 10.1017/CBO9781107298019
+ID  - Shalev-Shwartz2014
+ER  - 
+TY  - STD
+TI  - Shwartz-Ziv R, Tishby N (2017) Opening the black box of deep neural networks via information. CoRR, abs/1703.00810. http://arxiv.org/abs/1703.00810
+UR  - http://arxiv.org/abs/1703.00810
+ID  - ref42
+ER  - 
+TY  - STD
+TI  - Stich SU (2018) Local SGD converges fast and communicates little. arXiv preprint arXiv:1805.09767
+ID  - ref43
+ER  - 
+TY  - STD
+TI  - Stich SU, Cordonnier J-B, Jaggi M (2018) Sparsified SGD with memory. In: Advances in neural information processing systems, pp 4447–4458
+ID  - ref44
+ER  - 
+TY  - STD
+TI  - Tang H, Yu C, Lian X, Zhang T, Liu J (2019) DoubleSqueeze: parallel stochastic gradient descent with double-pass error-compensated compression. In: International conference on machine learning. PMLR, pp 6155–6165
+ID  - ref45
+ER  - 
+TY  - STD
+TI  - Wang J, Joshi G (2018) Cooperative SGD: unifying temporal and spatial strategies for communication-efficient distributed SGD, preprint. https://arxiv.org/abs/1808.07576
+UR  - https://arxiv.org/abs/1808.07576
+ID  - ref46
+ER  - 
+TY  - STD
+TI  - Wang J, Joshi G (2019) Adaptive communication strategies for best error-runtime trade-offs in communication-efficient distributed SGD. In: Proceedings of the SysML conference. https://arxiv.org/abs/1810.08313
+UR  - https://arxiv.org/abs/1810.08313
+ID  - ref47
+ER  - 
+TY  - STD
+TI  - Wang J, Liang H, Joshi G (2020) Overlap local-SGD: an algorithmic approach to hide communication delays in distributed SGD. In: Proceedings of international conference on acoustics, speech, and signal processing (ICASSP)
+ID  - ref48
+ER  - 
+TY  - STD
+TI  - Wang J, Liu Q, Liang H, Joshi G, Poor HV (2020) Tackling the objective inconsistency problem in heterogeneous federated optimization. In: Proceedings on neural information processing systems (NeurIPS). https://arxiv.org/abs/2007.07481
+UR  - https://arxiv.org/abs/2007.07481
+ID  - ref49
+ER  - 
+TY  - STD
+TI  - Wang J, Tantia V, Ballas N, Rabbat M (2020) SlowMo: improving communication-efficient distributed SGD with slow momentum. In: International conference on learning representations. https://openreview.net/forum?id=SkxJ8REYPH
+UR  - https://openreview.net/forum?id=SkxJ8REYPH
+ID  - ref50
+ER  - 
+TY  - STD
+TI  - Wang J, Xu Z, Garrett Z, Charles Z, Liu L, Joshi G (2021) Local adaptivity in federated learning: convergence and consistency
+ID  - ref51
+ER  - 
+TY  - JOUR
+AU  - Wang, S.
+AU  - Tuor, T.
+AU  - Salonidis, T.
+AU  - Leung, K. K.
+AU  - Makaya, C.
+AU  - He, T.
+AU  - Chan, K.
+PY  - 2019
+DA  - 2019//
+TI  - Adaptive federated learning in resource constrained edge computing systems
+JO  - IEEE J Sel Areas Commun
+VL  - 37
+UR  - https://doi.org/10.1109/JSAC.2019.2904348
+DO  - 10.1109/JSAC.2019.2904348
+ID  - Wang2019
+ER  - 
+TY  - STD
+TI  - Yin D, Pananjady A, Lam M, Papailiopoulos D, Ramchandran K, Bartlett P (2018) Gradient diversity: a key ingredient for scalable distributed learning. In: Proceedings of the twenty-first international conference on artificial intelligence and statistics. Proceedings of machine learning research, vol 84. pp 1998–2007. http://proceedings.mlr.press/v84/yin18a.html
+UR  - http://proceedings.mlr.press/v84/yin18a.html
+ID  - ref53
+ER  - 
+TY  - STD
+TI  - Yu H, Yang S, Zhu S (2018) Parallel restarted SGD for non-convex optimization with faster convergence and less communication. arXiv preprint arXiv:1807.06629
+ID  - ref54
+ER  - 
+TY  - STD
+TI  - Zhang C, Bengio S, Hardt M, Recht B, Vinyals O (2017) Understanding deep learning requires rethinking generalization. In: International conference on learning representations
+ID  - ref55
+ER  - 
+TY  - JOUR
+AU  - Zhang, J.
+AU  - Mitliagkas, I.
+AU  - Re, C.
+PY  - 2017
+DA  - 2017//
+TI  - Yellowfin and the art of momentum tuning
+JO  - CoRR, arXiv
+VL  - 1706
+ID  - Zhang2017
+ER  - 
+TY  - STD
+TI  - Zhang S, Choromanska AE, LeCun Y (2015) Deep learning with elastic averaging SGD. In: NIPS’15 proceedings of the 28th international conference on neural information processing systems, pp 685–693
+ID  - ref57
+ER  - 
+TY  - STD
+TI  - Zhang W, Gupta S, Lian X, Liu J (2015) Staleness-aware Async-SGD for distributed deep learning. arXiv preprint arXiv:1511.05950
+ID  - ref58
+ER  - 

@@ -1,0 +1,125 @@
+TY  - STD
+TI  - 2019 global AML and financial crime techsprint (2019). https://www.fca.org.uk/events/techsprints/2019-global-aml-and-financial-crime-techsprint
+UR  - https://www.fca.org.uk/events/techsprints/2019-global-aml-and-financial-crime-techsprint
+ID  - ref1
+ER  - 
+TY  - JOUR
+AU  - Akoglu, L.
+AU  - Tong, H.
+AU  - Koutra, D.
+PY  - 2015
+DA  - 2015//
+TI  - Graph based anomaly detection and description: a survey
+JO  - Data Min Knowl Discov
+VL  - 29
+UR  - https://doi.org/10.1007/s10618-014-0365-y
+DO  - 10.1007/s10618-014-0365-y
+ID  - Akoglu2015
+ER  - 
+TY  - STD
+TI  - Alexandre C (2018) A multi-agent system based approach to fight financial fraud: an application to money laundering. ArXiv
+ID  - ref3
+ER  - 
+TY  - JOUR
+AU  - Chen, Z.
+AU  - Khoa, L. D.
+AU  - Teoh, E. N.
+AU  - Nazir, A.
+AU  - Karuppiah, E.
+AU  - Lam, K. S.
+PY  - 2018
+DA  - 2018//
+TI  - Machine learning techniques for anti-money laundering (AML) solutions in suspicious transaction detection: a review
+JO  - Knowl Inf Syst
+VL  - 57
+UR  - https://doi.org/10.1007/s10115-017-1144-z
+DO  - 10.1007/s10115-017-1144-z
+ID  - Chen2018
+ER  - 
+TY  - JOUR
+AU  - Colladon, A. F.
+AU  - Remondi, E.
+PY  - 2017
+DA  - 2017//
+TI  - Using social network analysis to prevent money laundering
+JO  - Expert Syst Appl
+VL  - 67
+UR  - https://doi.org/10.1016/j.eswa.2016.09.029
+DO  - 10.1016/j.eswa.2016.09.029
+ID  - Colladon2017
+ER  - 
+TY  - STD
+TI  - Han J, Barman U, Hayes J, Du J, Burgin E, Wan D (2018) NextGen AML: distributed deep learning based language technologies to augment anti money laundering investigation. In: Proceedings of ACL 2018, system demonstrations. Association for Computational Linguistics, pp 37–42
+ID  - ref6
+ER  - 
+TY  - STD
+TI  - Hanai M, Suzumura T, Tan WJ, Liu ES, Theodoropoulos G, Cai W (2019) Distributed edge partitioning for trillion-edge graphs. CoRR abs/1908.05855, http://arxiv.org/abs/1908.05855, 1908.05855
+UR  - http://arxiv.org/abs/1908.05855
+ID  - ref7
+ER  - 
+TY  - STD
+TI  - Jamshidi MB, Gorjiankhanzad M, Lalbakhsh A, Roshani S (2019) A novel multiobjective approach for detecting money laundering with a neuro-fuzzy technique. In: 2019 IEEE 16th international conference on networking, sensing and control (ICNSC), pp 454–458. https://doi.org/10.1109/ICNSC.2019.8743234
+ID  - ref8
+ER  - 
+TY  - JOUR
+AU  - Liu, W.
+AU  - Liu, Z.
+AU  - Yu, F.
+AU  - Chen, P.
+AU  - Suzumura, T.
+AU  - Hu, G.
+PY  - 2019
+DA  - 2019//
+TI  - A scalable attribute-aware network embedding system
+JO  - Neurocomputing
+VL  - 339
+UR  - https://doi.org/10.1016/j.neucom.2019.01.106
+DO  - 10.1016/j.neucom.2019.01.106
+ID  - Liu2019
+ER  - 
+TY  - STD
+TI  - Ludwig H, Baracaldo N, Thomas G, Zhou Y, Anwar A, Rajamoni S, Ong Y, Radhakrishnan J, Verma A, Sinn M, Purcell M, Rawat A, Minh T, Holohan N, Chakraborty S, Whitherspoon S, Steuer D, Wynter L, Hassan H, Laguna S, Yurochkin M, Agarwal M, Chuba E, Abay A (2020) IBM federated learning: an enterprise framework white paper v0.1. 2007.10987
+ID  - ref10
+ER  - 
+TY  - STD
+TI  - Molloy I, Chari S, Finkler U, Wiggerman M, Jonker C, Habeck T, Park Y, Jordens F, Schaik R (2016) Graph analytics for real-time scoring of cross-channel transactional fraud
+ID  - ref11
+ER  - 
+TY  - STD
+TI  - Nayak K, Wang XS, Ioannidis S, Weinsberg U, Taft N, Shi E (2015) GraphSC: parallel secure computation made easy. In: 2015 IEEE symposium on security and privacy, pp 377–394. https://doi.org/10.1109/SP.2015.30
+UR  - https://doi.org/10.1109/SP.2015.30
+ID  - ref12
+ER  - 
+TY  - STD
+TI  - Page L, Brin S, Motwani R, Winograd T (1999) The PageRank citation ranking: bringing order to the web. Technical Report 1999-66, Stanford InfoLab. http://ilpubs.stanford.edu:8090/422/, previous number = SIDL-WP-1999-0120
+UR  - http://ilpubs.stanford.edu:8090/422/
+ID  - ref13
+ER  - 
+TY  - STD
+TI  - Savage D, Wang Q, Chou PL, Zhang X, Yu X (2016) Detection of money laundering groups using supervised learning in networks. ArXiv abs/1608.00708
+ID  - ref14
+ER  - 
+TY  - STD
+TI  - Truex S, Baracaldo N, Anwar A, Steinke T, Ludwig H, Zhang R (2018) A hybrid approach to privacy-preserving federated learning
+ID  - ref15
+ER  - 
+TY  - JOUR
+AU  - Ueno, K.
+AU  - Suzumura, T.
+AU  - Maruyama, N.
+AU  - Fujisawa, K.
+AU  - Matsuoka, S.
+PY  - 2017
+DA  - 2017//
+TI  - Efficient breadth-first search on massively parallel and distributed-memory machines
+JO  - Data Sci Eng
+VL  - 2
+UR  - https://doi.org/10.1007/s41019-016-0024-y
+DO  - 10.1007/s41019-016-0024-y
+ID  - Ueno2017
+ER  - 
+TY  - STD
+TI  - Weber M, Chen J, Suzumura T, Pareja A, Ma T, Kanezashi H, Kaler T, Leiserson CE, Schardl TB (2018) Scalable graph learning for anti-money laundering: a first look. CoRR abs/1812.00076, http://arxiv.org/abs/1812.00076, 1812.00076
+UR  - http://arxiv.org/abs/1812.00076
+ID  - ref17
+ER  - 

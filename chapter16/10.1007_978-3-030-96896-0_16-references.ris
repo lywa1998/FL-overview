@@ -1,0 +1,262 @@
+TY  - STD
+TI  - Bagdasaryan E, Veit A, Hua Y, Estrin D, Shmatikov V (2020) How to backdoor federated learning. In: Chiappa S, Calandra R (eds) The 23rd international conference on artificial intelligence and statistics, AISTATS 2020, 26–28 August 2020, Online [Palermo, Sicily, Italy], Proceedings of machine learning research. PMLR, vol 108, pp 2938–2948
+ID  - ref1
+ER  - 
+TY  - JOUR
+AU  - Barreno, M.
+AU  - Nelson, B.
+AU  - Joseph, A. D.
+AU  - Tygar, J. D.
+PY  - 2010
+DA  - 2010//
+TI  - The security of machine learning
+JO  - Mach Learn
+VL  - 81
+UR  - https://doi.org/10.1007/s10994-010-5188-5
+DO  - 10.1007/s10994-010-5188-5
+ID  - Barreno2010
+ER  - 
+TY  - STD
+TI  - Baruch G, Baruch M, Goldberg Y (2019) A little is enough: Circumventing defenses for distributed learning. In: Wallach H, Larochelle H, Beygelzimer A, d'Alché-Buc F, Fox E, Garnett R (eds) Advances in neural information processing systems 32, pp 8635–8645. Curran Associates. http://papers.nips.cc/paper/9069-a-little-is-enough-circumventing-defenses-for-distributed-learning.pdf
+UR  - http://papers.nips.cc/paper/9069-a-little-is-enough-circumventing-defenses-for-distributed-learning.pdf
+ID  - ref3
+ER  - 
+TY  - STD
+TI  - Bernstein J, Zhao J, Azizzadenesheli K, Anandkumar A (2018) signSGD with majority vote is communication efficient and fault tolerant. Preprint. arXiv:1810.05291
+ID  - ref4
+ER  - 
+TY  - STD
+TI  - Bhagoji AN, Chakraborty S, Mittal P, Calo S (2019) Analyzing federated learning through an adversarial lens. In: International conference on machine learning. PMLR, pp 634–643
+ID  - ref5
+ER  - 
+TY  - STD
+TI  - Biggio B, Nelson B, Laskov P (2012) Poisoning attacks against support vector machines. In: Proceedings of the 29th international conference on machine learning, ICML 2012, Edinburgh, Scotland, June 26–July 1, 2012. icml.cc/Omnipress. http://icml.cc/2012/papers/880.pdf
+UR  - http://icml.cc/2012/papers/880.pdf
+ID  - ref6
+ER  - 
+TY  - STD
+TI  - Biggio B, Corona I, Maiorca D, Nelson B, Srndic N, Laskov P, Giacinto G, Roli F (2013) Evasion attacks against machine learning at test time. In: Blockeel H, Kersting K, Nijssen S, Zelezný F (eds) Machine learning and knowledge discovery in databases - European conference, ECML PKDD 2013, Prague, September 23–27, 2013, Proceedings, Part III, Lecture notes in computer science, vol 8190. Springer, pp 387–402
+ID  - ref7
+ER  - 
+TY  - STD
+TI  - Blanchard P, Guerraoui R, Stainer J et al (2017) Machine learning with adversaries: Byzantine tolerant gradient descent. In: Advances in neural information processing systems, pp 119–129
+ID  - ref8
+ER  - 
+TY  - STD
+TI  - Bonawitz K, Ivanov V, Kreuter B, Marcedone A, McMahan HB, Patel S, Ramage D, Segal A, Seth K (2017) Practical secure aggregation for privacy-preserving machine learning. In: Thuraisingham BM, Evans D, Malkin T, Xu D (eds) Proceedings of the 2017 ACM SIGSAC conference on computer and communications security, CCS 2017, Dallas, TX, October 30–November 03, 2017. ACM, pp 1175–1191
+ID  - ref9
+ER  - 
+TY  - JOUR
+AU  - Buehler, H.
+AU  - Gonon, L.
+AU  - Teichmann, J.
+AU  - Wood, B.
+PY  - 2019
+DA  - 2019//
+TI  - Deep hedging
+JO  - Quant Financ
+VL  - 19
+UR  - https://doi.org/10.1080/14697688.2019.1571683
+DO  - 10.1080/14697688.2019.1571683
+ID  - Buehler2019
+ER  - 
+TY  - STD
+TI  - Castro RL, Muñoz-González L, Pendlebury F, Rodosek GD, Pierazzi F, Cavallaro L (2021) Universal adversarial perturbations for malware. CoRR abs/2102.06747. https://arxiv.org/abs/2102.06747
+UR  - https://arxiv.org/abs/2102.06747
+ID  - ref11
+ER  - 
+TY  - STD
+TI  - Chen X, Liu C, Li B, Lu K, Song D (2017) Targeted backdoor attacks on deep learning systems using data poisoning. Preprint. arXiv:1712.05526
+ID  - ref12
+ER  - 
+TY  - STD
+TI  - Chen L, Wang H, Charles Z, Papailiopoulos D (2018) Draco: Byzantine-resilient distributed training via redundant gradients. In: International conference on machine learning. PMLR, pp 903–912
+ID  - ref13
+ER  - 
+TY  - STD
+TI  - Fang M, Cao X, Jia J, Gong N (2020) Local model poisoning attacks to byzantine-robust federated learning. In: 29th {USENIX} security symposium ({USENIX} Security 20), pp 1605–1622
+ID  - ref14
+ER  - 
+TY  - STD
+TI  - Fung C, Yoon CJ, Beschastnikh I (2018) Mitigating sybils in federated learning poisoning. Preprint. arXiv:1808.04866
+ID  - ref15
+ER  - 
+TY  - STD
+TI  - Goodfellow IJ, Shlens J, Szegedy C (2015) Explaining and harnessing adversarial examples. In: International conference on learning representations
+ID  - ref16
+ER  - 
+TY  - STD
+TI  - Hitaj B, Ateniese G, Pérez-Cruz F (2017) Deep models under the GAN: information leakage from collaborative deep learning. In: Thuraisingham BM, Evans D, Malkin T, Xu D (eds) Proceedings of the 2017 ACM SIGSAC conference on computer and communications security, CCS 2017, Dallas, TX, October 30–November 03, 2017. ACM, pp 603–618
+ID  - ref17
+ER  - 
+TY  - STD
+TI  - Huang L, Joseph AD, Nelson B, Rubinstein BIP, Tygar JD (2011) Adversarial machine learning. In: Chen Y, Cárdenas AA, Greenstadt R, Rubinstein BIP (eds) Proceedings of the 4th ACM workshop on security and artificial intelligence, AISec 2011, Chicago, IL, October 21, 2011. ACM, pp 43–58
+ID  - ref18
+ER  - 
+TY  - JOUR
+AU  - Hussain, F.
+AU  - Hussain, R.
+AU  - Hassan, S. A.
+AU  - Hossain, E.
+PY  - 2020
+DA  - 2020//
+TI  - Machine learning in IoT security: Current solutions and future challenges
+JO  - IEEE Commun Surv Tutorials
+VL  - 22
+UR  - https://doi.org/10.1109/COMST.2020.2986444
+DO  - 10.1109/COMST.2020.2986444
+ID  - Hussain2020
+ER  - 
+TY  - JOUR
+AU  - Li, L.
+AU  - Xu, W.
+AU  - Chen, T.
+AU  - Giannakis, G. B.
+AU  - Ling, Q.
+PY  - 2019
+DA  - 2019//
+TI  - RSA: Byzantine-robust stochastic aggregation methods for distributed learning from heterogeneous datasets
+JO  - Proceedings of the AAAI conference on artificial intelligence, vol
+VL  - 33
+UR  - https://doi.org/10.1609/aaai.v33i01.33011544
+DO  - 10.1609/aaai.v33i01.33011544
+ID  - Li2019
+ER  - 
+TY  - STD
+TI  - Liu Y, Ma S, Aafer Y, Lee W, Zhai J, Wang W, Zhang X (2018) Trojaning attack on neural networks. In: 25th Annual network and distributed system security symposium, NDSS 2018, San Diego, California, February 18–21, 2018. The Internet Society
+ID  - ref21
+ER  - 
+TY  - STD
+TI  - Madry A, Makelov A, Schmidt L, Tsipras D, Vladu A (2018) Towards deep learning models resistant to adversarial attacks. In: International conference on learning representations. https://openreview.net/forum?id=rJzIBfZAb
+UR  - https://openreview.net/forum?id=rJzIBfZAb
+ID  - ref22
+ER  - 
+TY  - STD
+TI  - Melis L, Song C, Cristofaro ED, Shmatikov V (2019) Exploiting unintended feature leakage in collaborative learning. In: 2019 IEEE symposium on security and privacy, SP 2019, San Francisco, CA, May 19–23, 2019. IEEE, pp 691–706
+ID  - ref23
+ER  - 
+TY  - STD
+TI  - Mhamdi EME, Guerraoui R, Rouault S (2018) The hidden vulnerability of distributed learning in Byzantium. Preprint. arXiv:1802.07927
+ID  - ref24
+ER  - 
+TY  - STD
+TI  - Muñoz-González L, Lupu EC (2019) The security of machine learning systems. In: AI in cybersecurity. Springer, pp 47–79
+ID  - ref25
+ER  - 
+TY  - STD
+TI  - Muñoz-González L, Biggio B, Demontis A, Paudice A, Wongrassamee V, Lupu EC, Roli F (2017) Towards poisoning of deep learning algorithms with back-gradient optimization. In: Thuraisingham BM, Biggio B, Freeman DM, Miller B, Sinha A (eds) Proceedings of the 10th ACM workshop on artificial intelligence and security, AISec@CCS 2017, Dallas, TX, November 3, 2017. ACM, pp 27–38
+ID  - ref26
+ER  - 
+TY  - STD
+TI  - Muñoz-González L, Co KT, Lupu EC (2019) Byzantine-robust federated machine learning through adaptive model averaging. Preprint. arXiv:1909.05125
+ID  - ref27
+ER  - 
+TY  - STD
+TI  - Nasr M, Shokri R, Houmansadr A (2019) Comprehensive privacy analysis of deep learning: Passive and active white-box inference attacks against centralized and federated learning. In: 2019 IEEE symposium on security and privacy, SP 2019, San Francisco, CA, May 19–23, 2019. IEEE, pp 739–753
+ID  - ref28
+ER  - 
+TY  - STD
+TI  - Papernot N, McDaniel PD, Goodfellow IJ (2016) Transferability in machine learning: from phenomena to black-box attacks using adversarial samples. CoRR abs/1605.07277. http://arxiv.org/abs/1605.07277
+UR  - http://arxiv.org/abs/1605.07277
+ID  - ref29
+ER  - 
+TY  - STD
+TI  - Paudice A, Muñoz-González L, György A, Lupu EC (2018) Detection of adversarial training examples in poisoning attacks through anomaly detection. CoRR abs/1802.03041. http://arxiv.org/abs/1802.03041
+UR  - http://arxiv.org/abs/1802.03041
+ID  - ref30
+ER  - 
+TY  - STD
+TI  - Paudice A, Muñoz-González L, Lupu EC (2018) Label sanitization against label flipping poisoning attacks. In: Alzate C, Monreale A, Assem H, Bifet A, Buda TS, Caglayan B, Drury B, García-Martín E, Gavaldà R, Kramer S, Lavesson N, Madden M, Molloy I, Nicolae M, Sinn M (eds) ECML PKDD 2018 Workshops - Nemesis 2018, UrbReas 2018, SoGood 2018, IWAISe 2018, and Green Data Mining 2018, Dublin, September 10–14, 2018, Proceedings, Lecture Notes in Computer Science, vol 11329. Springer, pp 5–15
+ID  - ref31
+ER  - 
+TY  - STD
+TI  - Pierazzi, F, Pendlebury, F, Cortellazzi, J, Cavallaro, L (2020) Intriguing properties of adversarial ML attacks in the problem space. In: 2020 IEEE symposium on security and privacy, SP 2020, San Francisco, CA, May 18–21, 2020. IEEE, pp 1332–1349
+ID  - ref32
+ER  - 
+TY  - STD
+TI  - Pillutla VK, Kakade SM, Harchaoui Z (2019) Robust aggregation for federated learning. CoRR abs/1912.13445. http://arxiv.org/abs/1912.13445
+UR  - http://arxiv.org/abs/1912.13445
+ID  - ref33
+ER  - 
+TY  - STD
+TI  - Rajput S, Wang H, Charles Z, Papailiopoulos D (2019) Detox: A redundancy-based framework for faster and more robust gradient aggregation. Preprint. arXiv:1907.12205
+ID  - ref34
+ER  - 
+TY  - STD
+TI  - Shafahi A, Huang WR, Najibi M, Suciu O, Studer C, Dumitras T, Goldstein T (2018) Poison frogs! targeted clean-label poisoning attacks on neural networks. Preprint. arXiv:1804.00792
+ID  - ref35
+ER  - 
+TY  - STD
+TI  - Shah D, Dube P, Chakraborty S, Verma A (2021) Adversarial training in communication constrained federated learning. Preprint. arXiv:2103.01319
+ID  - ref36
+ER  - 
+TY  - JOUR
+AU  - Shen, L.
+AU  - Margolies, L. R.
+AU  - Rothstein, J. H.
+AU  - Fluder, E.
+AU  - McBride, R.
+AU  - Sieh, W.
+PY  - 2019
+DA  - 2019//
+TI  - Deep learning to improve breast cancer detection on screening mammography
+JO  - Sci Rep
+VL  - 9
+UR  - https://doi.org/10.1038/s41598-018-37186-2
+DO  - 10.1038/s41598-018-37186-2
+ID  - Shen2019
+ER  - 
+TY  - STD
+TI  - Sohn Jy, Han DJ, Choi B, Moon J (2019) Election coding for distributed learning: Protecting signSGD against byzantine attacks. Preprint. arXiv:1910.06093
+ID  - ref38
+ER  - 
+TY  - STD
+TI  - Sun Z, Kairouz P, Suresh AT, McMahan HB (2019) Can you really backdoor federated learning? Preprint. arXiv:1911.07963
+ID  - ref39
+ER  - 
+TY  - STD
+TI  - Szegedy C, Zaremba W, Sutskever I, Bruna J, Erhan D, Goodfellow IJ, Fergus R (2014) Intriguing properties of neural networks. In: Bengio Y, LeCun Y (eds) 2nd International conference on learning representations, ICLR 2014, Banff, AB, April 14–16, 2014, Conference Track Proceedings. http://arxiv.org/abs/1312.6199
+UR  - http://arxiv.org/abs/1312.6199
+ID  - ref40
+ER  - 
+TY  - STD
+TI  - Tolpegin V, Truex S, Gursoy ME, Liu L (2020) Data poisoning attacks against federated learning systems. In: European symposium on research in computer security. Springer, pp 480–501
+ID  - ref41
+ER  - 
+TY  - STD
+TI  - Varma K, Zhou Y, Baracaldo N, Anwar A (2021) Legato: A layerwise gradient aggregation algorithm for mitigating byzantine attacks in federated learning. In: 2021 IEEE 14th international conference on cloud computing (CLOUD)
+ID  - ref42
+ER  - 
+TY  - STD
+TI  - Wang H, Sreenivasan K, Rajput S, Vishwakarma H, Agarwal S, Sohn Jy, Lee K, Papailiopoulos D (2020) Attack of the tails: Yes, you really can backdoor federated learning. Preprint. arXiv:2007.05084
+ID  - ref43
+ER  - 
+TY  - STD
+TI  - Xiao H, Xiao H, Eckert C (2012) Adversarial label flips attack on support vector machines. In: Raedt LD, Bessiere C, Dubois D, Doherty P, Frasconi P, Heintz F, Lucas PJF (eds) ECAI 2012 - 20th European conference on artificial intelligence. Including prestigious applications of artificial intelligence (PAIS-2012) System demonstrations track, Montpellier, August 27–31, 2012, Frontiers in artificial intelligence and applications, vol 242. IOS Press, pp 870–875
+ID  - ref44
+ER  - 
+TY  - STD
+TI  - Xie C, Koyejo O, Gupta I (2018) Generalized byzantine-tolerant SGD. Preprint. arXiv:1802.10116
+ID  - ref45
+ER  - 
+TY  - STD
+TI  - Xie C, Huang K, Chen PY, Li B (2019) Dba: Distributed backdoor attacks against federated learning. In: International conference on learning representations
+ID  - ref46
+ER  - 
+TY  - STD
+TI  - Xie C, Koyejo O, Gupta I (2019) Fall of empires: Breaking byzantine-tolerant SGD by inner product manipulation. In: Globerson A, Silva R (eds) Proceedings of the thirty-fifth conference on uncertainty in artificial intelligence, UAI 2019, Tel Aviv, Israel, July 22–25, 2019. AUAI Press, p 83. http://auai.org/uai2019/proceedings/papers/83.pdf
+UR  - http://auai.org/uai2019/proceedings/papers/83.pdf
+ID  - ref47
+ER  - 
+TY  - STD
+TI  - Xie C, Koyejo S, Gupta I (2019) Zeno: Distributed stochastic gradient descent with suspicion-based fault-tolerance. In: International conference on machine learning. PMLR, pp 6893–6901
+ID  - ref48
+ER  - 
+TY  - STD
+TI  - Yin D, Chen Y, Ramchandran K, Bartlett P (2018) Byzantine-robust distributed learning: Towards optimal statistical rates. Preprint. arXiv:1803.01498
+ID  - ref49
+ER  - 
+TY  - STD
+TI  - Zizzo G, Rawat A, Sinn M, Buesser B (2020) Fat: Federated adversarial training. Preprint. arXiv:2012.01791
+ID  - ref50
+ER  - 

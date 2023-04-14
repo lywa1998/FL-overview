@@ -1,0 +1,342 @@
+TY  - JOUR
+AU  - Agueh, M.
+AU  - Carlier, G.
+PY  - 2011
+DA  - 2011//
+TI  - Barycenters in the Wasserstein space
+JO  - SIAM J Math Anal
+VL  - 43
+UR  - https://doi.org/10.1137/100805741
+DO  - 10.1137/100805741
+ID  - Agueh2011
+ER  - 
+TY  - JOUR
+AU  - Banerjee, A.
+AU  - Dhillon, I. S.
+AU  - Ghosh, J.
+AU  - Sra, S.
+PY  - 2005
+DA  - 2005//
+TI  - Clustering on the unit hypersphere using von Mises-Fisher distributions
+JO  - J Mach Learn Res
+VL  - 6
+ID  - Banerjee2005
+ER  - 
+TY  - JOUR
+AU  - Bardenet, R.
+AU  - Doucet, A.
+AU  - Holmes, C.
+PY  - 2017
+DA  - 2017//
+TI  - On Markov chain Monte Carlo methods for tall data
+JO  - J Mach Learn Res
+VL  - 18
+ID  - Bardenet2017
+ER  - 
+TY  - STD
+TI  - Betancourt M (2017) A conceptual introduction to Hamiltonian Monte Carlo. arXiv preprint arXiv:170102434
+ID  - ref4
+ER  - 
+TY  - BOOK
+AU  - Bishop, C. M.
+PY  - 2006
+DA  - 2006//
+TI  - Pattern recognition and machine learning
+PB  - Springer
+CY  - New York
+ID  - Bishop2006
+ER  - 
+TY  - JOUR
+AU  - Blei, D. M.
+AU  - Jordan, M. I.
+PY  - 2006
+DA  - 2006//
+TI  - Variational inference for Dirichlet process mixtures
+JO  - Bayesian Anal
+VL  - 1
+UR  - https://doi.org/10.1214/06-BA104
+DO  - 10.1214/06-BA104
+ID  - Blei2006
+ER  - 
+TY  - JOUR
+AU  - Blei, D. M.
+AU  - Kucukelbir, A.
+AU  - McAuliffe, J. D.
+PY  - 2017
+DA  - 2017//
+TI  - Variational inference: a review for statisticians
+JO  - J Am Stat Assoc
+VL  - 112
+UR  - https://doi.org/10.1080/01621459.2017.1285773
+DO  - 10.1080/01621459.2017.1285773
+ID  - Blei2017
+ER  - 
+TY  - JOUR
+AU  - Breiman, L.
+PY  - 2001
+DA  - 2001//
+TI  - Random forests
+JO  - Mach Learn
+VL  - 45
+UR  - https://doi.org/10.1023/A:1010933404324
+DO  - 10.1023/A:1010933404324
+ID  - Breiman2001
+ER  - 
+TY  - STD
+TI  - Broderick T, Boyd N, Wibisono A, Wilson AC, Jordan MI (2013) Streaming variational Bayes. In: Advances in neural information processing systems
+ID  - ref9
+ER  - 
+TY  - STD
+TI  - Bui TD, Nguyen CV, Swaroop S, Turner RE (2018) Partitioned variational inference: a unified framework encompassing federated and continual learning. arXiv preprint arXiv:181111206
+ID  - ref10
+ER  - 
+TY  - STD
+TI  - Campbell T, How JP (2014) Approximate decentralized Bayesian inference. arXiv:14037471
+ID  - ref11
+ER  - 
+TY  - STD
+TI  - Carli FP, Ning L, Georgiou TT (2013) Convex clustering via optimal mass transport. arXiv:13075459
+ID  - ref12
+ER  - 
+TY  - JOUR
+AU  - Carpenter, B.
+AU  - Gelman, A.
+AU  - Hoffman, M.
+AU  - Lee, D.
+AU  - Goodrich, B.
+AU  - Betancourt, M.
+AU  - Brubaker, M. A.
+AU  - Guo, J.
+AU  - Li, P.
+AU  - Riddell, A.
+PY  - 2017
+DA  - 2017//
+TI  - Stan: a probabilistic programming language
+JO  - J Stat Softw
+VL  - 76
+UR  - https://doi.org/10.18637/jss.v076.i01
+DO  - 10.18637/jss.v076.i01
+ID  - Carpenter2017
+ER  - 
+TY  - STD
+TI  - Claici S, Yurochkin M, Ghosh S, Solomon J (2020) Model fusion with Kullback-Leibler divergence. In: International conference on machine learning
+ID  - ref14
+ER  - 
+TY  - STD
+TI  - Cooper Y (2018) The loss landscape of overparameterized neural networks. arXiv preprint arXiv:180410200
+ID  - ref15
+ER  - 
+TY  - STD
+TI  - Das R, Zaheer M, Dyer C (2015) Gaussian LDA for topic models with word embeddings. In: Proceedings of the 53rd annual meeting of the association for computational linguistics and the 7th international joint conference on natural language processing (Volume 1: Long Papers)
+ID  - ref16
+ER  - 
+TY  - STD
+TI  - Dietterich TG (2000) Ensemble methods in machine learning. In: International workshop on multiple classifier systems
+ID  - ref17
+ER  - 
+TY  - STD
+TI  - Draxler F, Veschgini K, Salmhofer M, Hamprecht F (2018) Essentially no barriers in neural network energy landscape. In: International conference on machine learning
+ID  - ref18
+ER  - 
+TY  - STD
+TI  - EU (2016) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation). Official Journal of the European Union
+ID  - ref19
+ER  - 
+TY  - JOUR
+AU  - Ferguson, T. S.
+PY  - 1973
+DA  - 1973//
+TI  - A Bayesian analysis of some nonparametric problems
+JO  - Ann Stat
+VL  - 1
+UR  - https://doi.org/10.1214/aos/1176342360
+DO  - 10.1214/aos/1176342360
+ID  - Ferguson1973
+ER  - 
+TY  - STD
+TI  - Garipov T, Izmailov P, Podoprikhin D, Vetrov D, Wilson AG (2018) Loss surfaces, mode connectivity, and fast ensembling of DNNs. arXiv preprint arXiv:180210026
+ID  - ref21
+ER  - 
+TY  - STD
+TI  - Ghahramani Z, Griffiths TL (2005) Infinite latent feature models and the Indian buffet process. In: Advances in neural information processing systems
+ID  - ref22
+ER  - 
+TY  - BOOK
+AU  - Gromov, M.
+AU  - Katz, M.
+AU  - Pansu, P.
+AU  - Semmes, S.
+PY  - 1999
+DA  - 1999//
+TI  - Metric structures for Riemannian and non-Riemannian spaces
+PB  - Birkhäuser
+CY  - Boston
+ID  - Gromov1999
+ER  - 
+TY  - JOUR
+AU  - Hasenclever, L.
+AU  - Webb, S.
+AU  - Lienart, T.
+AU  - Vollmer, S.
+AU  - Lakshminarayanan, B.
+AU  - Blundell, C.
+AU  - Teh, Y. W.
+PY  - 2017
+DA  - 2017//
+TI  - Distributed Bayesian learning with stochastic natural gradient expectation propagation and the posterior server
+JO  - J Mach Learn Res
+VL  - 18
+ID  - Hasenclever2017
+ER  - 
+TY  - JOUR
+AU  - Hochreiter, S.
+AU  - Schmidhuber, J.
+PY  - 1997
+DA  - 1997//
+TI  - Long short-term memory
+JO  - Neural Comput
+VL  - 9
+UR  - https://doi.org/10.1162/neco.1997.9.8.1735
+DO  - 10.1162/neco.1997.9.8.1735
+ID  - Hochreiter1997
+ER  - 
+TY  - STD
+TI  - Hsu TMH, Qi H, Brown M (2019) Measuring the effects of non-identical data distribution for federated visual classification. arXiv preprint arXiv:190906335
+ID  - ref26
+ER  - 
+TY  - JOUR
+AU  - Jordan, M. I.
+AU  - Ghahramani, Z.
+AU  - Jaakkola, T. S.
+AU  - Saul, L. K.
+PY  - 1999
+DA  - 1999//
+TI  - An introduction to variational methods for graphical models
+JO  - Mach Learn
+VL  - 37
+UR  - https://doi.org/10.1023/A:1007665907178
+DO  - 10.1023/A:1007665907178
+ID  - Jordan1999
+ER  - 
+TY  - JOUR
+AU  - Kuhn, H. W.
+PY  - 1955
+DA  - 1955//
+TI  - The Hungarian method for the assignment problem
+JO  - Nav Res Logist (NRL)
+VL  - 2
+UR  - https://doi.org/10.1002/nav.3800020109
+DO  - 10.1002/nav.3800020109
+ID  - Kuhn1955
+ER  - 
+TY  - STD
+TI  - LeCun Y, Bottou L, Bengio Y, Haffner P et al (1998) Gradient-based learning applied to document recognition. In: Proceedings of the IEEE
+ID  - ref29
+ER  - 
+TY  - STD
+TI  - Li H, Xu Z, Taylor G, Studer C, Goldstein T (2017) Visualizing the loss landscape of neural nets. arXiv preprint arXiv:171209913
+ID  - ref30
+ER  - 
+TY  - JOUR
+AU  - Lloyd, S.
+PY  - 1982
+DA  - 1982//
+TI  - Least squares quantization in PCM
+JO  - IEEE Trans Inf Theory
+VL  - 28
+UR  - https://doi.org/10.1109/TIT.1982.1056489
+DO  - 10.1109/TIT.1982.1056489
+ID  - Lloyd1982
+ER  - 
+TY  - JOUR
+AU  - Loiola, E. M.
+AU  - Abreu, N. M. M.
+AU  - Boaventura-Netto, P. O.
+AU  - Hahn, P.
+AU  - Querido, T.
+PY  - 2007
+DA  - 2007//
+TI  - A survey for the quadratic assignment problem
+JO  - Eur J Oper Res
+VL  - 176
+UR  - https://doi.org/10.1016/j.ejor.2005.09.032
+DO  - 10.1016/j.ejor.2005.09.032
+ID  - Loiola2007
+ER  - 
+TY  - STD
+TI  - Ludwig H, Baracaldo N, Thomas G, Zhou Y, Anwar A, Rajamoni S, Ong Y, Radhakrishnan J, Verma A, Sinn M et al (2020) IBM federated learning: an enterprise framework white paper v0. 1. arXiv preprint arXiv:200710987
+ID  - ref33
+ER  - 
+TY  - STD
+TI  - McMahan B, Moore E, Ramage D, Hampson S, y Arcas BA (2017) Communication-efficient learning of deep networks from decentralized data. In: Artificial intelligence and statistics
+ID  - ref34
+ER  - 
+TY  - STD
+TI  - Minka TP (2001) Expectation propagation for approximate Bayesian inference. In: Conference on uncertainty in artificial intelligence
+ID  - ref35
+ER  - 
+TY  - STD
+TI  - Neal RM (2012) Bayesian learning for neural networks. Springer Science & Business Media, Berlin/Heidelberg
+ID  - ref36
+ER  - 
+TY  - JOUR
+AU  - Neal, R. M.
+PY  - 2011
+DA  - 2011//
+TI  - MCMC using Hamiltonian dynamics
+JO  - Handb Markov Chain Monte Carlo
+VL  - 2
+ID  - Neal2011
+ER  - 
+TY  - STD
+TI  - Opper M (1998) A Bayesian approach to on-line learning. On-line Learning in Neural Networks
+ID  - ref38
+ER  - 
+TY  - STD
+TI  - Peyré G, Cuturi M, Solomon J (2016) Gromov-Wasserstein averaging of kernel and distance matrices. In: International conference on machine learning
+ID  - ref39
+ER  - 
+TY  - STD
+TI  - Sahu AK, Li T, Sanjabi M, Zaheer M, Talwalkar A, Smith V (2018) On the convergence of federated optimization in heterogeneous networks. arXiv preprint arXiv:181206127
+ID  - ref40
+ER  - 
+TY  - STD
+TI  - Simonyan K, Zisserman A (2014) Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:14091556
+ID  - ref41
+ER  - 
+TY  - STD
+TI  - Singh SP, Jaggi M (2019) Model fusion via optimal transport. arXiv preprint arXiv:191005653
+ID  - ref42
+ER  - 
+TY  - STD
+TI  - Srivastava S, Cevher V, Dinh Q, Dunson D (2015) Wasp: scalable Bayes via barycenters of subset posteriors. In: Artificial intelligence and statistics
+ID  - ref43
+ER  - 
+TY  - STD
+TI  - Teh YW, Grür D, Ghahramani Z (2007) Stick-breaking construction for the Indian buffet process. In: Artificial intelligence and statistics
+ID  - ref44
+ER  - 
+TY  - STD
+TI  - Thibaux R, Jordan MI (2007) Hierarchical Beta processes and the Indian buffet process. In: Artificial intelligence and statistics
+ID  - ref45
+ER  - 
+TY  - STD
+TI  - Wainwright MJ, Jordan MI et al (2008) Graphical models, exponential families, and variational inference. Found Trends® Mach Learn 1:1–305
+ID  - ref46
+ER  - 
+TY  - STD
+TI  - Wang H, Yurochkin M, Sun Y, Papailiopoulos D, Khazaeni Y (2020) Federated learning with matched averaging. In: International conference on learning representations
+ID  - ref47
+ER  - 
+TY  - STD
+TI  - Yurochkin M, Agarwal M, Ghosh S, Greenewald K, Hoang N (2019) Statistical model aggregation via parameter matching. In: Advances in neural information processing systems
+ID  - ref48
+ER  - 
+TY  - STD
+TI  - Yurochkin M, Agarwal M, Ghosh S, Greenewald K, Hoang N, Khazaeni Y (2019) Bayesian nonparametric federated learning of neural networks. In: International conference on machine learning
+ID  - ref49
+ER  - 
+TY  - STD
+TI  - Yurochkin M, Fan Z, Guha A, Koutris P, Nguyen X (2019) Scalable inference of topic evolution via models for latent geometric structures. In: Advances in neural information processing systems
+ID  - ref50
+ER  - 

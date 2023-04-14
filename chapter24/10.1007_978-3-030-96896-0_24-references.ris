@@ -1,0 +1,250 @@
+TY  - JOUR
+AU  - Goldberg, D.
+AU  - Nichols, D.
+AU  - Oki, B. M.
+AU  - Terry, D.
+PY  - 1992
+DA  - 1992//
+TI  - Using collaborative filtering to weave an information tapestry
+JO  - Commun ACM
+VL  - 35
+UR  - https://doi.org/10.1145/138859.138867
+DO  - 10.1145/138859.138867
+ID  - Goldberg1992
+ER  - 
+TY  - JOUR
+AU  - Xu, Y.
+AU  - Yin, J.
+PY  - 2015
+DA  - 2015//
+TI  - Collaborative recommendation with user generated content
+JO  - Eng Appl Artif Intell
+VL  - 45
+UR  - https://doi.org/10.1016/j.engappai.2015.07.012
+DO  - 10.1016/j.engappai.2015.07.012
+ID  - Xu2015
+ER  - 
+TY  - BOOK
+AU  - Felfernig, A.
+AU  - Boratto, L.
+AU  - Stettinger, M.
+AU  - Tkalčič, M.
+PY  - 2018
+DA  - 2018//
+TI  - Group recommender systems: an introduction
+PB  - Springer
+UR  - https://doi.org/10.1007/978-3-319-75067-5
+DO  - 10.1007/978-3-319-75067-5
+ID  - Felfernig2018
+ER  - 
+TY  - JOUR
+AU  - Villegas, N. M.
+AU  - Sánchez, C.
+AU  - Díaz-Cely, J.
+AU  - Tamura, G.
+PY  - 2018
+DA  - 2018//
+TI  - Characterizing context-aware recommender systems: a systematic literature review
+JO  - Knowl-Based Syst
+VL  - 140
+UR  - https://doi.org/10.1016/j.knosys.2017.11.003
+DO  - 10.1016/j.knosys.2017.11.003
+ID  - Villegas2018
+ER  - 
+TY  - CHAP
+AU  - Adomavicius, G.
+AU  - Tuzhilin, A.
+PY  - 2011
+DA  - 2011//
+TI  - Context-aware recommender systems
+BT  - Recommender systems handbook
+PB  - Springer
+CY  - Boston, MA
+UR  - https://doi.org/10.1007/978-0-387-85820-3_7
+DO  - 10.1007/978-0-387-85820-3_7
+ID  - Adomavicius2011
+ER  - 
+TY  - BOOK
+AU  - Ricci, F.
+AU  - Rokach, L.
+AU  - Shapira, B.
+AU  - Kantor, P. B.
+PY  - 2011
+DA  - 2011//
+TI  - Recommender systems handbook
+PB  - Springer
+UR  - https://doi.org/10.1007/978-0-387-85820-3
+DO  - 10.1007/978-0-387-85820-3
+ID  - Ricci2011
+ER  - 
+TY  - JOUR
+AU  - Sriharsha Dara, C.
+PY  - 2020
+DA  - 2020//
+TI  - Ravindranath Chowdary, “a survey on group recommender systems”
+JO  - J Intell Inf Syst
+VL  - 54
+UR  - https://doi.org/10.1007/s10844-018-0542-3
+DO  - 10.1007/s10844-018-0542-3
+ID  - Sriharsha Dara2020
+ER  - 
+TY  - JOUR
+AU  - Zhang, S.
+AU  - Yao, L.
+AU  - Sun, A.
+AU  - Tay, Y.
+PY  - 2019
+DA  - 2019//
+TI  - Deep learning based recommender system: a survey and new perspectives
+JO  - ACM Comput Surv (CSUR)
+VL  - 52
+UR  - https://doi.org/10.1145/3158369
+DO  - 10.1145/3158369
+ID  - Zhang2019
+ER  - 
+TY  - STD
+TI  - Khan ZY, Niu Z, Sandiwarno S, Prince R (2020) Deep learning techniques for rating prediction: a survey of the state-of-the-art. Artif Intell Rev:1–41
+ID  - ref9
+ER  - 
+TY  - STD
+TI  - https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en, Retrieved Feb, 19, 2021
+UR  - https://ec.europa.eu/info/law/law-topic/data-protection/data-protection-eu_en
+ID  - ref10
+ER  - 
+TY  - CHAP
+AU  - Zhao, Z. -. D.
+AU  - Shang, M. -. S.
+PY  - 2010
+DA  - 2010//
+TI  - User-based collaborative-filtering recommendation algorithms on Hadoop
+BT  - 2010 third international conference on knowledge discovery and data mining
+PB  - IEEE
+UR  - https://doi.org/10.1109/WKDD.2010.54
+DO  - 10.1109/WKDD.2010.54
+ID  - Zhao2010
+ER  - 
+TY  - JOUR
+AU  - Dahdouh, K.
+AU  - Dakkak, A.
+AU  - Oughdir, L.
+AU  - Ibriz, A.
+PY  - 2019
+DA  - 2019//
+TI  - Large-scale e-learning recommender system based on spark and Hadoop
+JO  - J Big Data
+VL  - 6
+UR  - https://doi.org/10.1186/s40537-019-0169-4
+DO  - 10.1186/s40537-019-0169-4
+ID  - Dahdouh2019
+ER  - 
+TY  - STD
+TI  - Jakub K, Brendan McMahan H, Ramage D, Richtárik P (2016) Federated optimization: distributed machine learning for on-device intelligence. arXiv preprint arXiv:1610.02527
+ID  - ref13
+ER  - 
+TY  - STD
+TI  - Ludwig H, Baracaldo N, Thomas G, Zhou Y, Anwar A, Rajamoni S, Ong Y et al (2020) IBM federated learning: an enterprise framework white paper v0.1. arXiv preprint arXiv:2007.10987
+ID  - ref14
+ER  - 
+TY  - JOUR
+AU  - Rodríguez-Barroso, N.
+AU  - Stipcich, G.
+AU  - Jiménez-López, D.
+AU  - Ruiz-Millán, J. A.
+AU  - Martínez-Cámara, E.
+AU  - González-Seco, G.
+AU  - Victoria Luzón, M.
+AU  - Veganzones, M. A.
+AU  - Herrera, F.
+PY  - 2020
+DA  - 2020//
+TI  - Federated Learning and Differential Privacy: software tools analysis, the Sherpa. ai FL framework and methodological guidelines for preserving data privacy
+JO  - Inform Fusion
+VL  - 64
+UR  - https://doi.org/10.1016/j.inffus.2020.07.009
+DO  - 10.1016/j.inffus.2020.07.009
+ID  - Rodríguez-Barroso2020
+ER  - 
+TY  - STD
+TI  - https://github.com/IBM/differential-privacy-library
+UR  - https://github.com/IBM/differential-privacy-library
+ID  - ref16
+ER  - 
+TY  - JOUR
+AU  - Yang, Q.
+AU  - Liu, Y.
+AU  - Chen, T.
+AU  - Tong, Y.
+PY  - 2019
+DA  - 2019//
+TI  - Federated machine learning: concept and applications
+JO  - ACM Trans Intell Syst Technol (TIST)
+VL  - 10
+UR  - https://doi.org/10.1145/3298981
+DO  - 10.1145/3298981
+ID  - Yang2019
+ER  - 
+TY  - STD
+TI  - Sheller M, Cornelius C, Martin J, Huang Y, Wang S-H  Methods and apparatus for federated training of a neural network using trusted edge devices. Intel Corp. https://patents.google.com/patent/US20190042937A1
+UR  - https://patents.google.com/patent/US20190042937A1
+ID  - ref18
+ER  - 
+TY  - STD
+TI  - Alistarh D, Allen-Zhu Z, Li J (2018) Byzantine stochastic gradient descent. arXiv preprint arXiv:1803.08917
+ID  - ref19
+ER  - 
+TY  - BOOK
+AU  - Hugh, B. M.
+AU  - David, M. B.
+AU  - Jakub, K.
+AU  - Xinna, Y.
+PY  - 2020
+DA  - 2020//
+TI  - Efficient communication among agents
+PB  - Google, LLC
+ID  - Hugh2020
+ER  - 
+TY  - STD
+TI  - Ammad-Ud-Din M, Ivannikova E, Khan SA, Oyomno W, Fu Q, Tan KE, Flanagan A (2019) Federated collaborative filtering for privacy-preserving personalized recommendation system. arXiv preprint arXiv:1901.09888
+ID  - ref21
+ER  - 
+TY  - CHAP
+AU  - Qi, T.
+AU  - Wu, F.
+AU  - Wu, C.
+AU  - Huang, Y.
+AU  - Xie, X.
+PY  - 2020
+DA  - 2020//
+TI  - Privacy-preserving news recommendation model learning
+BT  - Proceedings of the 2020 conference on empirical methods in natural language processing: findings
+ID  - Qi2020
+ER  - 
+TY  - CHAP
+AU  - Sculley, D.
+PY  - 2010
+DA  - 2010//
+TI  - Web scale K-means clustering
+BT  - Proceedings of the 19th international conference on world wide web
+ID  - Sculley2010
+ER  - 
+TY  - CHAP
+AU  - Ning, X.
+AU  - Karypis, G.
+PY  - 2011
+DA  - 2011//
+TI  - Slim: sparse linear methods for top-n recommender systems
+BT  - 2011 IEEE 11th international conference on data mining
+PB  - IEEE
+UR  - https://doi.org/10.1109/ICDM.2011.134
+DO  - 10.1109/ICDM.2011.134
+ID  - Ning2011
+ER  - 
+TY  - STD
+TI  - Bentley JL (1975) Multidimensional binary search trees used for associative searching (KD-tree). Commun ACM 18(9)
+ID  - ref25
+ER  - 
+TY  - STD
+TI  - https://github.com/IBM/federated-learning-lib
+UR  - https://github.com/IBM/federated-learning-lib
+ID  - ref26
+ER  - 

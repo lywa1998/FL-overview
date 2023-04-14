@@ -1,0 +1,360 @@
+TY  - STD
+TI  - Amir S, Wallace BC, Lyu H, Silva PCMJ (2016) Modelling context with user embeddings for sarcasm detection in social media. arXiv preprint arXiv:160700976
+ID  - ref1
+ER  - 
+TY  - STD
+TI  - Ammad-Ud-Din M, Ivannikova E, Khan SA, Oyomno W, Fu Q, Tan KE, Flanagan A (2019) Federated collaborative filtering for privacy-preserving personalized recommendation system. arXiv preprint arXiv:190109888
+ID  - ref2
+ER  - 
+TY  - STD
+TI  - Arivazhagan MG, Aggarwal V, Singh AK, Choudhary S (2019) Federated learning with personalization layers. arXiv preprint arXiv:191200818
+ID  - ref3
+ER  - 
+TY  - JOUR
+AU  - Baxter, J.
+PY  - 2000
+DA  - 2000//
+TI  - A model of inductive bias learning
+JO  - J Artif Intell Res
+VL  - 12
+UR  - https://doi.org/10.1613/jair.731
+DO  - 10.1613/jair.731
+ID  - Baxter2000
+ER  - 
+TY  - STD
+TI  - Bui D, Malik K, Goetz J, Liu H, Moon S, Kumar A, Shin KG (2019) Federated user representation learning. arXiv preprint arXiv:190912535
+ID  - ref5
+ER  - 
+TY  - STD
+TI  - Caldas S, Duddu SMK, Wu P, Li T, Konečnỳ J, McMahan HB, Smith V, Talwalkar A (2018) Leaf: a benchmark for federated settings. arXiv preprint arXiv:181201097
+ID  - ref6
+ER  - 
+TY  - JOUR
+AU  - Caruana, R.
+PY  - 1997
+DA  - 1997//
+TI  - Multitask learning
+JO  - Mach Learn
+VL  - 28
+UR  - https://doi.org/10.1023/A:1007379606734
+DO  - 10.1023/A:1007379606734
+ID  - Caruana1997
+ER  - 
+TY  - JOUR
+AU  - Chawla, N. V.
+AU  - Bowyer, K. W.
+AU  - Hall, L. O.
+AU  - Kegelmeyer, W. P.
+PY  - 2002
+DA  - 2002//
+TI  - Smote: synthetic minority over-sampling technique
+JO  - J Artif Intell Res
+VL  - 16
+UR  - https://doi.org/10.1613/jair.953
+DO  - 10.1613/jair.953
+ID  - Chawla2002
+ER  - 
+TY  - STD
+TI  - Chen F, Luo M, Dong Z, Li Z, He X (2018) Federated meta-learning with fast convergence and efficient communication. arXiv preprint arXiv:180207876
+ID  - ref9
+ER  - 
+TY  - STD
+TI  - Chen M, Suresh AT, Mathews R, Wong A, Allauzen C, Beaufays F, Riley M (2019) Federated learning of n-gram language models. In: Proceedings of the 23rd conference on computational natural language learning (CoNLL), pp 121–130
+ID  - ref10
+ER  - 
+TY  - STD
+TI  - Cheng Y, Wang D, Zhou P, Zhang T (2017) A survey of model compression and acceleration for deep neural networks. arXiv preprint arXiv:171009282
+ID  - ref11
+ER  - 
+TY  - STD
+TI  - Chernozhukov V, Chetverikov D, Demirer M, Duflo E, Hansen C, Newey W, Robins J (2017) Double/debiased machine learning for treatment and causal parameters. arXiv:160800060 [econ, stat] 1608.00060
+ID  - ref12
+ER  - 
+TY  - STD
+TI  - Cohen G, Afshar S, Tapson J, Van Schaik A (2017) EMNIST: extending MNIST to handwritten letters. In: 2017 international joint conference on neural networks (IJCNN). IEEE, pp 2921–2926
+ID  - ref13
+ER  - 
+TY  - STD
+TI  - Corinzia L, Beuret, A, Buhmann JM (2019) Variational federated multi-task learning. arXiv preprint arXiv:190606268
+ID  - ref14
+ER  - 
+TY  - STD
+TI  - Deng Y, Kamani MM, Mahdavi M (2020) Adaptive personalized federated learning. arXiv preprint arXiv:200313461
+ID  - ref15
+ER  - 
+TY  - STD
+TI  - Dinh CT, Tran NH, Nguyen TD (2020) Personalized federated learning with Moreau envelopes. arXiv preprint arXiv:200608848
+ID  - ref16
+ER  - 
+TY  - STD
+TI  - Fallah A, Mokhtari A, Ozdaglar A (2020) Personalized federated learning: a meta-learning approach. arXiv preprint arXiv:200207948
+ID  - ref17
+ER  - 
+TY  - STD
+TI  - Finn C, Abbeel P, Levine S (2017) Model-agnostic meta-learning for fast adaptation of deep networks. In: International conference on machine learning. PMLR, pp 1126–1135
+ID  - ref18
+ER  - 
+TY  - STD
+TI  - Ghosh A, Hong J, Yin D, Ramchandran K (2019) Robust federated learning in a heterogeneous environment. arXiv preprint arXiv:190606629
+ID  - ref19
+ER  - 
+TY  - STD
+TI  - Ghosh A, Chung J, Yin D, Ramchandran K (2020) An efficient framework for clustered federated learning. arXiv preprint arXiv:200604088
+ID  - ref20
+ER  - 
+TY  - STD
+TI  - Gou J, Yu B, Maybank SJ, Tao D (2020) Knowledge distillation: a survey. arXiv preprint arXiv:200605525
+ID  - ref21
+ER  - 
+TY  - STD
+TI  - Grbovic M, Cheng H (2018) Real-time personalization using embeddings for search ranking at Airbnb. In: Proceedings of the 24th ACM SIGKDD international conference on knowledge discovery & data mining, pp 311–320
+ID  - ref22
+ER  - 
+TY  - STD
+TI  - Hanzely F, Richtárik P (2020) Federated learning of a mixture of global and local models. arXiv preprint arXiv:200205516
+ID  - ref23
+ER  - 
+TY  - STD
+TI  - Hinton G, Vinyals O, Dean J (2015) Distilling the knowledge in a neural network. arXiv preprint arXiv:150302531
+ID  - ref24
+ER  - 
+TY  - STD
+TI  - Hospedales T, Antoniou A, Micaelli P, Storkey A (2020) Meta-learning in neural networks: a survey. arXiv preprint arXiv:200405439
+ID  - ref25
+ER  - 
+TY  - JOUR
+AU  - Huang, Y.
+AU  - Chu, L.
+AU  - Zhou, Z.
+AU  - Wang, L.
+AU  - Liu, J.
+AU  - Pei, J.
+AU  - Zhang, Y.
+PY  - 2021
+DA  - 2021//
+TI  - Personalized cross-silo federated learning on non-IID data
+JO  - Proceedings of the AAAI conference on artificial intelligence, vol
+VL  - 35
+ID  - Huang2021
+ER  - 
+TY  - STD
+TI  - Jaech A, Ostendorf M (2018) Personalized language model for query auto-completion. arXiv preprint arXiv:180409661
+ID  - ref27
+ER  - 
+TY  - STD
+TI  - Jeong E, Oh S, Kim H, Park J, Bennis M, Kim SL (2018) Communication-efficient on-device machine learning: federated distillation and augmentation under non-IID private data. arXiv preprint arXiv:181111479
+ID  - ref28
+ER  - 
+TY  - STD
+TI  - Jiang Y, Konečnỳ J, Rush K, Kannan S (2019) Improving federated learning personalization via model agnostic meta learning. arXiv preprint arXiv:190912488
+ID  - ref29
+ER  - 
+TY  - JOUR
+AU  - Johnson, A. E.
+AU  - Pollard, T. J.
+AU  - Shen, L.
+AU  - Li-Wei, H. L.
+AU  - Feng, M.
+AU  - Ghassemi, M.
+AU  - Moody, B.
+AU  - Szolovits, P.
+AU  - Celi, L. A.
+AU  - Mark, R. G.
+PY  - 2016
+DA  - 2016//
+TI  - MIMIC-III, a freely accessible critical care database
+JO  - Sci Data
+VL  - 3
+UR  - https://doi.org/10.1038/sdata.2016.35
+DO  - 10.1038/sdata.2016.35
+ID  - Johnson2016
+ER  - 
+TY  - STD
+TI  - Khodak M, Balcan MF, Talwalkar A (2019) Adaptive gradient-based meta-learning methods. arXiv preprint arXiv:190602717
+ID  - ref31
+ER  - 
+TY  - STD
+TI  - Krizhevsky A, Hinton G et al (2009) Learning multiple layers of features from tiny images
+ID  - ref32
+ER  - 
+TY  - JOUR
+AU  - Lancaster, T.
+PY  - 2000
+DA  - 2000//
+TI  - The incidental parameter problem since 1948
+JO  - J Econ
+VL  - 95
+UR  - https://doi.org/10.1016/S0304-4076(99)00044-5
+DO  - 10.1016/S0304-4076(99)00044-5
+ID  - Lancaster2000
+ER  - 
+TY  - STD
+TI  - Li D, Wang J (2019) FedMD: Heterogenous federated learning via model distillation. arXiv preprint arXiv:191003581
+ID  - ref34
+ER  - 
+TY  - STD
+TI  - Liang PP, Liu T, Ziyin L, Allen NB, Auerbach RP, Brent D, Salakhutdinov R, Morency LP (2020) Think locally, act globally: federated learning with local and global representations. arXiv preprint arXiv:200101523
+ID  - ref35
+ER  - 
+TY  - STD
+TI  - Mansour Y, Mohri M, Ro J, Suresh AT (2020) Three approaches for personalization with applications to federated learning. arXiv preprint arXiv:200210619
+ID  - ref36
+ER  - 
+TY  - STD
+TI  - Mariani G, Scheidegger F, Istrate R, Bekas C, Malossi C (2018) BAGAN: data augmentation with balancing GAN. arXiv preprint arXiv:180309655
+ID  - ref37
+ER  - 
+TY  - STD
+TI  - McGraw I, Prabhavalkar R, Alvarez R, Arenas MG, Rao K, Rybach D, Alsharif O, Sak H, Gruenstein A, Beaufays F et al (2016) Personalized speech recognition on mobile devices. In: 2016 IEEE international conference on acoustics, speech and signal processing (ICASSP). IEEE, pp 5955–5959
+ID  - ref38
+ER  - 
+TY  - STD
+TI  - McMahan B, Moore E, Ramage D, Hampson S, y Arcas BA (2017) Communication-efficient learning of deep networks from decentralized data. In: Artificial intelligence and statistics. PMLR, pp 1273–1282
+ID  - ref39
+ER  - 
+TY  - STD
+TI  - Mikołajczyk A, Grochowski M (2018) Data augmentation for improving deep learning in image classification problem. In: 2018 international interdisciplinary PhD workshop (IIPhDW). IEEE, pp 117–122
+ID  - ref40
+ER  - 
+TY  - STD
+TI  - Minka TP (2013) Expectation propagation for approximate Bayesian inference. arXiv preprint arXiv:13012294
+ID  - ref41
+ER  - 
+TY  - JOUR
+AU  - Neyman, J.
+PY  - 1979
+DA  - 1979//
+TI  - C(α) tests and their use
+JO  - Sankhyā: Indian J Stat Ser A (1961–2002)
+VL  - 41
+ID  - Neyman1979
+ER  - 
+TY  - STD
+TI  - Nichol A, Achiam J, Schulman J (2018) On first-order meta-learning algorithms. arXiv:180302999 [cs] 1803.02999
+ID  - ref43
+ER  - 
+TY  - STD
+TI  - Peterson D, Kanani P, Marathe VJ (2019) Private federated learning with domain adaptation. arXiv preprint arXiv:191206733
+ID  - ref44
+ER  - 
+TY  - STD
+TI  - Raghu A, Raghu M, Bengio S, Vinyals O (2019) Rapid learning or feature reuse? Towards understanding the effectiveness of MAML. In: International conference on learning representations
+ID  - ref45
+ER  - 
+TY  - STD
+TI  - Ruder S (2017) An overview of multi-task learning in deep neural networks. arXiv preprint arXiv:170605098
+ID  - ref46
+ER  - 
+TY  - STD
+TI  - Sattler F, Müller KR, Samek W (2020) Clustered federated learning: model-agnostic distributed multitask optimization under privacy constraints. IEEE Trans Neural Netw Learn Syst 1–13. https://doi.org/10.1109/TNNLS.2020.3015958
+ID  - ref47
+ER  - 
+TY  - STD
+TI  - Schafer JB, Frankowski D, Herlocker J, Sen S (2007) Collaborative filtering recommender systems. In: Brusilovsky P, Kobsa A, Nejdl W (eds) The adaptive web: methods and strategies of web personalization. Springer, pp 291–324. https://doi.org/10.1007/978-3-540-72079-9_9
+UR  - https://doi.org/10.1007/978-3-540-72079-9_9
+ID  - ref48
+ER  - 
+TY  - STD
+TI  - Shamir O, Srebro N, Zhang T (2014) Communication-efficient distributed optimization using an approximate Newton-type method. In: International conference on machine learning. PMLR, pp 1000–1008
+ID  - ref49
+ER  - 
+TY  - STD
+TI  - Shen T, Zhang J, Jia X, Zhang F, Huang G, Zhou P, Wu F, Wu C (2020) Federated mutual learning. arXiv preprint arXiv:200616765
+ID  - ref50
+ER  - 
+TY  - STD
+TI  - Shin M, Hwang C, Kim J, Park J, Bennis M, Kim SL (2020) XOR mixup: privacy-preserving data augmentation for one-shot federated learning. arXiv preprint arXiv:200605148
+ID  - ref51
+ER  - 
+TY  - JOUR
+AU  - Shorten, C.
+AU  - Khoshgoftaar, T. M.
+PY  - 2019
+DA  - 2019//
+TI  - A survey on image data augmentation for deep learning
+JO  - J Big Data
+VL  - 6
+UR  - https://doi.org/10.1186/s40537-019-0197-0
+DO  - 10.1186/s40537-019-0197-0
+ID  - Shorten2019
+ER  - 
+TY  - STD
+TI  - Smith V, Chiang CK, Sanjabi M, Talwalkar A (2017) Federated multi-task learning. arXiv preprint arXiv:170510467
+ID  - ref53
+ER  - 
+TY  - CHAP
+AU  - Thrun, S.
+PY  - 1996
+DA  - 1996//
+TI  - Is learning the n-th thing any easier than learning the first?
+BT  - Advances in neural information processing systems
+PB  - Morgan Kaufmann Publishers
+CY  - San Mateo
+ID  - Thrun1996
+ER  - 
+TY  - STD
+TI  - Thrun S (1998) Lifelong learning algorithms. In: Learning to learn. Springer, Boston pp 181–209
+ID  - ref55
+ER  - 
+TY  - STD
+TI  - Vanschoren J (2018) Meta-learning: a survey. arXiv preprint arXiv:181003548
+ID  - ref56
+ER  - 
+TY  - JOUR
+AU  - Vilalta, R.
+AU  - Drissi, Y.
+PY  - 2002
+DA  - 2002//
+TI  - A perspective view and survey of meta-learning
+JO  - Artif Intell Rev
+VL  - 18
+UR  - https://doi.org/10.1023/A:1019956318069
+DO  - 10.1023/A:1019956318069
+ID  - Vilalta2002
+ER  - 
+TY  - STD
+TI  - Vu T, Nguyen DQ, Johnson M, Song D, Willis A (2017) Search personalization with embeddings. In: European conference on information retrieval. Springer, pp 598–604
+ID  - ref58
+ER  - 
+TY  - STD
+TI  - Weng L (2018) Meta-learning: learning to learn fast. lilianwenggithubio/lil-log. http://lilianweng.github.io/lil-log/2018/11/29/meta-learning.html
+UR  - http://lilianweng.github.io/lil-log/2018/11/29/meta-learning.html
+ID  - ref59
+ER  - 
+TY  - STD
+TI  - Weyand T, Araujo A, Cao B, Sim J (2020) Google Landmarks Dataset v2-a large-scale benchmark for instance-level recognition and retrieval. In: Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp 2575–2584
+ID  - ref60
+ER  - 
+TY  - STD
+TI  - Yu P, Kundu A, Wynter L, Lim SH (2021) Fed+: a unified approach to robust personalized federated learning. 2009.06303
+ID  - ref61
+ER  - 
+TY  - STD
+TI  - Yu T, Bagdasaryan E, Shmatikov V (2020) Salvaging federated learning by local adaptation. arXiv preprint arXiv:200204758
+ID  - ref62
+ER  - 
+TY  - JOUR
+AU  - Yuksel, S. E.
+AU  - Wilson, J. N.
+AU  - Gader, P. D.
+PY  - 2012
+DA  - 2012//
+TI  - Twenty years of mixture of experts
+JO  - IEEE Trans Neural Netw Learn Syst
+VL  - 23
+UR  - https://doi.org/10.1109/TNNLS.2012.2200299
+DO  - 10.1109/TNNLS.2012.2200299
+ID  - Yuksel2012
+ER  - 
+TY  - STD
+TI  - Yurochkin M, Agarwal M, Ghosh S, Greenewald K, Hoang N, Khazaeni Y (2019) Bayesian nonparametric federated learning of neural networks. In: International conference on machine learning. PMLR, pp 7252–7261
+ID  - ref64
+ER  - 
+TY  - STD
+TI  - Zhang Y, Yang Q (2017) A survey on multi-task learning. arXiv preprint arXiv:170708114
+ID  - ref65
+ER  - 
+TY  - STD
+TI  - Zhao Y, Li M, Lai L, Suda N, Civin D, Chandra V (2018) Federated learning with non-IID data. arXiv preprint arXiv:180600582
+ID  - ref66
+ER  - 
